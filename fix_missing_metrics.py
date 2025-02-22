@@ -39,11 +39,21 @@ def create_revised_description(description, unit, query):
         meal_items.append(f"{amt} {desc}")
 
     # Prepare the prompt for ChatGPT
-    prompt = f"""
-    Here is the original description: {query}
-    Please add the exact weights in grams for the following meal items without changing anything else in the description. If any meal item is missing, you may include it in the description as well: {', '.join(meal_items)}.
-    """
+    prompt = (
+        f"Here is the original description: {query}\n"
+        "Please add the exact weights in grams for the following meal items without changing anything else in the description. "
+        "If any meal item is missing, include it in the description as well. Keep the descriptions of the meal items natural and informal. "
+        "For example, instead of using 'Borlotti or other common beans (dry), PROCESS = Boiling, QUALITATIVE-INFO = Black', just write 'Borlotti beans' in the description. "
+        f"Here are the meal items and metric portions to add: {', '.join(meal_items)}."
+    )
 
+    # prompt = (
+    #     f"Here is the original description: {query}\n"
+    #     "Please add the exact weights in grams for the following meal items without changing anything else in the description. "
+    #     "If any meal item is missing, include it in the description as well. Keep the descriptions of the meal items natural and informal."
+    #     f"Here are the meal items and metric portions to add: {', '.join(meal_items)}."
+    # )
+    
     # Query ChatGPT
     response = client.chat.completions.create(
         model="gpt-4o-mini",
