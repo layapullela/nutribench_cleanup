@@ -96,7 +96,7 @@
         "meal_str": "COCONUT OIL||FISH FINGER RECIPE USING TUNA FISH, BAKED||PORK LOIN CHOP, FRIED||PORK PLATE FLAT, SAUTEED||RICE, WHITE, BOILED/STEAMED||WHEAT NOODLES, COOKED||YAM BEAN, PODS, SAUTEED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For dinner, I'm having 6.8g of coconut oil, 15g of baked tuna fish fingers, and 40g of fried pork loin chop.\",\n    \"description2\": \"I've got 3.3g of saut\u00e9ed pork plate flat, 84g of boiled white rice, and 32g of cooked wheat noodles on my plate for dinner.\",\n    \"description3\": \"I'm enjoying 0.8g of saut\u00e9ed yam bean pods along with my other dinner items tonight.\",\n    \"description4\": \"For dinner, I'm combining 6.8g of coconut oil with 15g of fish fingers, 40g of fried pork loin, and 84g of white rice.\",\n    \"description5\": \"I'm having a mix of 32g of cooked wheat noodles, 3.3g of saut\u00e9ed pork plate flat, and 0.8g of saut\u00e9ed yam bean pods with my dinner.\"\n}",
-        "revised_description": "For dinner, I'm having 6.8g of coconut oil, 15g of baked tuna fish fingers, 40g of fried pork loin chop, 3.3g of saut\u00e9ed pork plate flat, 84g of boiled/steamed white rice, 32g of cooked wheat noodles, and 0.8g of saut\u00e9ed yam bean pods."
+        "revised_description": "For dinner, I'm having 6.8g of coconut oil, 15g of baked fish fingers made with tuna fish, 40g of fried pork loin chop, 3.3g of saut\u00e9ed pork plate flat, 84g of boiled white rice, 32g of cooked wheat noodles, and 0.8g of saut\u00e9ed yam bean pods."
     },
     {
         "index": 247887,
@@ -195,7 +195,7 @@
         "meal_str": "HORSE RADISH TREE LEAVES, BOILED||LARD||LONG JAWED ANCHOVY, DRIED, BOILED||PORK PLATE FLAT, FRIED||RICE, WHITE, BOILED/STEAMED||SOFTDRINKS (COCA-COLA)||SQUASH, FRUIT, YELLOW BOILED||TARO, BOILED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For lunch, I had 11.7g of boiled horseradish tree leaves, 10.2g of lard, and 1.6g of dried boiled long jawed anchovy.\",\n    \"description2\": \"I also enjoyed 60g of fried pork plate and 225g of boiled white rice with my meal.\",\n    \"description3\": \"To drink, I had 240g of Coca-Cola alongside 11.7g of boiled yellow squash.\",\n    \"description4\": \"I finished my lunch with 15.6g of boiled taro on the side.\",\n    \"description5\": \"So, my lunch included a mix of boiled greens, some fried pork, rice, and a refreshing soft drink.\"\n}",
-        "revised_description": "For lunch, I had 11.7g of boiled horseradish tree leaves, 10.2g of lard, 1.6g of dried boiled long jawed anchovy, 60.0g of fried pork plate flat, 225.0g of boiled white rice, 240.0g of Coca-Cola, 11.7g of boiled yellow squash, and 15.6g of boiled taro."
+        "revised_description": "For lunch, I had 11.7g of boiled horseradish tree leaves, 10.2g of lard, 1.6g of dried boiled long jawed anchovy, 60.0g of fried pork plate flat, 225.0g of boiled white rice, 240.0g of Coca-Cola soft drink, 11.7g of boiled yellow squash, and 15.6g of boiled taro."
     },
     {
         "index": 269427,
@@ -462,7 +462,7 @@
         "meal_str": "\"DINUGUAN\"||CHAYOTE FRUIT, BOILED||COCONUT MILK||HORSE RADISH TREE LEAVES, BOILED||MENUDO||RICE, WHITE, BOILED/STEAMED||SQUASH, FRUIT, YELLOW BOILED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For lunch, I had 57.5g of dinuguan, 4.9g of boiled chayote fruit, and 1.2g of coconut milk.\",\n    \"description2\": \"Lunch consisted of 15g of boiled horse radish tree leaves, 33.4g of menudo, and 75g of boiled white rice.\",\n    \"description3\": \"I ate 4.9g of boiled yellow squash fruit along with 57.5g of dinuguan for lunch.\",\n    \"description4\": \"For lunch, I enjoyed 33.4g of menudo with 75g of steamed white rice and 1.2g of coconut milk.\",\n    \"description5\": \"I had a mix of 15g of boiled horse radish tree leaves, 4.9g of chayote fruit, and 4.9g of yellow squash for lunch.\"\n}",
-        "revised_description": "For lunch, I had 57.5g of dinuguan, 4.9g of boiled chayote fruit, 1.2g of coconut milk, 15.0g of boiled horse radish tree leaves, 33.4g of menudo, and 75.0g of boiled white rice, along with 4.9g of yellow boiled squash."
+        "revised_description": "For lunch, I had 57.5g of dinuguan, 4.9g of boiled chayote fruit, 1.2g of coconut milk, 15.0g of boiled horseradish tree leaves, 33.4g of menudo, 75.0g of boiled white rice, and 4.9g of boiled yellow squash."
     },
     {
         "index": 248685,
@@ -501,7 +501,6 @@
         "filtered_queries": {
             "description1": "For dinner, I'm having 336g of boiled corn grits with 9.2g of fortified coconut oil. I also have 45g of saut\u00e9ed eggplant, 10g of fish paste, 22.5g of saut\u00e9ed okra, 45g of saut\u00e9ed yellow squash, 61.3g of saut\u00e9ed taro, and 22.5g of saut\u00e9ed yard long beans.",
             "description2": "I'm eating 336 grams of corn grits for dinner, topped with 9.2g of fortified coconut oil. On the side, I have 45g of saut\u00e9ed eggplant, 10g of fish paste, and 22.5g of saut\u00e9ed okra, along with 45g of yellow squash, 61.3g of taro, and 22.5g of yard long beans.",
-            "description3": "For dinner, I've got 336g of boiled corn grits with 9.2g of coconut oil. I also have 45g of saut\u00e9ed eggplant, 10g of fish paste, and a mix of saut\u00e9ed okra and yellow squash, along with 61.3g of taro and 22.5g of yard long beans.",
             "description4": "I'm having dinner which includes 336g of corn grits, 9.2g of fortified coconut oil, 45g of saut\u00e9ed eggplant, and 10g of fish paste. I also added 22.5g of saut\u00e9ed okra, 45g of yellow squash, 61.3g of saut\u00e9ed taro, and 22.5g of saut\u00e9ed yard long beans.",
             "description5": "For dinner, I prepared 336g of corn grits with 9.2g of fortified coconut oil. I have 45g of saut\u00e9ed eggplant, 10g of fish paste, plus 22.5g of saut\u00e9ed okra, 45g of saut\u00e9ed yellow squash, 61.3g of saut\u00e9ed taro, and 22.5g of yard long beans."
         }
@@ -562,11 +561,7 @@
         "country": "PHL",
         "query": "{\n    \"description1\": \"For lunch, I had 22.5g of boiled chayote fruit, 340g of boiled corn grits, 22.5g of boiled horseradish tree leaves, 22.5g of boiled kamote leaves, and 22.5g of boiled yellow squash.\",\n    \"description2\": \"I\u2019m eating 340 grams of boiled corn grits along with 22.5g each of boiled chayote fruit, horseradish tree leaves, kamote leaves, and yellow squash for lunch.\",\n    \"description3\": \"For lunch today, I enjoyed 22.5g of boiled chayote, 340g of corn grits, and some boiled leaves: 22.5g each of horseradish tree, kamote, and yellow squash.\",\n    \"description4\": \"I\u2019ve got 22.5 grams of boiled chayote fruit and 340 grams of corn grits for lunch, plus 22.5g each of boiled horseradish tree leaves, kamote leaves, and yellow squash.\",\n    \"description5\": \"For lunch, I'm having a mix of boiled veggies: 22.5g of chayote, 340g of corn grits, and 22.5g each of horseradish tree leaves, kamote leaves, and yellow squash.\"\n}",
         "filtered_queries": {
-            "description1": "For lunch, I had 22.5g of boiled chayote fruit, 340g of boiled corn grits, 22.5g of boiled horseradish tree leaves, 22.5g of boiled kamote leaves, and 22.5g of boiled yellow squash.",
-            "description2": "I\u2019m eating 340 grams of boiled corn grits along with 22.5g each of boiled chayote fruit, horseradish tree leaves, kamote leaves, and yellow squash for lunch.",
-            "description3": "For lunch today, I enjoyed 22.5g of boiled chayote, 340g of corn grits, and some boiled leaves: 22.5g each of horseradish tree, kamote, and yellow squash.",
-            "description4": "I\u2019ve got 22.5 grams of boiled chayote fruit and 340 grams of corn grits for lunch, plus 22.5g each of boiled horseradish tree leaves, kamote leaves, and yellow squash.",
-            "description5": "For lunch, I'm having a mix of boiled veggies: 22.5g of chayote, 340g of corn grits, and 22.5g each of horseradish tree leaves, kamote leaves, and yellow squash."
+            "description1": "For lunch, I had 22.5g of boiled chayote fruit, 340g of boiled corn grits, 22.5g of boiled horseradish tree leaves, 22.5g of boiled kamote leaves, and 22.5g of boiled yellow squash."
         }
     },
     {
@@ -878,10 +873,7 @@
         "query": "{\n    \"description1\": \"For dinner, I\u2019m having 40 grams of boiled white corn on the cob, 75 grams of boiled white rice, 20 grams of boiled yellow squash, 20 grams of boiled taro, and 40 grams of smoked boiled tuna.\",\n    \"description2\": \"I\u2019m enjoying a dinner of 75g of white rice, 40g of boiled corn on the cob, along with 20g each of yellow squash and taro, and 40g of smoked tuna.\",\n    \"description3\": \"For my dinner, I have 40g of smoked tuna, 40g of corn on the cob, 75g of boiled rice, and 20g each of taro and yellow squash.\",\n    \"description4\": \"At dinner, I\u2019m eating 75 grams of white rice with 20 grams of boiled yellow squash, 20 grams of taro, 40 grams of corn on the cob, and 40 grams of smoked tuna.\",\n    \"description5\": \"Tonight\u2019s dinner consists of 40g of smoked tuna, 40g of boiled white corn, 75g of boiled rice, and 20g each of boiled yellow squash and taro.\"\n}",
         "filtered_queries": {
             "description1": "For dinner, I\u2019m having 40 grams of boiled white corn on the cob, 75 grams of boiled white rice, 20 grams of boiled yellow squash, 20 grams of boiled taro, and 40 grams of smoked boiled tuna.",
-            "description2": "I\u2019m enjoying a dinner of 75g of white rice, 40g of boiled corn on the cob, along with 20g each of yellow squash and taro, and 40g of smoked tuna.",
-            "description3": "For my dinner, I have 40g of smoked tuna, 40g of corn on the cob, 75g of boiled rice, and 20g each of taro and yellow squash.",
-            "description4": "At dinner, I\u2019m eating 75 grams of white rice with 20 grams of boiled yellow squash, 20 grams of taro, 40 grams of corn on the cob, and 40 grams of smoked tuna.",
-            "description5": "Tonight\u2019s dinner consists of 40g of smoked tuna, 40g of boiled white corn, 75g of boiled rice, and 20g each of boiled yellow squash and taro."
+            "description4": "At dinner, I\u2019m eating 75 grams of white rice with 20 grams of boiled yellow squash, 20 grams of taro, 40 grams of corn on the cob, and 40 grams of smoked tuna."
         }
     },
     {
@@ -1116,11 +1108,7 @@
         "country": "PHL",
         "query": "{\"description1\": \"For lunch, I'm having 250g of boiled white corn grits, 44g of fresh black sea cucumber, and a bit of raw ginger, along with 2g of dried broiled Indian sardine and 22g of boiled long-jawed anchovy.\", \"description2\": \"I just ate 250 grams of boiled corn grits for lunch, with a side of 44g fresh black sea cucumber and some raw ginger. I also added 2g of dried broiled Indian sardine and 22g of boiled long-jawed anchovy.\", \"description3\": \"For lunch, I served myself 250g of corn grits, 44g of fresh black sea cucumber, and 2g of ginger. I also had 2g of dried broiled Indian sardine and 22g of boiled long-jawed anchovy on the side.\", \"description4\": \"Lunch today included 250 grams of boiled white corn grits, 44g of fresh black sea cucumber, and a little raw ginger, plus 2g of dried Indian sardine and 22g of boiled long-jawed anchovy.\", \"description5\": \"I had 250g of boiled corn grits for lunch, paired with 44g of fresh black sea cucumber, some raw ginger, and 2g of dried broiled Indian sardine, along with 22g of boiled long-jawed anchovy.\"}",
         "filtered_queries": {
-            "description1": "For lunch, I'm having 250g of boiled white corn grits, 44g of fresh black sea cucumber, and a bit of raw ginger, along with 2g of dried broiled Indian sardine and 22g of boiled long-jawed anchovy.",
-            "description2": "I just ate 250 grams of boiled corn grits for lunch, with a side of 44g fresh black sea cucumber and some raw ginger. I also added 2g of dried broiled Indian sardine and 22g of boiled long-jawed anchovy.",
-            "description3": "For lunch, I served myself 250g of corn grits, 44g of fresh black sea cucumber, and 2g of ginger. I also had 2g of dried broiled Indian sardine and 22g of boiled long-jawed anchovy on the side.",
-            "description4": "Lunch today included 250 grams of boiled white corn grits, 44g of fresh black sea cucumber, and a little raw ginger, plus 2g of dried Indian sardine and 22g of boiled long-jawed anchovy.",
-            "description5": "I had 250g of boiled corn grits for lunch, paired with 44g of fresh black sea cucumber, some raw ginger, and 2g of dried broiled Indian sardine, along with 22g of boiled long-jawed anchovy."
+            "description3": "For lunch, I served myself 250g of corn grits, 44g of fresh black sea cucumber, and 2g of ginger. I also had 2g of dried broiled Indian sardine and 22g of boiled long-jawed anchovy on the side."
         }
     },
     {
@@ -1201,9 +1189,7 @@
         "query": "{\"description1\": \"For dinner, I'm having 2.6g of coconut oil, 10g of saut\u00e9ed eggplant, 10g of saut\u00e9ed horseradish tree leaves, and 10g of Malabar nightshade leaves. I also have 57g of boiled white rice and 22.5g of saut\u00e9ed yellow squash.\", \"description2\": \"Tonight's dinner includes 2.6 grams of coconut oil, 10 grams each of saut\u00e9ed eggplant, horseradish tree leaves, and Malabar nightshade leaves, along with 57 grams of steamed white rice and 22.5 grams of saut\u00e9ed yellow squash.\", \"description3\": \"I'm having dinner with 2.6g of coconut oil, 10g of saut\u00e9ed eggplant, 10g of saut\u00e9ed horseradish tree leaves, and 10g of Malabar nightshade leaves. Plus, I've added 57g of white rice and 22.5g of yellow squash.\", \"description4\": \"For my dinner, I've got 2.6 grams of coconut oil, together with 10 grams each of saut\u00e9ed eggplant, horseradish tree leaves, and Malabar nightshade leaves. I'm also eating 57 grams of boiled white rice and 22.5 grams of saut\u00e9ed yellow squash.\", \"description5\": \"At dinner, I'm enjoying 2.6g of coconut oil, 10g of saut\u00e9ed eggplant, 10g of saut\u00e9ed horseradish tree leaves, and 10g of Malabar nightshade leaves, along with 57g of boiled white rice and 22.5g of saut\u00e9ed yellow squash.\"}",
         "filtered_queries": {
             "description1": "For dinner, I'm having 2.6g of coconut oil, 10g of saut\u00e9ed eggplant, 10g of saut\u00e9ed horseradish tree leaves, and 10g of Malabar nightshade leaves. I also have 57g of boiled white rice and 22.5g of saut\u00e9ed yellow squash.",
-            "description2": "Tonight's dinner includes 2.6 grams of coconut oil, 10 grams each of saut\u00e9ed eggplant, horseradish tree leaves, and Malabar nightshade leaves, along with 57 grams of steamed white rice and 22.5 grams of saut\u00e9ed yellow squash.",
             "description3": "I'm having dinner with 2.6g of coconut oil, 10g of saut\u00e9ed eggplant, 10g of saut\u00e9ed horseradish tree leaves, and 10g of Malabar nightshade leaves. Plus, I've added 57g of white rice and 22.5g of yellow squash.",
-            "description4": "For my dinner, I've got 2.6 grams of coconut oil, together with 10 grams each of saut\u00e9ed eggplant, horseradish tree leaves, and Malabar nightshade leaves. I'm also eating 57 grams of boiled white rice and 22.5 grams of saut\u00e9ed yellow squash.",
             "description5": "At dinner, I'm enjoying 2.6g of coconut oil, 10g of saut\u00e9ed eggplant, 10g of saut\u00e9ed horseradish tree leaves, and 10g of Malabar nightshade leaves, along with 57g of boiled white rice and 22.5g of saut\u00e9ed yellow squash."
         }
     },
@@ -1262,7 +1248,7 @@
         "meal_str": "COCONUT MILK||COCONUT OIL||HORSE RADISH TREE LEAVES, BOILED||PORK PLATE FLAT, SAUTEED||RICE, WHITE, BOILED/STEAMED||SOFTDRINKS (COCA-COLA)||SQUASH, FRUIT, YELLOW BOILED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For lunch, I had 300 grams of boiled white rice with 40 grams of saut\u00e9ed pork, 10 grams of boiled horseradish tree leaves, and 5 grams of boiled yellow squash. I also had 240 grams of Coca-Cola and a bit of coconut milk and oil.\",\n    \"description2\": \"I enjoyed 300g of steamed white rice along with 40g of saut\u00e9ed pork and 10g of boiled horseradish tree leaves for lunch. I also had 240g of Coca-Cola and some coconut milk and oil.\",\n    \"description3\": \"Lunch consisted of 300 grams of white rice, 40 grams of saut\u00e9ed pork, 10 grams of boiled horseradish tree leaves, and 5 grams of boiled yellow squash. I washed it down with 240 grams of Coca-Cola and used a bit of coconut milk and oil.\",\n    \"description4\": \"I had a lunch of 300g boiled white rice, 40g saut\u00e9ed pork, and 10g boiled horseradish tree leaves. I also had 240g of Coca-Cola and added some coconut milk and oil.\",\n    \"description5\": \"For lunch, I ate 300 grams of boiled white rice and 40 grams of saut\u00e9ed pork, with 10 grams of boiled horseradish tree leaves and 5 grams of yellow squash. I enjoyed 240 grams of Coca-Cola and a splash of coconut milk and oil.\"\n}",
-        "revised_description": "For lunch, I had 300 grams of boiled white rice with 40 grams of saut\u00e9ed pork, 10 grams of boiled horseradish tree leaves, and 5 grams of boiled yellow squash. I also had 240 grams of Coca-Cola, a bit of coconut milk (0.8 grams) and coconut oil (3.2 grams)."
+        "revised_description": "For lunch, I had 300 grams of boiled white rice, 40 grams of saut\u00e9ed pork, 10 grams of boiled horseradish tree leaves, and 5 grams of boiled yellow squash. I also had 240 grams of Coca-Cola and a bit of coconut milk (0.8 grams) and coconut oil (3.2 grams)."
     },
     {
         "index": 222656,
@@ -2112,10 +2098,7 @@
         "meal_str": "HORSE RADISH TREE LEAVES, BOILED||OKRA,BOILED||RICE, WHITE, BOILED/STEAMED||ROUND SCAD,BOILED||SNOW CABBAGE,BOILED||SPONGE GOURD,BOILED||SQUASH, FRUIT, YELLOW BOILED||YARD LONG BEAN,GREEN,BOILED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For a snack, I had 0.8g of boiled horse radish tree leaves, 1.6g of boiled okra, and 112.5g of boiled white rice.\",\n    \"description2\": \"I enjoyed a snack with 0.8g of boiled round scad, 1.6g of boiled snow cabbage, and 1.6g of boiled sponge gourd.\",\n    \"description3\": \"I snacked on 0.8g of boiled yellow squash, 1.6g of boiled yard long beans, and the rest of my rice, which was 112.5g.\",\n    \"description4\": \"For my snack, I had a mix of 1.6g of boiled okra and 1.6g of boiled snow cabbage along with some rice.\",\n    \"description5\": \"I had a light snack of 0.8g of boiled horse radish tree leaves, 1.6g of boiled sponge gourd, and 1.6g of boiled yard long beans.\"\n}",
-        "filtered_queries": {
-            "description1": "For a snack, I had 0.8g of boiled horse radish tree leaves, 1.6g of boiled okra, and 112.5g of boiled white rice.",
-            "description3": "I snacked on 0.8g of boiled yellow squash, 1.6g of boiled yard long beans, and the rest of my rice, which was 112.5g."
-        }
+        "revised_description": "For a snack, I had 0.8g of boiled horse radish tree leaves, 1.6g of boiled okra, 112.5g of boiled white rice, 0.8g of boiled round scad, 1.6g of boiled snow cabbage, 1.6g of boiled sponge gourd, 0.8g of boiled yellow squash, and 1.6g of boiled yard long bean."
     },
     {
         "index": 226791,
@@ -2295,7 +2278,7 @@
         "meal_str": "CHOCOLATE, BEVERAGE||COCONUT OIL, FORTIFIED||CORN GRITS (WHITE)#14, BOILED||ROUND SCAD, DRIED, FRIED||SUGAR, BROWN, BOILED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For dinner, I'm having a 10g chocolate beverage, along with 2.3g of fortified coconut oil.\",\n    \"description2\": \"I'm eating 168g of boiled white corn grits, paired with 13.7g of dried fried round scad.\",\n    \"description3\": \"I also have 10.5g of boiled brown sugar on the side for dinner.\",\n    \"description4\": \"For my dinner, there's a chocolate beverage (10g), some coconut oil (2.3g), and a serving of corn grits (168g).\",\n    \"description5\": \"On my plate, I've got dried fried round scad (13.7g) and a touch of boiled brown sugar (10.5g) to finish off the meal.\"\n}",
-        "revised_description": "For dinner, I'm having a 10g chocolate beverage, along with 2.3g of fortified coconut oil, 168g of boiled corn grits, 13.7g of fried round scad, and 10.5g of boiled brown sugar."
+        "revised_description": "For dinner, I'm having a 10g chocolate beverage, along with 2.3g of fortified coconut oil, 168g of boiled corn grits, 13.7g of dried, fried round scad, and 10.5g of boiled brown sugar."
     },
     {
         "index": 260256,
@@ -2394,7 +2377,7 @@
         "meal_str": "CHAYOTE, FRUIT, SAUTEED||CHINESE CABBAGE,SAUTEED||COCONUT OIL||EGGPLANT, SAUTEED||FORTIFIED FRUIT JUICES||OKRA, SAUTEED||PORKS LEGS, SAUTEED||RICE, WHITE, BOILED/STEAMED||SQUASH, FRUIT, YELLOW SAUTEED||SUGAR,WHITE,REFINED||TARO, SAUTEED||YARD LONG BEAN,GREEN,SAUTEED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For dinner, I had 10g of saut\u00e9ed chayote, 3.3g of saut\u00e9ed Chinese cabbage, and 3g of coconut oil.\",\n    \"description2\": \"I enjoyed 5g of saut\u00e9ed eggplant, 30g of fortified fruit juices, and 3.3g of saut\u00e9ed okra for dinner.\",\n    \"description3\": \"Dinner included 20g of saut\u00e9ed pork legs, 75g of boiled white rice, and 10g of saut\u00e9ed yellow squash.\",\n    \"description4\": \"I also had 22.5g of white refined sugar, 3.3g of saut\u00e9ed taro, and 5g of saut\u00e9ed yard long beans with my dinner.\",\n    \"description5\": \"So, my dinner was a mix of all these: saut\u00e9ed vegetables, pork, rice, and some juice.\"\n}",
-        "revised_description": "For dinner, I had 10g of saut\u00e9ed chayote, 3.3g of saut\u00e9ed Chinese cabbage, 3g of coconut oil, 5g of saut\u00e9ed eggplant, 30g of fortified fruit juices, 3.3g of saut\u00e9ed okra, 20g of saut\u00e9ed pork legs, 75g of white boiled/steamed rice, 10g of saut\u00e9ed yellow squash, 22.5g of white refined sugar, 3.3g of saut\u00e9ed taro, and 5g of saut\u00e9ed yard long bean."
+        "revised_description": "For dinner, I had 10g of saut\u00e9ed chayote, 3.3g of saut\u00e9ed Chinese cabbage, 3g of coconut oil, 5g of saut\u00e9ed eggplant, 30g of fortified fruit juices, 3.3g of saut\u00e9ed okra, 20g of saut\u00e9ed pork legs, 75g of boiled/steamed white rice, 10g of saut\u00e9ed yellow squash, 22.5g of refined white sugar, 3.3g of saut\u00e9ed taro, and 5g of saut\u00e9ed yard long bean."
     },
     {
         "index": 243824,
@@ -2727,9 +2710,7 @@
         "filtered_queries": {
             "description1": "For dinner, I'm having 2 grams of coconut oil with 127.5 grams of boiled white corn grits, along with 20 grams of saut\u00e9ed pork plate and 20 grams of saut\u00e9ed yellow squash.",
             "description2": "I'm eating 2g of coconut oil and 127.5g of corn grits for dinner, plus 20g of saut\u00e9ed pork and 20g of saut\u00e9ed yellow squash.",
-            "description3": "For dinner, I have 2 grams of coconut oil, 127.5 grams of boiled corn grits, 20 grams of saut\u00e9ed pork, and 20 grams of saut\u00e9ed yellow squash.",
-            "description4": "I\u2019m having dinner with 2g of coconut oil, 127.5g of corn grits, and some saut\u00e9ed pork and yellow squash, each about 20 grams.",
-            "description5": "At dinner, I'm enjoying 2 grams of coconut oil, 127.5 grams of corn grits, and both 20 grams of saut\u00e9ed pork and saut\u00e9ed yellow squash."
+            "description3": "For dinner, I have 2 grams of coconut oil, 127.5 grams of boiled corn grits, 20 grams of saut\u00e9ed pork, and 20 grams of saut\u00e9ed yellow squash."
         }
     },
     {
@@ -3117,13 +3098,7 @@
         "meal_str": "ANCHOVY SAVINGS||MUNG BEAN , GREEN,BOILED||RICE, WHITE, BOILED/STEAMED||SHORT-BODIED MACKEREL,BOILED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For lunch, I'm having 300g of boiled white rice, along with 36.2g of boiled green mung beans, and 3.3g of boiled short-bodied mackerel.\",\n    \"description2\": \"I\u2019ve got a lunch that includes 300 grams of boiled rice, 36.2 grams of boiled mung beans, and 3.3 grams of mackerel.\",\n    \"description3\": \"Today\u2019s lunch consists of 300g of white rice, 36.2g of green mung beans, and a bit of 3.3g of boiled mackerel.\",\n    \"description4\": \"For lunch, I\u2019m eating 300 grams of boiled white rice, with 36.2 grams of boiled mung beans and 3.3 grams of short-bodied mackerel.\",\n    \"description5\": \"I\u2019m having 300g of rice for lunch, paired with 36.2g of boiled mung beans and a small serving of 3.3g of mackerel.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 300g of boiled white rice, along with 36.2g of boiled green mung beans, and 3.3g of boiled short-bodied mackerel.",
-            "description2": "I\u2019ve got a lunch that includes 300 grams of boiled rice, 36.2 grams of boiled mung beans, and 3.3 grams of mackerel.",
-            "description3": "Today\u2019s lunch consists of 300g of white rice, 36.2g of green mung beans, and a bit of 3.3g of boiled mackerel.",
-            "description4": "For lunch, I\u2019m eating 300 grams of boiled white rice, with 36.2 grams of boiled mung beans and 3.3 grams of short-bodied mackerel.",
-            "description5": "I\u2019m having 300g of rice for lunch, paired with 36.2g of boiled mung beans and a small serving of 3.3g of mackerel."
-        }
+        "revised_description": "For lunch, I'm having 300g of boiled white rice, along with 36.2g of boiled green mung beans, 3.3g of boiled short-bodied mackerel, and 3.3g of anchovy savings."
     },
     {
         "index": 242446,
@@ -3139,8 +3114,7 @@
         "country": "PHL",
         "query": "{\n    \"description1\": \"For breakfast, I had 20g of boiled bottle gourd, 40g of boiled goatfish, 3.3g of boiled okra, 150g of boiled white rice, and 20g of boiled taro.\",\n    \"description2\": \"I started my day with 150 grams of boiled white rice, along with 20 grams of boiled bottle gourd and 40 grams of boiled goatfish for breakfast.\",\n    \"description3\": \"For my breakfast, I enjoyed 20g of boiled taro, 3.3g of boiled okra, and 40g of boiled goatfish, paired with 150g of boiled white rice.\",\n    \"description4\": \"I had a breakfast that included 20g of boiled bottle gourd, 150g of boiled rice, and a bit of boiled okra at 3.3 grams, along with goatfish.\",\n    \"description5\": \"This morning, I ate 40g of boiled goatfish, 20g of boiled taro, 20g of boiled bottle gourd, and 150g of boiled white rice.\"\n}",
         "filtered_queries": {
-            "description1": "For breakfast, I had 20g of boiled bottle gourd, 40g of boiled goatfish, 3.3g of boiled okra, 150g of boiled white rice, and 20g of boiled taro.",
-            "description3": "For my breakfast, I enjoyed 20g of boiled taro, 3.3g of boiled okra, and 40g of boiled goatfish, paired with 150g of boiled white rice."
+            "description1": "For breakfast, I had 20g of boiled bottle gourd, 40g of boiled goatfish, 3.3g of boiled okra, 150g of boiled white rice, and 20g of boiled taro."
         }
     },
     {
@@ -3321,7 +3295,7 @@
         "meal_str": "CABBAGE, BOILED||COCONUT OIL||PORK LOIN CHOP, BOILED||RICE, WHITE, BOILED/STEAMED||SQUASH, FRUIT, YELLOW BOILED||TARO, BOILED||TUNA BONITO, FRIED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For a snack, I'm having 10g of boiled cabbage, 13.6g of coconut oil, and 20g of boiled pork loin chop, along with 150g of boiled white rice.\",\n    \"description2\": \"I\u2019ve got 40g of boiled yellow squash, 20g of boiled taro, and 80g of fried tuna bonito for my snack.\",\n    \"description3\": \"For a quick snack, I\u2019m eating 10 grams of boiled cabbage, 150 grams of boiled white rice, and 20 grams of boiled pork loin chop.\",\n    \"description4\": \"I\u2019m snacking on 13.6g of coconut oil and 40g of boiled yellow squash, along with 80g of fried tuna bonito.\",\n    \"description5\": \"My snack consists of 20g of boiled taro, 10g of boiled cabbage, and 150g of boiled white rice, plus 20g of fried tuna bonito.\"\n}",
-        "revised_description": "For a snack, I'm having 10g of boiled cabbage, 13.6g of coconut oil, and 20g of boiled pork loin chop, along with 150g of boiled white rice, some yellow boiled squash (40g), a bit of boiled taro (20g), and 80g of fried tuna bonito."
+        "revised_description": "For a snack, I'm having 10g of boiled cabbage, 13.6g of coconut oil, and 20g of boiled pork loin chop, along with 150g of boiled white rice, 40g of boiled yellow squash, 20g of boiled taro, and 80g of fried tuna bonito."
     },
     {
         "index": 217076,
@@ -3459,7 +3433,7 @@
         "meal_str": "BOTTLE GOURD, BOILED||PORK PLATE FLAT, BOILED||RICE, WHITE, BOILED/STEAMED||SPONGE GOURD, BOILED||SQUASH, FRUIT, YELLOW BOILED||TARO, BOILED||YARD LONG BEAN, GREEN, BOILED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For dinner, I'm having 22.5g of boiled bottle gourd, 30g of boiled pork plate flat, and 225g of boiled white rice.\",\n    \"description2\": \"I\u2019ve got 22.5g of boiled sponge gourd, 22.5g of boiled yellow squash, and 46g of boiled taro for dinner.\",\n    \"description3\": \"Dinner consists of 9g of boiled yard long beans along with my other dishes.\",\n    \"description4\": \"I'm enjoying a mix of 22.5g of boiled bottle gourd and 30g of boiled pork with 225g of rice for dinner.\",\n    \"description5\": \"Alongside 22.5g of boiled yellow squash and 46g of boiled taro, I'm having 22.5g of boiled sponge gourd tonight.\"\n}",
-        "revised_description": "For dinner, I'm having 22.5g of boiled bottle gourd, 30g of boiled pork plate flat, 225g of boiled white rice, 22.5g of boiled sponge gourd, 22.5g of boiled yellow squash, 46g of boiled taro, and 9g of boiled green yard long bean."
+        "revised_description": "For dinner, I'm having 22.5g of boiled bottle gourd, 30g of boiled pork plate flat, 225g of boiled white rice, 22.5g of boiled sponge gourd, 22.5g of boiled yellow squash, 46g of boiled taro, and 9g of boiled yard long bean."
     },
     {
         "index": 250904,
@@ -3515,7 +3489,7 @@
         "meal_str": "CABBAGE,SAUTEED||CARROT, SAUTEED||COCONUT OIL||MUNG BEAN STARCH NOODLE,COOKED||PIG TROTTERS, PINAKSIW, CANNED||PORK LOIN  CHOP, BROILED||PORK PLATE FLAT, SAUTEED||POTATO, SAUTEED||RICE, WHITE, BOILED/STEAMED||SOFTDRINKS (COCA-COLA)||WHEAT NOODLES, COOKED",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For a snack, I had 3.3g of saut\u00e9ed cabbage, 4.9g of saut\u00e9ed carrot, and 2g of coconut oil. I also enjoyed 2.5g of cooked mung bean starch noodles and 6.7g of canned pig trotters in pinaksiw sauce.\",\n    \"description2\": \"I ate 35g of broiled pork loin chop and 23.3g of saut\u00e9ed pork plate flat for a snack. I also had 3.3g of saut\u00e9ed potato and 75g of boiled white rice.\",\n    \"description3\": \"For my snack, I had 237.9g of Coca-Cola to drink, along with 3g of cooked wheat noodles. I also included some saut\u00e9ed vegetables like cabbage and carrots.\",\n    \"description4\": \"I enjoyed a snack of 6.7g of canned pig trotters, 4.9g of saut\u00e9ed carrot, and 3.3g of saut\u00e9ed potato, paired with 75g of white rice.\",\n    \"description5\": \"While snacking, I had 35g of broiled pork loin chop, 2.5g of mung bean starch noodles, and washed it down with 237.9g of Coca-Cola.\"\n}",
-        "revised_description": "For a snack, I had 3.3g of saut\u00e9ed cabbage, 4.9g of saut\u00e9ed carrot, and 2g of coconut oil. I also enjoyed 2.5g of cooked mung bean starch noodles and 6.7g of canned pig trotters in pinaksiw sauce. Additionally, I had 35.0g of broiled pork loin chop, 23.3g of saut\u00e9ed pork plate flat, 3.3g of saut\u00e9ed potato, 75.0g of boiled white rice, 237.9g of Coca-Cola soft drink, and 3.0g of cooked wheat noodles."
+        "revised_description": "For a snack, I had 3.3g of saut\u00e9ed cabbage, 4.9g of saut\u00e9ed carrot, and 2g of coconut oil. I also enjoyed 2.5g of cooked mung bean starch noodles and 6.7g of canned pig trotters in pinaksiw sauce. On the side, I had 35.0g of broiled pork loin chop, 23.3g of saut\u00e9ed pork plate flat, and 3.3g of saut\u00e9ed potato. To top it all off, I had 75.0g of boiled white rice, a refreshing 237.9g of Coca-Cola soft drink, and 3.0g of cooked wheat noodles."
     },
     {
         "index": 221344,
@@ -3697,9 +3671,7 @@
         "meal_str": "BEER||CHICKEN, WHITE MEAT, SAUTEED||COCONUT OIL||MUNG BEAN STARCH NOODLE,COOKED||PORK LECHON( ROAST)||PORK PLATE FLAT, SAUTEED||RICE, WHITE, BOILED/STEAMED||SOFTDRINKS (COCA-COLA)||WATERMELON",
         "country": "PHL",
         "query": "{\n    \"description1\": \"For dinner, I had 120g of beer, 106.6g of saut\u00e9ed white meat chicken, and 320g of pork lechon. I also had 21.2g of cooked mung bean starch noodles, 49.5g of boiled white rice, and 240g of Coca-Cola. I finished off with 120g of watermelon.\",\n    \"description2\": \"I\u2019m enjoying a dinner with 106.6g of saut\u00e9ed chicken, 6.6g of coconut oil, and 5g of saut\u00e9ed pork plate. I also had 120g of beer, 21.2g of cooked mung bean starch noodles, and 320g of pork lechon, plus 49.5g of boiled rice and 240g of Coca-Cola, and a bit of watermelon on the side.\",\n    \"description3\": \"For my dinner, I had a mix of 320g of pork lechon and 106.6g of saut\u00e9ed chicken. I added 120g of beer and 240g of Coca-Cola to drink. I also enjoyed 49.5g of boiled white rice and 21.2g of cooked mung bean starch noodles, along with some watermelon for dessert.\",\n    \"description4\": \"At dinner, I ate 49.5g of boiled rice, 106.6g of saut\u00e9ed chicken, and 320g of pork lechon. I washed it down with 120g of beer and 240g of Coca-Cola. I also had 21.2g of cooked mung bean starch noodles and finished with 120g of watermelon.\",\n    \"description5\": \"For dinner, I had 106.6g of saut\u00e9ed chicken, 5g of saut\u00e9ed pork plate, and 21.2g of cooked mung bean starch noodles. I drank 240g of Coca-Cola and 120g of beer. I also enjoyed 320g of pork lechon, 49.5g of boiled rice, and had 120g of watermelon for dessert.\"\n}",
-        "filtered_queries": {
-            "description2": "I\u2019m enjoying a dinner with 106.6g of saut\u00e9ed chicken, 6.6g of coconut oil, and 5g of saut\u00e9ed pork plate. I also had 120g of beer, 21.2g of cooked mung bean starch noodles, and 320g of pork lechon, plus 49.5g of boiled rice and 240g of Coca-Cola, and a bit of watermelon on the side."
-        }
+        "revised_description": "For dinner, I had 120g of beer, 106.6g of saut\u00e9ed white meat chicken with a touch of 6.6g coconut oil, 320g of pork lechon, and 5g of saut\u00e9ed flat pork plate. I also had 21.2g of cooked mung bean starch noodles, 49.5g of boiled white rice, and 240g of Coca-Cola. I finished off with 120g of watermelon."
     },
     {
         "index": 238959,
@@ -3733,7 +3705,6 @@
             "description1": "For dinner, I had 150g of boiled white rice, along with 4.9g of boiled chayote fruit and 4.9g of boiled yellow squash. I also included 3.3g of boiled horseradish tree leaves and 3.3g of boiled swamp cabbage.",
             "description2": "At dinner, I enjoyed 150 grams of steamed white rice with 4.9 grams of chayote fruit and 4.9 grams of yellow squash. I also had 3.3 grams of horseradish tree leaves and 3.3 grams of swamp cabbage on the side.",
             "description3": "I had a dinner consisting of 150g of boiled white rice, 4.9g of boiled chayote, and another 4.9g of boiled yellow squash, plus 3.3g of boiled horseradish tree leaves and 3.3g of boiled swamp cabbage.",
-            "description4": "For my dinner, I prepared 150 grams of boiled white rice, alongside 4.9 grams of both boiled chayote and yellow squash. I also added 3.3 grams of boiled horseradish tree leaves and 3.3 grams of swamp cabbage.",
             "description5": "At dinner, I had a mix of 150g of boiled white rice, 4.9g of boiled chayote fruit, and 4.9g of boiled yellow squash, along with 3.3g of horseradish tree leaves and 3.3g of swamp cabbage."
         }
     },
@@ -3850,11 +3821,7 @@
         "country": "PHL",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 10g of saut\u00e9ed carrots, 3g of coconut oil, 20g of saut\u00e9ed pork ham, 20g of saut\u00e9ed pork liver, 10g of saut\u00e9ed potatoes, 75g of boiled white rice, and 240g of Coca-Cola.\",\n    \"description2\": \"I\u2019ve got 10g of saut\u00e9ed carrots and 3g of coconut oil for breakfast, along with 20g of saut\u00e9ed pork ham and pork liver. I also have 10g of saut\u00e9ed potatoes, 75g of boiled white rice, and a 240g Coca-Cola to drink.\",\n    \"description3\": \"For breakfast, I\u2019m eating 10 grams of saut\u00e9ed carrots, 3 grams of coconut oil, and 20 grams each of saut\u00e9ed pork ham and pork liver. I also have 10 grams of saut\u00e9ed potatoes, 75 grams of boiled rice, and a 240-gram serving of Coke.\",\n    \"description4\": \"My breakfast includes 10g of saut\u00e9ed carrots, 3g of coconut oil, 20g of both saut\u00e9ed pork ham and liver, 10g of saut\u00e9ed potatoes, 75g of boiled white rice, and a 240g soft drink of Coca-Cola.\",\n    \"description5\": \"For breakfast today, I\u2019m having 10 grams of saut\u00e9ed carrots, 3 grams of coconut oil, 20 grams of saut\u00e9ed pork ham and liver, 10 grams of saut\u00e9ed potatoes, and 75 grams of boiled white rice, plus 240 grams of Coca-Cola.\"\n}",
         "filtered_queries": {
-            "description1": "For breakfast, I'm having 10g of saut\u00e9ed carrots, 3g of coconut oil, 20g of saut\u00e9ed pork ham, 20g of saut\u00e9ed pork liver, 10g of saut\u00e9ed potatoes, 75g of boiled white rice, and 240g of Coca-Cola.",
-            "description2": "I\u2019ve got 10g of saut\u00e9ed carrots and 3g of coconut oil for breakfast, along with 20g of saut\u00e9ed pork ham and pork liver. I also have 10g of saut\u00e9ed potatoes, 75g of boiled white rice, and a 240g Coca-Cola to drink.",
-            "description3": "For breakfast, I\u2019m eating 10 grams of saut\u00e9ed carrots, 3 grams of coconut oil, and 20 grams each of saut\u00e9ed pork ham and pork liver. I also have 10 grams of saut\u00e9ed potatoes, 75 grams of boiled rice, and a 240-gram serving of Coke.",
-            "description4": "My breakfast includes 10g of saut\u00e9ed carrots, 3g of coconut oil, 20g of both saut\u00e9ed pork ham and liver, 10g of saut\u00e9ed potatoes, 75g of boiled white rice, and a 240g soft drink of Coca-Cola.",
-            "description5": "For breakfast today, I\u2019m having 10 grams of saut\u00e9ed carrots, 3 grams of coconut oil, 20 grams of saut\u00e9ed pork ham and liver, 10 grams of saut\u00e9ed potatoes, and 75 grams of boiled white rice, plus 240 grams of Coca-Cola."
+            "description1": "For breakfast, I'm having 10g of saut\u00e9ed carrots, 3g of coconut oil, 20g of saut\u00e9ed pork ham, 20g of saut\u00e9ed pork liver, 10g of saut\u00e9ed potatoes, 75g of boiled white rice, and 240g of Coca-Cola."
         }
     },
     {
@@ -3892,11 +3859,7 @@
         "country": "PHL",
         "query": "{\"description1\": \"For dinner, I have 3.3g of coconut oil, 6g of cooked flour noodles, 57g of boiled red rice, 57g of boiled white rice, and 60g of canned sardines in tomato sauce.\", \"description2\": \"I\u2019m sitting down to dinner with 3.3 grams of coconut oil, 6 grams of flour noodles, along with 57 grams each of boiled red and white rice, and a 60-gram serving of sardines in tomato sauce.\", \"description3\": \"At dinner, I\u2019m having 3.3g of coconut oil, 6g of cooked flour noodles, 57g of both boiled red and white rice, and 60g of sardines in tomato sauce.\", \"description4\": \"For my dinner, I\u2019ve got 3.3 grams of coconut oil, 6 grams of cooked flour noodles, 57 grams each of red and white boiled rice, plus 60 grams of sardines in tomato sauce.\", \"description5\": \"I\u2019m having dinner with 3.3g of coconut oil, 6g of cooked flour noodles, 57g each of boiled red and white rice, and 60g of canned sardines in tomato sauce.\"}",
         "filtered_queries": {
-            "description1": "For dinner, I have 3.3g of coconut oil, 6g of cooked flour noodles, 57g of boiled red rice, 57g of boiled white rice, and 60g of canned sardines in tomato sauce.",
-            "description2": "I\u2019m sitting down to dinner with 3.3 grams of coconut oil, 6 grams of flour noodles, along with 57 grams each of boiled red and white rice, and a 60-gram serving of sardines in tomato sauce.",
-            "description3": "At dinner, I\u2019m having 3.3g of coconut oil, 6g of cooked flour noodles, 57g of both boiled red and white rice, and 60g of sardines in tomato sauce.",
-            "description4": "For my dinner, I\u2019ve got 3.3 grams of coconut oil, 6 grams of cooked flour noodles, 57 grams each of red and white boiled rice, plus 60 grams of sardines in tomato sauce.",
-            "description5": "I\u2019m having dinner with 3.3g of coconut oil, 6g of cooked flour noodles, 57g each of boiled red and white rice, and 60g of canned sardines in tomato sauce."
+            "description1": "For dinner, I have 3.3g of coconut oil, 6g of cooked flour noodles, 57g of boiled red rice, 57g of boiled white rice, and 60g of canned sardines in tomato sauce."
         }
     },
     {
@@ -3977,9 +3940,6 @@
         "query": "{\n    \"description1\": \"For lunch, I had 336g of boiled corn grits, along with 22.5g of boiled horse radish tree leaves, 22.5g of boiled kamote leaves, 22.5g of cooked malabar nightshade leaves, 22.5g of boiled yellow squash, and 8.1g of boiled tuna bonito.\",\n    \"description2\": \"I enjoyed a lunch that included 336 grams of corn grits, plus small servings of boiled horse radish tree leaves, kamote leaves, and malabar nightshade leaves, each weighing 22.5 grams. I also had 22.5 grams of boiled yellow squash and 8.1 grams of boiled tuna.\",\n    \"description3\": \"For lunch, I ate 336g of corn grits and paired it with 22.5g each of horse radish tree leaves, kamote leaves, and malabar nightshade leaves. I also added 22.5g of boiled yellow squash and 8.1g of boiled tuna.\",\n    \"description4\": \"I had a lunch of 336 grams of white corn grits. I added 22.5 grams each of boiled horse radish tree leaves, kamote leaves, and malabar nightshade leaves, along with 22.5 grams of yellow squash and 8.1 grams of boiled tuna.\",\n    \"description5\": \"For lunch today, I prepared 336g of boiled corn grits with 22.5g of boiled horse radish tree leaves, 22.5g of kamote leaves, 22.5g of cooked malabar nightshade leaves, 22.5g of boiled yellow squash, and 8.1g of boiled tuna.\"\n}",
         "filtered_queries": {
             "description1": "For lunch, I had 336g of boiled corn grits, along with 22.5g of boiled horse radish tree leaves, 22.5g of boiled kamote leaves, 22.5g of cooked malabar nightshade leaves, 22.5g of boiled yellow squash, and 8.1g of boiled tuna bonito.",
-            "description2": "I enjoyed a lunch that included 336 grams of corn grits, plus small servings of boiled horse radish tree leaves, kamote leaves, and malabar nightshade leaves, each weighing 22.5 grams. I also had 22.5 grams of boiled yellow squash and 8.1 grams of boiled tuna.",
-            "description3": "For lunch, I ate 336g of corn grits and paired it with 22.5g each of horse radish tree leaves, kamote leaves, and malabar nightshade leaves. I also added 22.5g of boiled yellow squash and 8.1g of boiled tuna.",
-            "description4": "I had a lunch of 336 grams of white corn grits. I added 22.5 grams each of boiled horse radish tree leaves, kamote leaves, and malabar nightshade leaves, along with 22.5 grams of yellow squash and 8.1 grams of boiled tuna.",
             "description5": "For lunch today, I prepared 336g of boiled corn grits with 22.5g of boiled horse radish tree leaves, 22.5g of kamote leaves, 22.5g of cooked malabar nightshade leaves, 22.5g of boiled yellow squash, and 8.1g of boiled tuna."
         }
     },
@@ -3996,7 +3956,7 @@
         "meal_str": "BOTTLE GOURD,BOILED||COCONUT OIL||FLYING FISH, BOILED||HORSE RADISH TREE LEAVES, BOILED||MALABAR NIGHT SHADE LEAVES, COOKED||OKRA,BOILED||RICE, WHITE, BOILED/STEAMED||SPONGE GOURD,BOILED||TARO, BOILED||YARD LONG BEAN,GREEN,BOILED",
         "country": "PHL",
         "query": "{\"description1\": \"For dinner, I had 22.5g of boiled bottle gourd, 3.2g of coconut oil, and 93.3g of boiled flying fish.\", \"description2\": \"I enjoyed 29.7g of boiled horse radish tree leaves, 29.7g of cooked Malabar night shade leaves, and 10g of boiled okra for dinner.\", \"description3\": \"My dinner included 225g of boiled white rice, 10g of boiled sponge gourd, and 20g of boiled taro.\", \"description4\": \"I also had 10g of boiled yard long beans with my dinner.\", \"description5\": \"All together, it was a mix of vegetables and fish, perfect for a satisfying dinner.\"}",
-        "revised_description": "For dinner, I had 22.5g of boiled bottle gourd, 3.2g of coconut oil, 93.3g of boiled flying fish, 29.7g of boiled horse radish tree leaves, 29.7g of cooked Malabar night shade leaves, 10.0g of boiled okra, 225.0g of boiled white rice, 10.0g of boiled sponge gourd, 20.0g of boiled taro, and 10.0g of boiled yard long beans."
+        "revised_description": "For dinner, I had 22.5g of boiled bottle gourd, 3.2g of coconut oil, 93.3g of boiled flying fish, 29.7g of boiled horse radish tree leaves, 29.7g of cooked Malabar nightshade leaves, 10.0g of boiled okra, 225.0g of boiled/steamed white rice, 10.0g of boiled sponge gourd, 20.0g of boiled taro, and 10.0g of boiled green yard long beans."
     },
     {
         "index": 237662,

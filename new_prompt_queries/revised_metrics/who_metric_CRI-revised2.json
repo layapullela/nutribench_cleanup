@@ -411,7 +411,7 @@
         "meal_str": "APPLE||ARTIFICIAL BEVERAGE, FRUIT NECTAR, APPLE||BANANA||BEANS, RED, PREPARED||BEEF BURRITO||BEEF MEAT, GROUNDED, W/VEGETABLES||BREAD WHEAT, WHITE||MIXED CUCUMBER, CABBAGE, TOMATOES & CARROTS SALAD W/LEMON JUICE &SALT",
         "country": "CRI",
         "query": "{\n    \"description1\": \"For a snack, I'm having 54.6g of apple, 250g of fruit nectar, and a 64.6g banana.\",\n    \"description2\": \"I just had 12.3g of prepared red beans with a 48g beef burrito and 35.5g of ground beef with vegetables.\",\n    \"description3\": \"I snacked on 21g of white wheat bread along with 13.4g of mixed cucumber, cabbage, tomatoes, and carrots salad with lemon juice and salt.\",\n    \"description4\": \"For my snack, I enjoyed 250g of apple fruit nectar, 64.6g of banana, and 54.6g of fresh apple.\",\n    \"description5\": \"I had 48g of beef burrito, 12.3g of red beans, and a small serving of salad made with mixed veggies for a quick snack.\"\n}",
-        "revised_description": "For a snack, I'm having 54.6g of apple, 250g of fruit nectar, and a 64.6g banana. I'm also adding 12.3g of prepared red beans, 48.0g of a beef burrito, 35.5g of grounded beef with vegetables, 21.0g of white wheat bread, and 13.4g of a mixed salad with cucumber, cabbage, tomatoes, and carrots dressed with lemon juice and salt."
+        "revised_description": "For a snack, I'm having 54.6g of apple, 250.0g of fruit nectar, and a 64.6g banana, along with 12.3g of red beans, 48.0g of beef burrito, 35.5g of ground beef with vegetables, 21.0g of white bread, and a refreshing 13.4g mixed cucumber, cabbage, tomatoes, and carrots salad with lemon juice and salt."
     },
     {
         "index": 134209,
@@ -930,7 +930,7 @@
         "meal_str": "CHIFRIJO, TRADITIONAL DISH (BEANS SALAD W/COCONUT)||COOKIE, CHOCOLATE-CHIP||PORK, SKIN, FRIED||SNACKS, TORTILLA CHIPS (NACHOS), SIMPLE||SOFT DRINK, GINGER ALE",
         "country": "CRI",
         "query": "{\n    \"description1\": \"For lunch, I'm having 215.5g of traditional chifrijo, a beans salad with coconut, along with a 50g chocolate chip cookie.\",\n    \"description2\": \"I ate 215.5g of chifrijo for lunch, paired with 58g of fried pork and some 40g tortilla chips.\",\n    \"description3\": \"At lunch, I had 215.5g of beans salad with coconut, 125g of ginger ale to drink, and a 50g chocolate chip cookie.\",\n    \"description4\": \"For lunch, I enjoyed 215.5g of chifrijo, 40g of tortilla chips, and a 58g serving of fried pork.\",\n    \"description5\": \"I had a lunch of 215.5g chifrijo, a 50g chocolate chip cookie, and 125g of ginger ale to wash it down.\"\n}",
-        "revised_description": "For lunch, I'm having 215.5g of traditional chifrijo, a beans salad with coconut, along with a 50g chocolate chip cookie. I also have 58g of crispy fried pork skin, 40g of simple tortilla chips, and a refreshing 125g ginger ale to wash it all down."
+        "revised_description": "For lunch, I'm having 215.5g of traditional chifrijo, a beans salad with coconut, along with a 50g chocolate chip cookie, 58.0g of fried pork skin, 40.0g of simple tortilla chips (nachos), and a refreshing 125.0g ginger ale."
     },
     {
         "index": 134922,
@@ -1953,7 +1953,7 @@
         "meal_str": "BEANS, RICE & VEGETABLES, CHOPPED||BEEF MEAT, GROUNDED, W/VEGETABLES||CHEESE NATURAL, SOFT TYPE, LOW FAT||CREAM, FLUID, LIGHT CONSISTENSY (TABLE CREAM)||LETTUCE, BUTTERHEAD, RAW||MEXICAN TORTILLA W/FILLING (CHALUPA)||PINK SAUCE, TOMATO BASED||RED BEANS, COOKED, MASHED||SOFT DRINK, NOT COLA, GRAPEFRUIT FLAVOUR",
         "country": "CRI",
         "query": "{\n    \"description1\": \"For dinner, I have 42.8g of chopped beans, rice, and vegetables, 45.7g of ground beef with vegetables, and 25g of low-fat soft cheese.\",\n    \"description2\": \"I'm having a dinner that includes 9.6g of light cream, 83.4g of raw butterhead lettuce, and a 20g Mexican chalupa.\",\n    \"description3\": \"Dinner consists of 3g of pink tomato-based sauce and 66.7g of mashed cooked red beans.\",\n    \"description4\": \"I'm also having a 125g grapefruit-flavored soft drink to go with my dinner.\",\n    \"description5\": \"So, for dinner, it\u2019s a mix of 42.8g beans and rice, 45.7g beef, 25g cheese, 9.6g cream, some lettuce, a chalupa, pink sauce, mashed beans, and a refreshing 125g soft drink.\"\n}",
-        "revised_description": "For dinner, I have 42.8g of chopped beans, rice, and vegetables, 45.7g of ground beef with vegetables, and 25g of low-fat soft cheese. I also included 9.6g of light cream for a nice touch, some fresh butterhead lettuce at 83.4g, 20g of a Mexican chalupa with filling, a bit of pink sauce (3g) to give it some flair, 66.7g of mashed red beans for extra flavor, and to sip on, I'm enjoying 125g of grapefruit-flavored soft drink."
+        "revised_description": "For dinner, I have 42.8g of chopped beans, rice, and vegetables, 45.7g of ground beef with vegetables, 25g of low-fat soft cheese, 9.6g of light fluid cream, 83.4g of raw butterhead lettuce, 20g of Mexican tortilla with filling (chalupa), 3g of pink tomato-based sauce, 66.7g of mashed red beans, and 125g of grapefruit-flavored soft drink."
     },
     {
         "index": 134406,
@@ -2598,13 +2598,7 @@
         "meal_str": "FISH, GRILLED||LEMONADE||MIXED CUCUMBER, CABBAGE, TOMATOES & CARROTS SALAD W/LEMON JUICE &SALT",
         "country": "CRI",
         "query": "{\"description1\": \"For dinner, I'm having 67g of grilled fish, 91g of lemonade, and a 98g mixed salad with cucumbers, cabbage, tomatoes, and carrots, dressed with lemon juice and salt.\", \"description2\": \"I'm eating a 67g portion of grilled fish along with 91g of lemonade and a 98g salad made of cucumbers, cabbage, tomatoes, and carrots with some lemon juice and salt for dinner.\", \"description3\": \"Dinner today includes 67g of grilled fish, 91g of lemonade, and a 98g salad with mixed cucumbers, cabbage, tomatoes, and carrots, seasoned with lemon juice and salt.\", \"description4\": \"For my dinner, I have 67 grams of grilled fish, a 91g glass of lemonade, and a salad that weighs 98g, containing cucumbers, cabbage, tomatoes, and carrots with lemon juice and salt.\", \"description5\": \"I'm enjoying a 67g serving of grilled fish for dinner, paired with 91g of lemonade and a 98g mixed salad of cucumbers, cabbage, tomatoes, and carrots, all tossed with lemon juice and salt.\"}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 67g of grilled fish, 91g of lemonade, and a 98g mixed salad with cucumbers, cabbage, tomatoes, and carrots, dressed with lemon juice and salt.",
-            "description2": "I'm eating a 67g portion of grilled fish along with 91g of lemonade and a 98g salad made of cucumbers, cabbage, tomatoes, and carrots with some lemon juice and salt for dinner.",
-            "description3": "Dinner today includes 67g of grilled fish, 91g of lemonade, and a 98g salad with mixed cucumbers, cabbage, tomatoes, and carrots, seasoned with lemon juice and salt.",
-            "description4": "For my dinner, I have 67 grams of grilled fish, a 91g glass of lemonade, and a salad that weighs 98g, containing cucumbers, cabbage, tomatoes, and carrots with lemon juice and salt.",
-            "description5": "I'm enjoying a 67g serving of grilled fish for dinner, paired with 91g of lemonade and a 98g mixed salad of cucumbers, cabbage, tomatoes, and carrots, all tossed with lemon juice and salt."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 133869,
@@ -3831,7 +3825,7 @@
         "meal_str": "BEANS SOUP||BEANS, RED, COOKED||PINEAPPLE BEVERAGE W/SUGAR & WATER||TUNA SALAD||WHITE RICE DISH, COOKED",
         "country": "CRI",
         "query": "{\n    \"description1\": \"For dinner, I had 31.7g of beans soup, 94g of cooked red beans, and 250g of pineapple beverage with sugar and water.\",\n    \"description2\": \"I enjoyed a dinner that included 44.3g of tuna salad, 148g of cooked white rice, along with 31.7g of beans soup.\",\n    \"description3\": \"For my dinner, I had a mix of 94g of red beans, 250g of pineapple drink, and 44.3g of tuna salad.\",\n    \"description4\": \"I had 148g of cooked white rice for dinner, paired with 31.7g of beans soup and 250g of a sweet pineapple beverage.\",\n    \"description5\": \"My dinner consisted of 44.3g of tuna salad, 94g of cooked red beans, and 148g of white rice, plus 250g of pineapple beverage.\"\n}",
-        "revised_description": "For dinner, I had 31.7g of beans soup, 94g of cooked red beans, and 250g of pineapple beverage with sugar and water. I also enjoyed 44.3g of tuna salad on the side and 148g of cooked white rice dish."
+        "revised_description": "For dinner, I had 31.7g of beans soup, 94g of cooked red beans, 250g of pineapple beverage with sugar and water, 44.3g of tuna salad, and 148g of cooked white rice dish."
     },
     {
         "index": 133835,
@@ -3909,7 +3903,7 @@
         "meal_str": "CARAMEL SAUCE||CHICKEN BURRITO||CHOCOLATE CAKE, RESTAURANT OR INDUSTRY PREPARED||MILK W/CHOCOLATE||SOFT DRINK, NOT COLA CARBONATED, ORANGE FLAVOUR||SWEET BREAD DESSERT, SOFT AND CREAMY",
         "country": "CRI",
         "query": "{\n  \"description1\": \"For a snack, I'm having a 104.1g chicken burrito with 32.6g of caramel sauce on top.\",\n  \"description2\": \"I have a 250g orange-flavored soft drink and a 27g slice of chocolate cake.\",\n  \"description3\": \"Along with my snack, I\u2019m enjoying 60g of soft and creamy sweet bread dessert and 74.3g of chocolate milk.\",\n  \"description4\": \"I\u2019m snacking on a chicken burrito and topping it with 32.6g of caramel sauce, plus a chocolate cake slice on the side.\",\n  \"description5\": \"For my snack, I've got a 250g serving of orange soda, 60g of sweet bread, and a bit of chocolate milk to go with it.\"\n}",
-        "revised_description": "For a snack, I'm having a 104.1g chicken burrito with 32.6g of caramel sauce on top, a delicious 27.0g chocolate cake that I got from the restaurant, a refreshing 74.3g milk with chocolate, a fizzy 250.0g orange-flavored soft drink, and a soft and creamy 60.0g sweet bread dessert."
+        "revised_description": "For a snack, I'm having a 104.1g chicken burrito with 32.6g of caramel sauce on top, along with a slice of 27.0g chocolate cake from the restaurant, a refreshing 250.0g orange-flavored soft drink, a 74.3g glass of milk with chocolate, and a soft and creamy 60.0g sweet bread dessert."
     },
     {
         "index": 134331,
@@ -3945,7 +3939,7 @@
         "meal_str": "BANANA||CAS BEVERAGE W/WATER||HEN EGGS||PASTA, MACCARONI W/TUNA||PIG & BEEF SAUSAGE||TOMATO||WHITE RICE DISH, COOKED",
         "country": "CRI",
         "query": "{\n    \"description1\": \"For lunch, I'm having 40.6g of banana, 375g of a cashew beverage with water, and 26.5g of hen eggs.\",\n    \"description2\": \"I have a lunch that includes 44.1g of macaroni with tuna, 86g of sausage made from pig and beef, and 23.5g of tomato.\",\n    \"description3\": \"My lunch consists of 81g of cooked white rice, along with 40.6g of banana and 375g of cashew beverage.\",\n    \"description4\": \"I\u2019m eating 26.5g of hen eggs for lunch, along with 44.1g of macaroni with tuna and 86g of sausage.\",\n    \"description5\": \"For lunch, I've got 375g of cashew beverage, 23.5g of tomato, and 81g of cooked white rice.\"\n}",
-        "revised_description": "For lunch, I'm having 40.6g of banana, 375.0g of cashew beverage with water, 26.5g of hen eggs, 44.1g of macaroni with tuna, 86.0g of pig and beef sausage, 23.5g of tomato, and 81.0g of cooked white rice dish."
+        "revised_description": "For lunch, I'm having 40.6g of banana, 375g of a cashew beverage with water, 26.5g of hen eggs, 44.1g of macaroni with tuna, 86g of pig and beef sausage, 23.5g of tomato, and 81g of cooked white rice."
     },
     {
         "index": 134184,
@@ -3981,7 +3975,7 @@
         "meal_str": "BEVERAGE, WATERMELON W/WATER, WO/SUGAR||BLACK BEANS, COOKED||CHICKEN SOUP||MIXED CUCUMBER, CABBAGE, TOMATOES & CARROTS SALAD W/LEMON JUICE &SALT||POTATO W/SALAMI-TYPE SAUSAGE||WHITE RICE DISH, COOKED",
         "country": "CRI",
         "query": "{\n    \"description1\": \"For lunch, I'm having 375g of watermelon drink, 102g of cooked black beans, and a bowl of chicken soup that weighs about 146.8g.\",\n    \"description2\": \"I have a mixed salad with cucumber, cabbage, tomatoes, and carrots dressed with lemon juice and salt, which comes to 115.6g, along with 44g of potato with salami-type sausage.\",\n    \"description3\": \"My lunch includes 58g of cooked white rice, 375g of watermelon drink, and 102g of black beans.\",\n    \"description4\": \"I'm eating chicken soup, which is around 146.8g, with a side of 115.6g mixed salad and 44g of potato with sausage for lunch.\",\n    \"description5\": \"For lunch, I've got 375g of watermelon drink, a 102g serving of black beans, and a 58g portion of white rice.\"\n}",
-        "revised_description": "For lunch, I'm having 375g of watermelon drink, 102g of cooked black beans, a bowl of chicken soup that weighs about 146.8g, a refreshing salad with mixed cucumber, cabbage, tomatoes, and carrots dressed with lemon juice and a sprinkle of salt weighing 115.6g, some potato with salami-type sausage totaling 44g, and a portion of cooked white rice that weighs 58g."
+        "revised_description": "For lunch, I'm having 375g of watermelon drink, 102g of cooked black beans, 146.8g of chicken soup, a refreshing 115.6g mixed salad of cucumbers, cabbage, tomatoes, and carrots with a splash of lemon juice and a sprinkle of salt, 44g of potatoes with some salami-type sausage, and 58g of cooked white rice."
     },
     {
         "index": 134807,

@@ -20,7 +20,7 @@ def filter_queries_with_metrics(description, unit, queries):
 
         pattern = r"\b(?:\d+(?:\.\d+)?|\d+/\d+|half(?:\s+a)?|a)\s?(?:-|\s)?(?:grams?|g(?:rams?)?)\b"
         matches = re.findall(pattern, query_text)
-        rounded_units = [round(float(u.replace('g', ''))) for u in unit]
+        rounded_units = [round(float(u.replace('g', '')), 1) for u in unit]
 
         list_of_weights = [] 
         print("query:", query_text)
@@ -44,11 +44,14 @@ def filter_queries_with_metrics(description, unit, queries):
                 m = float(m)
             list_of_weights.append(m)
         
-        list_of_weights = [round(w) for w in list_of_weights]
+        list_of_weights = [round(w, 1) for w in list_of_weights]
+        temp = [l for l in list_of_weights] # for debug
 
         missing = False
         for v in rounded_units:
-            if v not in list_of_weights:
+            if v in list_of_weights: 
+                list_of_weights.remove(v)
+            else: 
                 missing = True
 
         if not missing: 

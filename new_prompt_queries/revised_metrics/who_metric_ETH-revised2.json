@@ -1188,13 +1188,7 @@
         "meal_str": "Boiled coffee beans + salt||Injera, millet, corn and sorghum, 50:25:25, leavened||Split Lentil stew (onion + red chili powder + oil + salt)",
         "country": "ETH",
         "query": "{\n    \"description1\": \"For lunch, I'm having 305g of boiled coffee beans with salt, 290g of injera made from millet, corn, and sorghum, and a 280g serving of split lentil stew with onion, red chili powder, oil, and salt.\",\n    \"description2\": \"I just had 305 grams of boiled coffee beans plus salt, along with 290 grams of injera and 280 grams of split lentil stew for lunch.\",\n    \"description3\": \"Lunch consisted of 305g of boiled coffee beans with salt, 290g of millet and corn injera, and 280g of lentil stew seasoned with onion and chili powder.\",\n    \"description4\": \"I enjoyed 305 grams of boiled coffee beans with salt, 290 grams of injera, and a bowl of 280g split lentil stew for lunch.\",\n    \"description5\": \"For lunch today, I had 305g of boiled coffee beans with a bit of salt, 290g of injera, and 280g of split lentil stew made with onion and red chili powder.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 305g of boiled coffee beans with salt, 290g of injera made from millet, corn, and sorghum, and a 280g serving of split lentil stew with onion, red chili powder, oil, and salt.",
-            "description2": "I just had 305 grams of boiled coffee beans plus salt, along with 290 grams of injera and 280 grams of split lentil stew for lunch.",
-            "description3": "Lunch consisted of 305g of boiled coffee beans with salt, 290g of millet and corn injera, and 280g of lentil stew seasoned with onion and chili powder.",
-            "description4": "I enjoyed 305 grams of boiled coffee beans with salt, 290 grams of injera, and a bowl of 280g split lentil stew for lunch.",
-            "description5": "For lunch today, I had 305g of boiled coffee beans with a bit of salt, 290g of injera, and 280g of split lentil stew made with onion and red chili powder."
-        }
+        "revised_description": "For lunch, I'm having 305.0g of boiled coffee beans with salt, 290.0g of injera made from millet, corn, and sorghum, and a 280.3g serving of split lentil stew with onion, red chili powder, oil, and salt."
     },
     {
         "index": 134948,
@@ -1713,13 +1707,7 @@
         "meal_str": "Corn bread, unleavened (\u00e2\u0080\u0098Qita\u00e2\u0080\u0099)||Ethiopian kale, fried with oil + onion + salt||Roasted pea",
         "country": "ETH",
         "query": "{\n    \"description1\": \"For dinner, I'm having 66g of unleavened corn bread, 25g of Ethiopian kale fried with oil, onion, and salt, along with 20g of roasted peas.\",\n    \"description2\": \"I\u2019ve got a dinner with 66 grams of corn bread, 25 grams of fried Ethiopian kale, and 20 grams of roasted peas.\",\n    \"description3\": \"Tonight's meal includes 66g of corn bread, 25g of kale cooked with oil and onion, and 20g of roasted peas.\",\n    \"description4\": \"I\u2019m enjoying 66 grams of unleavened corn bread, 25 grams of fried Ethiopian kale with onion and salt, and 20 grams of roasted peas for dinner.\",\n    \"description5\": \"For dinner, I'm eating 66g of corn bread, 25g of fried kale with oil and onion, and some roasted peas weighing 20g.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 66g of unleavened corn bread, 25g of Ethiopian kale fried with oil, onion, and salt, along with 20g of roasted peas.",
-            "description2": "I\u2019ve got a dinner with 66 grams of corn bread, 25 grams of fried Ethiopian kale, and 20 grams of roasted peas.",
-            "description3": "Tonight's meal includes 66g of corn bread, 25g of kale cooked with oil and onion, and 20g of roasted peas.",
-            "description4": "I\u2019m enjoying 66 grams of unleavened corn bread, 25 grams of fried Ethiopian kale with onion and salt, and 20 grams of roasted peas for dinner.",
-            "description5": "For dinner, I'm eating 66g of corn bread, 25g of fried kale with oil and onion, and some roasted peas weighing 20g."
-        }
+        "revised_description": "For dinner, I'm having 66g of unleavened corn bread, 25.1g of Ethiopian kale fried with oil, onion, and salt, along with 20g of roasted peas."
     },
     {
         "index": 134952,
@@ -1942,13 +1930,7 @@
         "meal_str": "Boiled coffee beans + salt||Corn bread, unleavened (\u00e2\u0080\u0098Qita\u00e2\u0080\u0099)||Ethiopian kale, boiled with salt",
         "country": "ETH",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 122g of boiled coffee beans with salt, 220g of unleavened corn bread, and 200g of boiled Ethiopian kale with salt.\",\n    \"description2\": \"I prepared a breakfast that includes 122 grams of salted boiled coffee beans, 220 grams of corn bread, and 200 grams of Ethiopian kale boiled with salt.\",\n    \"description3\": \"This morning, I made 122g of boiled coffee beans with a pinch of salt, paired with 220g of unleavened corn bread and 200g of boiled kale from Ethiopia, seasoned with salt.\",\n    \"description4\": \"For breakfast, I have 122 grams of coffee beans boiled with salt, 220 grams of corn bread, and 200 grams of Ethiopian kale also boiled with salt.\",\n    \"description5\": \"I'm enjoying a breakfast of 122g of boiled coffee beans with salt, 220g of unleavened corn bread, and 200g of boiled Ethiopian kale seasoned with salt.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 122g of boiled coffee beans with salt, 220g of unleavened corn bread, and 200g of boiled Ethiopian kale with salt.",
-            "description2": "I prepared a breakfast that includes 122 grams of salted boiled coffee beans, 220 grams of corn bread, and 200 grams of Ethiopian kale boiled with salt.",
-            "description3": "This morning, I made 122g of boiled coffee beans with a pinch of salt, paired with 220g of unleavened corn bread and 200g of boiled kale from Ethiopia, seasoned with salt.",
-            "description4": "For breakfast, I have 122 grams of coffee beans boiled with salt, 220 grams of corn bread, and 200 grams of Ethiopian kale also boiled with salt.",
-            "description5": "I'm enjoying a breakfast of 122g of boiled coffee beans with salt, 220g of unleavened corn bread, and 200g of boiled Ethiopian kale seasoned with salt."
-        }
+        "revised_description": "For breakfast, I'm having 122.0g of boiled coffee beans with salt, 220.0g of unleavened corn bread, and 200.1g of boiled Ethiopian kale with salt."
     },
     {
         "index": 135206,
@@ -3477,7 +3459,6 @@
         "filtered_queries": {
             "description1": "For breakfast, I'm having 60 grams of avocado and 60 grams of unleavened corn bread.",
             "description2": "I had a 60g serving of avocado along with 60g of corn bread for breakfast.",
-            "description3": "This morning, I enjoyed 60 grams of avocado and an equal amount of unleavened corn bread.",
             "description4": "I\u2019m eating 60g of avocado and 60g of corn bread for breakfast.",
             "description5": "Breakfast today is 60 grams of avocado paired with 60 grams of corn bread."
         }
@@ -3726,13 +3707,7 @@
         "meal_str": "Boiled coffee beans + salt||Injera, millet and corn, 75:25, leavened||Split Lentil stew (onion + red chili powder + oil + salt)",
         "country": "ETH",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 256g of boiled coffee beans with salt, along with 287g of injera made from millet and corn, and 224g of split lentil stew with onion, red chili powder, oil, and salt.\",\n    \"description2\": \"I just made myself a breakfast with 256 grams of boiled coffee beans seasoned with salt, 287 grams of injera, and a side of 224 grams of split lentil stew.\",\n    \"description3\": \"This morning, I prepared 256g of boiled coffee beans with a pinch of salt, 287g of injera, and 224g of lentil stew that has onion and chili powder in it.\",\n    \"description4\": \"I\u2019m starting my day with 256 grams of boiled coffee beans mixed with salt, 287g of millet and corn injera, and a generous 224g serving of split lentil stew.\",\n    \"description5\": \"For breakfast, I have 256g of boiled coffee beans with salt, 287g of injera, and a 224g portion of lentil stew made with onion and chili powder.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 256g of boiled coffee beans with salt, along with 287g of injera made from millet and corn, and 224g of split lentil stew with onion, red chili powder, oil, and salt.",
-            "description2": "I just made myself a breakfast with 256 grams of boiled coffee beans seasoned with salt, 287 grams of injera, and a side of 224 grams of split lentil stew.",
-            "description3": "This morning, I prepared 256g of boiled coffee beans with a pinch of salt, 287g of injera, and 224g of lentil stew that has onion and chili powder in it.",
-            "description4": "I\u2019m starting my day with 256 grams of boiled coffee beans mixed with salt, 287g of millet and corn injera, and a generous 224g serving of split lentil stew.",
-            "description5": "For breakfast, I have 256g of boiled coffee beans with salt, 287g of injera, and a 224g portion of lentil stew made with onion and chili powder."
-        }
+        "revised_description": "For breakfast, I'm having 256g of boiled coffee beans with a pinch of salt, along with 287g of injera made from millet and corn, and 224.2g of split lentil stew with onion, red chili powder, oil, and salt. I've also got a little extra salt for seasoning, just to make everything pop!"
     },
     {
         "index": 135203,
@@ -4188,12 +4163,6 @@
         "meal_str": "Boiled water with dried coffee leaves  + ginger+ garlic+salt||Injera, corn and millet, 75:25, leavened||Roasted corn (Qolo)",
         "country": "ETH",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 480g of boiled water with dried coffee leaves, ginger, garlic, and salt, along with 132g of leavened injera made from corn and millet, and 50g of roasted corn.\",\n    \"description2\": \"I made a breakfast with 480g of boiled water mixed with coffee leaves, ginger, garlic, and salt, served with 132g of injera and 50g of roasted corn.\",\n    \"description3\": \"This morning, I prepared 480g of boiled water with coffee leaves and spices, paired with 132g of injera and 50g of roasted corn.\",\n    \"description4\": \"I'm enjoying a breakfast of 480g of boiled water with dried coffee leaves, ginger, garlic, and salt, along with 132g of injera and 50g of roasted corn.\",\n    \"description5\": \"For breakfast today, I have 480g of boiled water with coffee leaves, ginger, garlic, and salt, plus 132g of injera and 50g of Qolo roasted corn.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 480g of boiled water with dried coffee leaves, ginger, garlic, and salt, along with 132g of leavened injera made from corn and millet, and 50g of roasted corn.",
-            "description2": "I made a breakfast with 480g of boiled water mixed with coffee leaves, ginger, garlic, and salt, served with 132g of injera and 50g of roasted corn.",
-            "description3": "This morning, I prepared 480g of boiled water with coffee leaves and spices, paired with 132g of injera and 50g of roasted corn.",
-            "description4": "I'm enjoying a breakfast of 480g of boiled water with dried coffee leaves, ginger, garlic, and salt, along with 132g of injera and 50g of roasted corn.",
-            "description5": "For breakfast today, I have 480g of boiled water with coffee leaves, ginger, garlic, and salt, plus 132g of injera and 50g of Qolo roasted corn."
-        }
+        "revised_description": "For breakfast, I'm having 480.2g of boiled water with dried coffee leaves, ginger, garlic, and salt, along with 132g of leavened injera made from corn and millet, and 50g of roasted corn."
     }
 ]

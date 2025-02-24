@@ -75,7 +75,7 @@
         "meal_str": "Coconut Milk Rice||Composite-Muffins||Granulated Sugar||Instant Milk Powder With Full Cream||Oats Rolled||Raisins||Tap Water||Tea Plain Black Concentrated With Sugar",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For breakfast, I had 150g of coconut milk rice, 57g of composite muffins, and 17g of granulated sugar.\",\n    \"description2\": \"I enjoyed 23g of instant milk powder with full cream and 18g of rolled oats for breakfast.\",\n    \"description3\": \"I included 4.6g of raisins and drank 360g of tap water alongside my meal.\",\n    \"description4\": \"To drink, I had 34g of plain black tea concentrated with sugar, rounding out my breakfast.\",\n    \"description5\": \"So, for breakfast, I had coconut milk rice, muffins, some sugar, and a cup of sweet black tea.\"\n}",
-        "revised_description": "For breakfast, I had 150g of coconut milk rice, 57g of composite muffins, 17g of granulated sugar, 23g of instant milk powder with full cream, 18g of rolled oats, 4.6g of raisins, 360g of tap water, and 34g of plain black tea with sugar."
+        "revised_description": "For breakfast, I had 150g of coconut milk rice, 57g of composite muffins, and 17g of granulated sugar, along with 23g of instant milk powder with full cream, 18g of rolled oats, 4.6g of raisins, 360g of tap water, and 34g of plain black tea concentrated with sugar."
     },
     {
         "index": 208311,
@@ -174,7 +174,7 @@
         "meal_str": "Dried Apricot Halves Sulfured||Instant Oatmeal Dry||Kellogg'S Corn Flakes Cereal||Lowfat Milk Pasteurized||Nestum Cereal Prepared With Water||Orange||Raisins",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 10.5g of dried apricot halves, 16.88g of instant dry oatmeal, and 70g of Kellogg's Corn Flakes cereal with 200g of low-fat pasteurized milk.\",\n    \"description2\": \"I started my day with 61.25g of Nestum cereal prepared with water, along with an orange weighing 38.7g and 4.92g of raisins.\",\n    \"description3\": \"This morning, I had a mix of 10.5g of dried apricot halves, 16.88g of instant oatmeal, and 70g of corn flakes topped with 200g of low-fat milk.\",\n    \"description4\": \"For breakfast, I enjoyed 61.25g of Nestum cereal made with water, a 38.7g orange, and a handful of 4.92g raisins.\",\n    \"description5\": \"I had a breakfast spread that included 10.5g of sulfured dried apricot halves, 16.88g of instant oatmeal, and 70g of corn flakes with 200g of low-fat milk, plus some Nestum cereal and an orange.\"\n}",
-        "revised_description": "For breakfast, I'm having 10.5g of dried apricot halves, 16.88g of instant oatmeal, and 70g of Kellogg's Corn Flakes cereal with 200g of low-fat milk. I\u2019m also enjoying 61.25g of Nestum cereal prepared with water, 38.7g of orange, and 4.92g of raisins."
+        "revised_description": "For breakfast, I'm having 10.5g of dried apricot halves (sulfured), 16.88g of instant dry oatmeal, and 70g of Kellogg's Corn Flakes cereal with 200g of low-fat pasteurized milk. I'm also throwing in 61.25g of Nestum cereal prepared with water, a tasty 38.7g of orange, and a sprinkle of 4.92g of raisins for some extra sweetness."
     },
     {
         "index": 209629,
@@ -189,13 +189,7 @@
         "meal_str": "Curry Papaya",
         "country": "MYS",
         "query": "{\"description1\": \"I\u2019m having a 564g serving of Curry Papaya for a snack.\", \"description2\": \"For a snack, I\u2019m enjoying 564 grams of Curry Papaya.\", \"description3\": \"I\u2019ve got 564g of Curry Papaya as my snack.\", \"description4\": \"I\u2019m snacking on 564 grams of Curry Papaya.\", \"description5\": \"For a snack, I\u2019m eating a 564g portion of Curry Papaya.\"}",
-        "filtered_queries": {
-            "description1": "I\u2019m having a 564g serving of Curry Papaya for a snack.",
-            "description2": "For a snack, I\u2019m enjoying 564 grams of Curry Papaya.",
-            "description3": "I\u2019ve got 564g of Curry Papaya as my snack.",
-            "description4": "I\u2019m snacking on 564 grams of Curry Papaya.",
-            "description5": "For a snack, I\u2019m eating a 564g portion of Curry Papaya."
-        }
+        "revised_description": "I\u2019m having a 564.28g serving of Curry Papaya for a snack."
     },
     {
         "index": 208289,
@@ -250,13 +244,7 @@
         "meal_str": "Beef Lung Fried||Instant Coffee Powder||Rice Noodles Fried||Tap Water",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles along with 200g of tap water.\",\n    \"description2\": \"I just made myself a breakfast of 55 grams of beef lung fried, with 20g of instant coffee powder and 193g of fried rice noodles. I'm also drinking 200g of tap water.\",\n    \"description3\": \"For my breakfast, I have 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles, plus 200g of tap water to drink.\",\n    \"description4\": \"I'm starting my day with 55 grams of beef lung fried, 20g of instant coffee powder, and 193g of fried rice noodles, and I'm having 200g of tap water on the side.\",\n    \"description5\": \"This morning, I prepared 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles, and I'm drinking 200g of tap water.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles along with 200g of tap water.",
-            "description2": "I just made myself a breakfast of 55 grams of beef lung fried, with 20g of instant coffee powder and 193g of fried rice noodles. I'm also drinking 200g of tap water.",
-            "description3": "For my breakfast, I have 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles, plus 200g of tap water to drink.",
-            "description4": "I'm starting my day with 55 grams of beef lung fried, 20g of instant coffee powder, and 193g of fried rice noodles, and I'm having 200g of tap water on the side.",
-            "description5": "This morning, I prepared 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles, and I'm drinking 200g of tap water."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 208566,
@@ -486,7 +474,7 @@
         "meal_str": "Black Glutinous Rice||Brown Rice||Chicken Egg Fried||Dried Date||Duck Egg Fried||French Beans Stir Fried||Leeks Stir Fried||Papaya||Pork Lean Fried||String Beans Stir Fried||White Bread",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For lunch, I had 46.88g of black glutinous rice, 180g of brown rice, and 46g of fried chicken egg. I also enjoyed 52.4g of dried dates and 64.9g of fried duck egg.\",\n    \"description2\": \"I ate 29.1g of stir-fried French beans and 93.6g of stir-fried leeks alongside 200g of papaya for lunch.\",\n    \"description3\": \"For lunch, I had 22.6g of fried lean pork and 29.5g of stir-fried string beans, plus a slice of 7.5g white bread.\",\n    \"description4\": \"I enjoyed a mix of 46.88g black glutinous rice, 180g brown rice, and 46g chicken egg fried at lunch, along with some 52.4g dried dates.\",\n    \"description5\": \"For lunch, I had a variety of foods including 64.9g fried duck egg, 29.1g French beans stir-fried, and 200g of fresh papaya.\"\n}",
-        "revised_description": "For lunch, I had 46.88g of black glutinous rice, 180.0g of brown rice, and 46.0g of fried chicken egg. I also enjoyed 52.4g of dried dates and 64.9g of fried duck egg. To add some greens, I had 29.1g of stir-fried French beans and 93.6g of stir-fried leeks. For a bit of sweetness, I had 200.0g of papaya, and I also included 22.6g of fried lean pork. I rounded it off with 29.5g of stir-fried string beans and a little piece of 7.5g of white bread."
+        "revised_description": "For lunch, I had 46.88g of black glutinous rice, 180.0g of brown rice, and 46.0g of fried chicken egg. I also enjoyed 52.4g of dried dates and 64.9g of fried duck egg. On the side, I had 29.1g of stir-fried French beans and 93.6g of stir-fried leeks. For a sweet touch, I had 200.0g of papaya. To add some flavor, I included 22.6g of fried lean pork and 29.5g of stir-fried string beans. I also snacked on a little bit of white bread, weighing 7.5g."
     },
     {
         "index": 206725,
@@ -933,9 +921,7 @@
         "meal_str": "Chicken Roasted||Chocolate Ice Cream||Mix Vegetables Stir Fried||Oily Rice||Papaya||Pineapple||Watermelon",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For lunch, I had 60g of roasted chicken, 110g of oily rice, and 59g of stir-fried mixed vegetables. I also enjoyed 50g of chocolate ice cream and had some papaya, pineapple, and watermelon on the side.\",\n    \"description2\": \"I\u2019m having lunch that includes 60g of roasted chicken, 110g of oily rice, and about 59g of mixed vegetables stir-fried. For dessert, I\u2019m enjoying 50g of chocolate ice cream and some fresh papaya, pineapple, and watermelon.\",\n    \"description3\": \"Lunch today consists of 60g of roasted chicken, 58g of stir-fried mixed vegetables, and 110g of oily rice. I finished off with 50g of chocolate ice cream and a mix of 100g of papaya, 130g of pineapple, and 134g of watermelon.\",\n    \"description4\": \"I had 60g of roasted chicken along with 110g of oily rice and 59g of stir-fried mixed vegetables for lunch. I also treated myself to 50g of chocolate ice cream and a serving of papaya, pineapple, and watermelon.\",\n    \"description5\": \"For lunch, I'm enjoying 60g of roasted chicken, 110g of oily rice, and about 59g of mixed vegetables stir-fried. I also have 50g of chocolate ice cream and some fresh fruit: 100g of papaya, 130g of pineapple, and 134g of watermelon.\"\n}",
-        "filtered_queries": {
-            "description5": "For lunch, I'm enjoying 60g of roasted chicken, 110g of oily rice, and about 59g of mixed vegetables stir-fried. I also have 50g of chocolate ice cream and some fresh fruit: 100g of papaya, 130g of pineapple, and 134g of watermelon."
-        }
+        "revised_description": "For lunch, I had 60g of roasted chicken, 110g of oily rice, and 59g of stir-fried mixed vegetables. I also enjoyed 49.6g of chocolate ice cream and had some papaya (100g), pineapple (130g), and watermelon (133.5g) on the side."
     },
     {
         "index": 205750,
@@ -1013,7 +999,7 @@
         "meal_str": "Brown Rice||Celery Cabbage Stir Fried||Chicken Cooked In Coconut Milk Gravy||Coconut Flesh Young||Coconut Water||Guava||Oyster Sauce",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For dinner, I'm having 120g of brown rice, 38.2g of stir-fried celery cabbage, and 62.6g of chicken cooked in coconut milk gravy.\",\n    \"description2\": \"I\u2019ve got 42.55g of young coconut flesh and a refreshing 250g of coconut water on the side for dinner.\",\n    \"description3\": \"I\u2019m also enjoying 79.62g of guava and a drizzle of 19.9g oyster sauce with my meal.\",\n    \"description4\": \"Dinner includes 120g of brown rice, with 38.2g of celery cabbage stir-fry and 62.6g of chicken in coconut gravy.\",\n    \"description5\": \"On my dinner plate, there\u2019s 42.55g of young coconut flesh, a glass of 250g coconut water, and 79.62g of guava for dessert.\"\n}",
-        "revised_description": "For dinner, I'm having 120g of brown rice, 38.2g of stir-fried celery cabbage, 62.6g of chicken cooked in coconut milk gravy, 42.55g of young coconut flesh, 250g of coconut water, 79.62g of guava, and 19.9g of oyster sauce."
+        "revised_description": "For dinner, I'm having 120g of brown rice, 38.2g of stir-fried celery cabbage, and 62.6g of chicken cooked in coconut milk gravy. I'm also enjoying 42.55g of young coconut flesh on the side, sipping on 250g of coconut water, and having some sweet guava\u2014about 79.62g of it. To top it off, I've added a dash of oyster sauce at 19.9g for extra flavor."
     },
     {
         "index": 206938,
@@ -1342,7 +1328,7 @@
         "meal_str": "Chicken Egg Fried||Chicken Fried||Fish Crackers Fried||Granulated Sugar||Musk Lime||Rice Cooked||Rose Syrup||Swamp Cabbage Stir Fried With Anchovies||Tap Water",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For lunch, I had 46 grams of chicken egg fried, 90 grams of chicken fried, and 160 grams of cooked rice. I also had 89.5 grams of swamp cabbage stir fried with anchovies and a little rose syrup on the side.\",\n    \"description2\": \"I ate 90 grams of chicken fried along with 46 grams of chicken egg fried and 250 grams of tap water to drink at lunch.\",\n    \"description3\": \"At lunch, I enjoyed 6.54 grams of fish crackers fried and 12.1 grams of musk lime along with 17 grams of granulated sugar.\",\n    \"description4\": \"My lunch included 89.5 grams of swamp cabbage stir fried with anchovies, 160 grams of cooked rice, and 12 grams of rose syrup.\",\n    \"description5\": \"I had a mix for lunch: 46 grams of chicken egg fried, 90 grams of chicken fried, and I washed it down with 250 grams of tap water.\"\n}",
-        "revised_description": "For lunch, I had 46 grams of chicken egg fried, 90 grams of chicken fried, and 160 grams of cooked rice. I also had 89.5 grams of swamp cabbage stir fried with anchovies, 6.54 grams of fish crackers fried, and a little rose syrup (12 grams) on the side. Plus, I enjoyed some granulated sugar (17 grams) and musk lime (12.1 grams) for extra flavor, and washed it all down with 250 grams of tap water."
+        "revised_description": "For lunch, I had 46.0 grams of chicken egg fried, 90.0 grams of chicken fried, and 160.0 grams of cooked rice. I also had 89.5 grams of swamp cabbage stir fried with anchovies and a little rose syrup (12.0 grams) on the side. I enjoyed some fish crackers fried (6.54 grams) as a snack and sweetened my meal with a bit of granulated sugar (17.0 grams) and musk lime (12.1 grams). To wash everything down, I had 250.0 grams of tap water."
     },
     {
         "index": 206865,
@@ -1483,13 +1469,7 @@
         "meal_str": "Chili Sauce Bottled||Chinese Mustard Leaves Stir Fried||Fish Ball||Indian Mackerel Fried||Rice Cooked||Tomato Ketchup Or Catsup",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For dinner, I'm having 160g of cooked rice with 75g of fried Indian mackerel, 86g of stir-fried Chinese mustard leaves, and 36g of fish balls. I added 4.9g of chili sauce and a bit of 4.45g of tomato ketchup.\",\n    \"description2\": \"I had dinner with 160g of rice, topped with 75g of fried Indian mackerel. I also enjoyed 86g of stir-fried Chinese mustard leaves and 36g of fish balls, along with a drizzle of 4.9g chili sauce and 4.45g tomato ketchup.\",\n    \"description3\": \"For dinner, I prepared 160g of cooked rice and paired it with 75g of Indian mackerel fried. I also had 86g of Chinese mustard leaves stir-fried and 36g of fish balls, plus a bit of chili sauce (4.9g) and 4.45g of tomato ketchup.\",\n    \"description4\": \"I\u2019m eating 160g of cooked rice with 75g of fried Indian mackerel for dinner. I also have 86g of stir-fried Chinese mustard leaves and 36g of fish balls, topped off with 4.9g of chili sauce and 4.45g of tomato ketchup.\",\n    \"description5\": \"For dinner, there\u2019s 160g of rice served with 75g of fried Indian mackerel, 86g of stir-fried Chinese mustard leaves, and 36g of fish balls. I like to add 4.9g of chili sauce and a little bit of 4.45g tomato ketchup.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 160g of cooked rice with 75g of fried Indian mackerel, 86g of stir-fried Chinese mustard leaves, and 36g of fish balls. I added 4.9g of chili sauce and a bit of 4.45g of tomato ketchup.",
-            "description2": "I had dinner with 160g of rice, topped with 75g of fried Indian mackerel. I also enjoyed 86g of stir-fried Chinese mustard leaves and 36g of fish balls, along with a drizzle of 4.9g chili sauce and 4.45g tomato ketchup.",
-            "description3": "For dinner, I prepared 160g of cooked rice and paired it with 75g of Indian mackerel fried. I also had 86g of Chinese mustard leaves stir-fried and 36g of fish balls, plus a bit of chili sauce (4.9g) and 4.45g of tomato ketchup.",
-            "description4": "I\u2019m eating 160g of cooked rice with 75g of fried Indian mackerel for dinner. I also have 86g of stir-fried Chinese mustard leaves and 36g of fish balls, topped off with 4.9g of chili sauce and 4.45g of tomato ketchup.",
-            "description5": "For dinner, there\u2019s 160g of rice served with 75g of fried Indian mackerel, 86g of stir-fried Chinese mustard leaves, and 36g of fish balls. I like to add 4.9g of chili sauce and a little bit of 4.45g tomato ketchup."
-        }
+        "revised_description": "For dinner, I'm having 160.0g of cooked rice with 75.0g of fried Indian mackerel, 86.1g of stir-fried Chinese mustard leaves, and 35.6g of fish balls. I added 4.9g of chili sauce and a bit of 4.45g of tomato ketchup."
     },
     {
         "index": 207181,
@@ -1567,7 +1547,7 @@
         "meal_str": "Brown Rice||Chicken Cooked In Soya Sauce Gravy||Chinese Radish Pickled||Garlic Bulbs||Lettuce Stir Fried||Soybean Curd Stir Fried||Tangerine Or Mandarin Orange",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For dinner, I'm having 120g of brown rice with 100.6g of chicken cooked in soy sauce gravy, along with 6.34g of pickled Chinese radish.\",\n    \"description2\": \"I\u2019ve got a dinner plate with 56.5g of stir-fried lettuce, 122.8g of stir-fried soybean curd, and I\u2019m finishing it off with a 127.5g tangerine.\",\n    \"description3\": \"For dinner, I\u2019m enjoying 120g of brown rice and 100.6g of chicken in soy sauce gravy, plus some 2.73g of garlic bulbs on the side.\",\n    \"description4\": \"I\u2019m having a 100.6g serving of chicken in soy sauce gravy with 56.5g of stir-fried lettuce and 122.8g of soybean curd for dinner.\",\n    \"description5\": \"My dinner includes 120g of brown rice, 100.6g of chicken in soy sauce gravy, and I\u2019m adding some 6.34g of pickled Chinese radish for extra flavor.\"\n}",
-        "revised_description": "For dinner, I'm having 120g of brown rice with 100.6g of chicken cooked in soy sauce gravy, along with 6.34g of pickled Chinese radish, some 2.73g of garlic, 56.5g of stir-fried lettuce, 122.8g of stir-fried soybean curd, and a tasty 127.5g of tangerine."
+        "revised_description": "For dinner, I'm having 120g of brown rice with 100.6g of chicken cooked in soy sauce gravy, along with 6.34g of pickled Chinese radish, 2.73g of garlic, 56.5g of stir-fried lettuce, 122.8g of stir-fried soybean curd, and 127.5g of tangerine."
     },
     {
         "index": 208421,
@@ -1666,7 +1646,7 @@
         "meal_str": "Chicken Fried||Chinese Mustard Leaves Stir Fried||Coffee Powder||Fish Sauce||Granulated Sugar||Petai Beans Stir Fried With Chili Paste||Rice Cooked||Small Shrimp Stir Fried With Traditional Chili Paste||Tap Water",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For a snack, I'm having 15g of Chicken Fried, 86g of stir-fried Chinese mustard leaves, and 410g of cooked rice. I also have 30g of petai beans stir-fried with chili paste and 15g of small shrimp stir-fried with traditional chili paste. I\u2019ll wash it down with 200g of tap water.\",\n    \"description2\": \"I\u2019ve got a snack of 15g of Chicken Fried and 86g of Chinese mustard leaves stir-fried. There\u2019s also 410g of cooked rice and 30g of petai beans with chili paste. I\u2019ll finish it off with 15g of small shrimp in chili paste and a glass of 200g of tap water.\",\n    \"description3\": \"For my snack, I\u2019m eating 15g of Chicken Fried, 86g of stir-fried mustard leaves, and 5g of fish sauce mixed in. I've also got 410g of cooked rice, 30g of petai beans in chili paste, and 15g of shrimp in chili paste, plus 200g of tap water.\",\n    \"description4\": \"I'm enjoying a snack that includes 15g of Chicken Fried, 86g of Chinese mustard leaves stir-fried, and 5g of granulated sugar for a bit of sweetness. I\u2019ve got 410g of rice, 30g of petai beans with chili paste, and 15g of shrimp in chili paste, along with 200g of tap water.\",\n    \"description5\": \"For my snack, I have 15g of Chicken Fried and 86g of Chinese mustard leaves stir-fried. There's also 410g of rice, 30g of petai beans in chili paste, and 15g of shrimp in chili paste, and I\u2019m drinking 200g of tap water.\"\n}",
-        "revised_description": "For a snack, I'm having 15g of Chicken Fried, 86g of stir-fried Chinese mustard leaves, and 410g of cooked rice. I also have 30g of petai beans stir-fried with chili paste and 15g of small shrimp stir-fried with traditional chili paste. I\u2019ll wash it down with 200g of tap water. Oh, and I added a bit of coffee powder, about 4g, along with 5g of fish sauce and a sprinkle of 5g of granulated sugar for some extra flavor."
+        "revised_description": "For a snack, I'm having 15.0g of Chicken Fried, 86.0g of stir-fried Chinese mustard leaves, and 410.0g of cooked rice. I also have 30.0g of petai beans stir-fried with chili paste and 15.0g of small shrimp stir-fried with traditional chili paste. I\u2019ll wash it down with 200.0g of tap water. Oh, and I also decided to add a little flavor with 5.0g of fish sauce and a dash of 5.0g of granulated sugar, plus I\u2019ll enjoy a warm cup of coffee made with 4.0g of coffee powder."
     },
     {
         "index": 207209,
@@ -1765,7 +1745,7 @@
         "meal_str": "Chicken Curry||Chutney Sweet Tomato||Coconut Milk Rice||Fried Noodles With Egg||Naan Indian Flat Bread||Tea With Condensed Milk Concentrated||Yellow Dhal Gravy",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For a snack, I'm having 24g of chicken curry, 22.67g of sweet tomato chutney, and 230g of coconut milk rice.\",\n    \"description2\": \"I also have 83.25g of fried noodles with egg and 85g of naan Indian flatbread as part of my snack.\",\n    \"description3\": \"On the side, I'm enjoying 45g of tea with condensed milk and a serving of 20g of yellow dhal gravy.\",\n    \"description4\": \"So, my snack includes chicken curry, chutney, coconut milk rice, fried noodles, naan, tea with condensed milk, and yellow dhal gravy.\",\n    \"description5\": \"Overall, it's a mix of 24g chicken curry, 230g coconut milk rice, and a variety of other tasty items for my snack.\"\n}",
-        "revised_description": "For a snack, I'm having 24g of chicken curry, 22.67g of sweet tomato chutney, 230g of coconut milk rice, 83.25g of fried noodles with egg, 85g of naan Indian flat bread, 45g of tea with condensed milk, and 20g of yellow dhal gravy."
+        "revised_description": "For a snack, I'm having 24g of chicken curry, 22.67g of sweet tomato chutney, 230g of coconut milk rice, 83.25g of fried noodles with egg, 85g of naan Indian flat bread, 45g of tea with condensed milk concentrated, and 20g of yellow dhal gravy."
     },
     {
         "index": 206349,
@@ -1868,8 +1848,7 @@
             "description1": "For dinner, I'm having 172.2 grams of stir-fried Chinese mustard leaves, 45 grams of fried cuttlefish, and 120 grams of cooked rice. I\u2019m also adding 5 grams of chili sauce and 5 grams of tomato ketchup on the side, along with 180 grams of low-fat milk.",
             "description2": "I\u2019m having dinner with 180 grams of low-fat milk, 172.2 grams of Chinese mustard leaves stir-fried, and 120 grams of rice. I also included 5 grams of chili sauce and 5 grams of ketchup, plus 45 grams of fried cuttlefish.",
             "description3": "For dinner tonight, I have 120 grams of rice, 172.2 grams of stir-fried Chinese mustard leaves, and 45 grams of fried cuttlefish. I\u2019ll be having 5 grams of chili sauce and 5 grams of ketchup on the side, along with a glass of 180 grams of low-fat milk.",
-            "description4": "I\u2019m enjoying dinner with 172.2 grams of stir-fried Chinese mustard leaves, 45 grams of fried cuttlefish, and 120 grams of cooked rice. I\u2019ve added 5 grams of chili sauce and 5 grams of tomato ketchup, and I\u2019m drinking 180 grams of low-fat milk.",
-            "description5": "For my dinner, I have 180 grams of low-fat milk, along with 172.2 grams of stir-fried Chinese mustard leaves, 120 grams of cooked rice, and 45 grams of fried cuttlefish. I\u2019m also using 5 grams each of chili sauce and tomato ketchup."
+            "description4": "I\u2019m enjoying dinner with 172.2 grams of stir-fried Chinese mustard leaves, 45 grams of fried cuttlefish, and 120 grams of cooked rice. I\u2019ve added 5 grams of chili sauce and 5 grams of tomato ketchup, and I\u2019m drinking 180 grams of low-fat milk."
         }
     },
     {
@@ -2010,13 +1989,7 @@
         "meal_str": "Rice Noodles Flat Fried||Syrup Water And Sugar||Upma Indian Breakfast Meal Made From Semolina And Vegetables",
         "country": "MYS",
         "query": "{\"description1\": \"For a snack, I'm having 40g of flat fried rice noodles with 250g of syrup made from water and sugar, along with 151g of upma, which is an Indian breakfast meal made from semolina and vegetables.\", \"description2\": \"I decided on a snack that includes 40g of fried rice noodles, 250g of syrup mixed with water and sugar, and 151g of upma made from semolina and veggies.\", \"description3\": \"For my snack, I've got 40g of flat fried rice noodles, 250g of sweet syrup, and 151g of upma, an Indian dish with semolina and vegetables.\", \"description4\": \"I'm snacking on 40g of flat fried rice noodles, paired with 250g of syrup made from water and sugar, plus 151g of upma, which is a savory Indian breakfast dish.\", \"description5\": \"For a quick snack, I'm having 40g of rice noodles that are flat and fried, 250g of syrup made from water and sugar, and 151g of upma, an Indian breakfast meal made with semolina and veggies.\"}",
-        "filtered_queries": {
-            "description1": "For a snack, I'm having 40g of flat fried rice noodles with 250g of syrup made from water and sugar, along with 151g of upma, which is an Indian breakfast meal made from semolina and vegetables.",
-            "description2": "I decided on a snack that includes 40g of fried rice noodles, 250g of syrup mixed with water and sugar, and 151g of upma made from semolina and veggies.",
-            "description3": "For my snack, I've got 40g of flat fried rice noodles, 250g of sweet syrup, and 151g of upma, an Indian dish with semolina and vegetables.",
-            "description4": "I'm snacking on 40g of flat fried rice noodles, paired with 250g of syrup made from water and sugar, plus 151g of upma, which is a savory Indian breakfast dish.",
-            "description5": "For a quick snack, I'm having 40g of rice noodles that are flat and fried, 250g of syrup made from water and sugar, and 151g of upma, an Indian breakfast meal made with semolina and veggies."
-        }
+        "revised_description": "For a snack, I'm having 40.01g of flat fried rice noodles with 250.0g of syrup made from water and sugar, along with 151.11g of upma, which is an Indian breakfast meal made from semolina and vegetables."
     },
     {
         "index": 209937,
@@ -2094,7 +2067,7 @@
         "meal_str": "Chicken Egg Fried||Chocolate Cake With Frosting Ready To Eat||Cream Cracker Biscuit||Granulated Sugar||Grilled Fish Cake||Instant Noodles Cooked In Boiling Water Drained||Kuih Lompang||Mint||Spring Roll Fried Popia Goreng",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For a snack, I had 46g of Chicken Egg Fried, 33g of chocolate cake with frosting, and 8g of cream cracker biscuits.\",\n    \"description2\": \"I enjoyed 170g of instant noodles cooked in boiling water, along with 15g of grilled fish cake and 34g of fried spring rolls.\",\n    \"description3\": \"I had 172g of Kuih Lompang, 10g of granulated sugar, and a bit of mint at snack time.\",\n    \"description4\": \"For my snack, I ate 46g of Chicken Egg Fried, 33g of chocolate cake, and 2.61g of mint as a garnish.\",\n    \"description5\": \"I snacked on 8g of cream crackers, 170g of instant noodles, and 15g of grilled fish cake.\"\n}",
-        "revised_description": "For a snack, I had 46g of Chicken Egg Fried, 33g of Chocolate Cake with Frosting, 8g of Cream Cracker Biscuits, 10g of Granulated Sugar, 15g of Grilled Fish Cake, 170g of Instant Noodles cooked in boiling water and drained, 172g of Kuih Lompang, 2.61g of Mint, and 34g of Fried Spring Roll Popia Goreng."
+        "revised_description": "For a snack, I had 46.0g of Chicken Egg Fried, 33.0g of Chocolate Cake with Frosting Ready to Eat, 8.0g of Cream Cracker Biscuit, 10.0g of Granulated Sugar, 15.0g of Grilled Fish Cake, 170.0g of Instant Noodles cooked in boiling water drained, 172.0g of Kuih Lompang, 2.61g of Mint, and 34.0g of Spring Roll Fried Popia Goreng."
     },
     {
         "index": 208701,
@@ -2946,7 +2919,7 @@
         "meal_str": "Coca-Cola Classic Cola Soda||Fried Noodles||Fritters With Spicy Coconut Filling Cucur Badak||Soybean Curd Puffed",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For a snack, I had 325 grams of Coca-Cola Classic soda along with 200g of fried noodles.\",\n    \"description2\": \"I enjoyed a snack of 87 grams of fritters with spicy coconut filling and 46.2 grams of soybean curd puffed.\",\n    \"description3\": \"I snacked on 325g of Coca-Cola and 199.98g of fried noodles.\",\n    \"description4\": \"I had a 46.2g serving of soybean curd puffed with 87g of fritters and 325g of Coke as a snack.\",\n    \"description5\": \"For my snack, I ate 200g of fried noodles, 87 grams of fritters, and drank 325 grams of Coca-Cola.\"\n}",
-        "revised_description": "For a snack, I had 325.0 grams of Coca-Cola Classic soda along with 199.98 grams of fried noodles, 87.0 grams of fritters with spicy coconut filling (Cucur Badak), and 46.2 grams of soybean curd puffs."
+        "revised_description": "For a snack, I had 325 grams of Coca-Cola Classic soda along with 200 grams of fried noodles. I also enjoyed some fritters with spicy coconut filling, which weighed about 87 grams, and had 46.2 grams of soybean curd puffed on the side."
     },
     {
         "index": 207474,
@@ -3354,7 +3327,7 @@
         "meal_str": "Dried Chinese Mushrooms||Fish Custard Steamed||Rice Noodle Rolls With Sweet Soy Sauce Chee Cheong Fun Plain With Sauce||Soy Sauce Thin||Tap Water||Tea With Evaporated Milk Concentrated||White Bread",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 6.72g of dried Chinese mushrooms, 127.6g of fish custard steamed, and 101.33g of rice noodle rolls with sweet soy sauce.\",\n    \"description2\": \"I\u2019ve got 14g of soy sauce, 150g of tap water, and 46.99g of tea with evaporated milk for breakfast.\",\n    \"description3\": \"This morning, I'm eating 30g of white bread along with my other dishes.\",\n    \"description4\": \"Breakfast includes a mix of 6.72g dried mushrooms, 127.6g steamed fish custard, and 101.33g rice noodle rolls with sweet soy sauce.\",\n    \"description5\": \"I also have 14g of soy sauce, a glass of 150g tap water, and 46.99g of tea with evaporated milk for my breakfast.\"\n}",
-        "revised_description": "For breakfast, I'm having 6.72g of dried Chinese mushrooms, 127.6g of fish custard steamed, 101.33g of rice noodle rolls with sweet soy sauce, 101.33g of chee cheong fun plain with sauce, 14.0g of thin soy sauce, 150.0g of tap water, 46.99g of tea with evaporated milk, and 30.0g of white bread."
+        "revised_description": "For breakfast, I'm having 6.72g of dried Chinese mushrooms, 127.6g of fish custard steamed, 101.33g of rice noodle rolls with sweet soy sauce, 101.33g of chee cheong fun plain with sauce, 14.0g of soy sauce, 150.0g of tap water, 46.99g of tea with evaporated milk concentrated, and 30.0g of white bread."
     },
     {
         "index": 205518,
@@ -3681,7 +3654,7 @@
         "meal_str": "Cucumber||Fried Rice||Granulated Sugar||Musk Lime||Tap Water",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For breakfast, I had 6.81g of cucumber, 330g of fried rice with 17g of granulated sugar sprinkled on top, and a slice of musk lime. I also drank 300g of tap water.\",\n    \"description2\": \"I started my day with a 6.81g cucumber, a big serving of fried rice weighing about 330g, and added 17g of sugar for some sweetness. I had musk lime on the side and 300g of tap water.\",\n    \"description3\": \"This morning, I enjoyed 6.81g of cucumber along with 330g of fried rice mixed with 17g of granulated sugar. I added some musk lime and washed it down with 300g of tap water.\",\n    \"description4\": \"I had a light breakfast of 6.81g of cucumber, followed by 330g of fried rice with a touch of 17g sugar. I also had musk lime and 300g of tap water to drink.\",\n    \"description5\": \"For breakfast, I ate 6.81g of cucumber and a large portion of fried rice weighing around 330g, sweetened with 17g of granulated sugar. I had musk lime on the side and 300g of tap water.\"\n}",
-        "revised_description": "For breakfast, I had 6.81g of cucumber, 329.99999999999994g of fried rice with 17.0g of granulated sugar sprinkled on top, a slice of musk lime weighing 12.1g, and I also drank 300.0g of tap water."
+        "revised_description": "For breakfast, I had 6.81g of cucumber, 330g of fried rice with 17g of granulated sugar sprinkled on top, and a slice of musk lime weighing 12.1g. I also drank 300g of tap water."
     },
     {
         "index": 206844,

@@ -256,7 +256,7 @@
             "description4": "I'm having a dinner that includes 120g of cooked chicken leg, 150g of rice, and 50g of raw pig meat. On the side, there are 150g of mandarins, a little maize oil, some stock cubes, and I'm drinking 75g of red wine.",
             "description5": "For dinner, I'm having 120 grams of cooked chicken leg without skin, 150 grams of rice, and 50 grams of raw pig meat. I also have 150 grams of mandarins, a bit of maize oil, some stock cubes, and 75 grams of red wine."
         },
-        "revised_description": "For dinner, I'm having 120g of cooked chicken leg without skin, 150g of cooked rice, and 50g of raw pig meat. I also have 150g of mandarins on the side, along with 0.2g of maize oil, a bit of stock cubes (0.5g) for some flavor, plus 75g of red wine."
+        "revised_description": "For dinner, I'm having 120g of cooked chicken leg without skin, 150g of cooked rice, and 50g of raw pig meat. I also have 150g of mandarins on the side, along with 0.2g of maize oil and 0.5g of stock cubes, plus 75g of red wine."
     },
     {
         "index": 12822,
@@ -322,7 +322,7 @@
             "description4": "There's 45g of fresh tomatoes on the plate too for dinner.",
             "description5": "So, for dinner, it's a mix of cola, raw beef, mandarins, onions, rice, stock cubes, sweet peppers, and tomatoes."
         },
-        "revised_description": "For dinner, I'm having 400g of caffeinated cola, 44.2g of raw low-fat beef, 110g of mandarins, 12g of raw onions, 50g of raw polished rice, 1g of stock cubes (diced), 9g of raw green sweet peppers, and 45g of fresh tomatoes."
+        "revised_description": "For dinner, I'm having 400g of caffeinated cola, 44.2g of raw low-fat beef, 110g of mandarins, 12g of raw onions, 50g of polished rice, 1g of stock cubes, 9g of raw green sweet peppers, and 45g of fresh tomatoes."
     },
     {
         "index": 11603,
@@ -1642,7 +1642,7 @@
             "description4": "For my meal, I'm including 30g of short pastry dough and a 400g serving of sweet corn, which is raw and yellow.",
             "description5": "I'm also drinking a 5g lemon-flavored soft drink and finishing off with 10g of raw Swiss chard and a couple of whole eggs."
         },
-        "revised_description": "For dinner, I'm having a 26g chocolate-coated biscuit with puffed rice, 20g of raw carrots, and 7g of raw celery. I'm also enjoying 15g of danbo cheese, 20g of cooked pork ham, 10g of raw courgettes, 5g of raw leeks, 5g of raw onions, 20g of raw potatoes, 20g of raw pumpkins, and 25g of polished rice. To complete the meal, I'm having 30g of short pastry dough, 400g of lemon-flavored soft drink, 5g of raw sweet corn, 10g of raw Swiss chards (without the stem), and 10g of whole eggs."
+        "revised_description": "For dinner, I'm having a 26g chocolate-coated biscuit with puffed rice, 20g of raw carrots, 7g of raw celery, 15g of danbo cheese, 20g of cooked pork ham, 10g of raw courgettes, 5g of raw leeks, 5g of raw onions, 20g of raw potatoes, 20g of raw pumpkins, 25g of raw rice, 30g of short pastry dough, 400g of soft drink with lemon juice, 5g of raw sweet corn, 10g of raw Swiss chards, and 10g of whole eggs."
     },
     {
         "index": 2085,
@@ -1760,7 +1760,7 @@
             "description4": "My lunch also has 35g of tomato puree and 100g of fortified white wheat flour.",
             "description5": "So, for lunch, I have a mix of vegetables and rice, plus some cola to drink."
         },
-        "revised_description": "For lunch, I'm having 23g of raw carrots, 200g of caffeinated cola, 8g of green onions, 21.5g of leeks, 24.5g of onions, 136g of raw polished rice, 10g of sunflower seed oil, 6g of raw red sweet peppers, 35g of tomato puree, and 100g of fortified white wheat flour."
+        "revised_description": "For lunch, I'm having 23g of raw carrots, 200g of caffeinated cola, 8g of green onions, 21.5g of leeks, 24.5g of raw onions, 136g of raw polished rice, 10g of edible sunflower seed oil, 6g of raw red sweet peppers, 35g of tomato puree, and 100g of fortified white wheat flour."
     },
     {
         "index": 15849,
@@ -1947,7 +1947,7 @@
             "description4": "I had a snack that included 8 grams of baked milk, 125 grams of whole cow milk, 35 grams of crackers and breadsticks, and 720 grams of mate infusion, finished off with 15 grams of white sugar.",
             "description5": "For my snack, I went with 8g of baked milk, 125g of whole cow milk, 35g of crackers and breadsticks, a large 720g of mate infusion, and I used 15g of white sugar."
         },
-        "revised_description": "For a snack, I had 8.0g of baked milk, 125.0g of whole cow milk, 35.0g of crackers and breadsticks, along with 720.0g of mate infusion, which I had in a bag. I also added 15.0g of white sugar to it. Plus, I had a little extra 1.0g of mate infusion for an extra boost!"
+        "revised_description": "For a snack, I had 8g of baked milk, 125g of whole cow milk, 35g of crackers and breadsticks, along with 720g of mate infusion. I also added 15g of white sugar to it. Additionally, I had 1g of mate infusion from a bag."
     },
     {
         "index": 1162,
@@ -2028,7 +2028,7 @@
             "description4": "I included 40g of fresh tomatoes and 100g of white refined wheat flour in my meal.",
             "description5": "Overall, my dinner was quite diverse with a mix of breads, cheeses, and toppings."
         },
-        "revised_description": "For dinner, I had 200g of bread made with cow milk, along with 20g of raw red chili peppers, 100g of cooked pork ham, 80g of croissant, 200g of firm/semi-hard cheese, 60g of soft-ripened cheese, 400g of soft drink with minor amounts of fruits or flavors, 10g of sunflower seed oil, 10g of green table olives, and 40g of tomatoes."
+        "revised_description": "For dinner, I had 200g of bread made with cow milk, along with 20g of raw red chili peppers and 100g of cooked pork ham. I also enjoyed an 80g croissant, 200g of firm gouda cheese, 60g of soft-ripened cheese, and munched on 10g of green table olives. To top it off, I had 400g of a refreshing soft drink and drizzled 10g of sunflower seed oil on my meal. Oh, and I included 40g of tomatoes for a little extra flavor. Additionally, the bread was made with 100g of white wheat flour for that perfect texture."
     },
     {
         "index": 15960,
@@ -2543,7 +2543,7 @@
             "description4": "My lunch includes 10g of basil, 50g of cooked beetroots, and 50g of blueberries, plus 25g of boiled eggs and 90g of canned peas.",
             "description5": "I\u2019m having 150g of fresh chicken leg, 500g of orange soft drink, and finishing off with 250g of milk-based ice cream."
         },
-        "revised_description": "For lunch, I'm having 10g of basil, 50g of cooked beetroots, and 50g of blueberries. I also have 25g of boiled eggs, 90g of canned peas, and 17g of raw celery. On the side, I'm enjoying 150g of fresh chicken meat (leg without the skin), a refreshing 500g of orange soft drink, and a sweet treat of 250g of milk-based ice cream. To top it all off, I've got a drizzle of 11g of edible maize oil and 13g of mayonnaise sauce. Oh, and I can\u2019t forget a handful of fresh strawberries weighing in at 100g!"
+        "revised_description": "For lunch, I'm having 10g of basil, 50g of cooked beetroots, and 50g of blueberries. I also have 25g of boiled eggs, 90g of canned peas, and 17g of raw celery. Plus, I\u2019ve got 150g of fresh chicken meat (without skin), 500g of orange fruit soft drink, 250g of milk-based ice cream, 11g of edible maize oil, 13g of mayonnaise, and 100g of fresh strawberries."
     },
     {
         "index": 10146,
@@ -2599,7 +2599,7 @@
             "description4": "For dinner, I enjoyed 62 grams of apples without peel, 25 grams of beef liver that was cooked, 30 grams of butternut squash, and 30 grams of carrots. I also had a banana and 15 grams of processed cheese.",
             "description5": "I had a dinner of 62g of apples with no peel, 25g of cooked beef liver, 30g of cooked butternut squash, and 30g of carrots, plus a common banana and 15g of spreadable processed cheese."
         },
-        "revised_description": "For dinner, I'm having 62g of apples without peel, 25g of cooked beef liver, 30g of cooked butternut squash, 30g of cooked carrots, along with a common banana weighing 35g and 15g of spreadable processed cheese with 23% fat."
+        "revised_description": "For dinner, I'm having 62g of apples without peel, 25g of cooked beef liver, 30g of cooked butternut squash, and 30g of cooked carrots, along with a common banana weighing 35g and 15g of spreadable processed cheese with 23% fat."
     },
     {
         "index": 9183,
@@ -2898,7 +2898,7 @@
             "description4": "I also had 15g of green olives and 250g of fresh tomatoes on the side for dinner.",
             "description5": "So, all together for dinner, I had a mix of vegetables, fish, and some fruit, along with a refreshing banana."
         },
-        "revised_description": "For dinner, I had 25g of raw carrots, a 10g common banana, 4g of whole milk fortified with vitamins A and D, 6g of dried prunes, 175g of hake, which was prepared as slices, 25g of lettuce, 17g of mayonnaise sauce that was prepared in the food industry, 7.5g of edible sunflower seed oil, 15g of green table olives ready for consumption, and 250g of fresh tomatoes."
+        "revised_description": "For dinner, I had 25g of raw carrots, a 10g common banana, 4g of whole milk fortified with vitamins A and D, 6g of dried prunes, 175g of hakes, 25g of lettuces, 17g of mayonnaise sauce, 7.5g of edible sunflower seed oil, 15g of ready-to-eat green table olives, and 250g of fresh tomatoes."
     },
     {
         "index": 11361,
@@ -3899,7 +3899,7 @@
             "description4": "I have 33.3g of raw carrots, 66.6g of low-fat beef, and 200g of pasta for dinner. I\u2019m also enjoying 10.2g of green onions and a 200g soft drink with a hint of lemon juice.",
             "description5": "Tonight\u2019s dinner includes 200g of cooked durum pasta, 33.3g of raw carrots, and 66.6g of fresh beef. I added 10.2g of green onions and I\u2019m drinking 200g of a lemon-flavored soft drink."
         },
-        "revised_description": "For dinner, I have 33.3g of raw carrots, 66.6g of low-fat raw beef, and 200g of cooked durum pasta. I also added 10.2g of green onions, 200g of a soft drink with lemon juice, and 15g of soy sauce. Plus, I drizzled on 10g of sunflower seed oil, tossed in 11.7g of fresh raw red sweet peppers, and added 50g of fresh tomatoes for a nice touch."
+        "revised_description": "For dinner, I have 33.3g of raw carrots, 66.6g of low-fat raw beef, and 200g of cooked durum pasta. I also added 10.2g of green onions, 200g of a soft drink with lemon juice, and 15g of soy sauce. To round out the meal, I included 10g of sunflower seed oil, 11.7g of raw red sweet peppers, and 50g of fresh tomatoes."
     },
     {
         "index": 10778,
@@ -4193,7 +4193,7 @@
             "description4": "Finally, I added 16.1 grams of whole eggs to round out my snack.",
             "description5": "Overall, it was a mix of baked milk, chocolate, butter, and eggs, all coming together for a satisfying snack."
         },
-        "revised_description": "For a snack, I had 62 grams of baked milk, along with 16.1 grams of bitter-sweet chocolate, 16.1 grams of butter, 116 grams of egg white, 8 grams of walnuts, 8 grams of wheat flour, 45 grams of white sugar, and 16.1 grams of whole eggs."
+        "revised_description": "For a snack, I had 62 grams of baked milk, along with 16.1 grams of bitter-sweet chocolate, another 16.1 grams of butter, 116 grams of egg white, 8 grams of walnuts, 8 grams of wheat flour, 45 grams of white sugar, and 16.1 grams of whole eggs."
     },
     {
         "index": 7038,
@@ -4395,7 +4395,7 @@
             "description4": "I'm enjoying 40 grams of cooked pork ham and 40 grams of soft cheese for dinner, with a 500g glass of a light-flavored soft drink.",
             "description5": "For dinner, I'm having 40g of cooked ham, 40g of soft cheese, and 500g of a soft drink with some fruity flavors."
         },
-        "revised_description": "For dinner, I'm having 40g of cooked pork ham with 40g of soft-ripened cheese, along with 500g of a light flavored soft drink. I also added 10g of sunflower seed oil for cooking, 20g of tomato puree to enhance the flavor, and I'll be using 60g of white wheat flour in my meal prep."
+        "revised_description": "For dinner, I'm having 40g of cooked pork ham with 40g of soft-ripened cheese, along with 500g of a light flavored soft drink. I'm also adding 10g of sunflower seed oil, 20g of tomato puree, and 60g of white wheat flour."
     },
     {
         "index": 13525,
@@ -4632,7 +4632,7 @@
             "description4": "At dinner, I'm eating 100g of fresh tomatoes, 90g of boiled potatoes, and 1.5g of parmesan cheese. I also have 39g of leeks and 3g of gelatine dessert on the side.",
             "description5": "For dinner, I have 100g of raw butternut squash, 50g of a bitter herb drink, and 30g of short pastry dough. I'm also including 18.8g of fresh strawberries and 2.3g of green olives."
         },
-        "revised_description": "For dinner, I'm having 100g of raw butternut squash, 1.5g of extra hard parmesan cheese, and 3g of a light gelatine dessert. I also have 39g of leeks and a drink made from 50g of bitter aromatic herbs. On the side, I've got 90g of boiled potatoes, 30g of short pastry dough, 18.8g of fresh strawberries, 35g of raw red sweet peppers, 33.3g of Swiss chard that's been cooked, 2.3g of green table olives, 100g of fresh tomatoes, and 5g of whole eggs."
+        "revised_description": "For dinner, I'm having 100g of raw butternut squash, 1.5g of extra hard parmesan cheese, and 3g of a light gelatine dessert. I also have 39g of leeks, a drink made from 50g of bitter aromatic herbs, 90g of boiled potatoes, 30g of short pastry dough, 18.8g of fresh strawberries, 35g of raw red sweet peppers, 33.3g of Swiss chards cooked to perfection, 2.3g of ready-to-eat green table olives, 100g of fresh tomatoes, and 5g of whole eggs."
     },
     {
         "index": 1989,
@@ -4785,7 +4785,7 @@
             "description4": "I\u2019m having a snack that includes 6g of whole cow milk, 10g of cream with 392g of human milk, and 31g of white flour.",
             "description5": "For a snack, I'm having 80g of apples, 6g of oat flour, and 6.3g of sugar, along with 27g of banana and 10g of cream cheese."
         },
-        "revised_description": "For a snack, I'm having 80g of peeled apples, 7.5g of butter, and 50g of chamomile infusion. I also have 27g of a common banana, 6g of whole cow's milk, 10g of cream cheese, 10g of plain cream, 392g of human milk, 6g of oat flour, 31g of white wheat flour, 6.3g of white sugar, and 6g of whole eggs."
+        "revised_description": "For a snack, I'm having 80.0g of peeled apples, 7.5g of butter, and 50.0g of chamomile infusion. I also have 27.0g of a common banana, 6.0g of whole cow's milk, 10.0g of cream cheese, 10.0g of plain cream, and 392.0g of human milk. I threw in 6.0g of oat flour, 31.0g of white wheat flour, 6.3g of white sugar, and 6.0g of whole eggs just for fun!"
     },
     {
         "index": 16455,
@@ -4831,13 +4831,7 @@
             "description4": "For breakfast, I mixed 1g of artificial sweeteners into my coffee beverage that includes 26g of powder and 250g of whole milk. I finished off with a 372g fruit cake containing apples.",
             "description5": "I had a breakfast that included 1g of artificial sweeteners, 26g of coffee powder mixed with milk, 250g of whole cow milk, and a 372g slice of apple fruit cake."
         },
-        "filtered_queries": {
-            "description1": "For breakfast, I had 1g of artificial sweeteners mixed with a 26g coffee powder that includes milk. I also drank 250g of whole cow milk and enjoyed a slice of fruit cake that weighs about 372g.",
-            "description2": "I started my day with 1g of artificial sweeteners in my coffee, which is made with 26g of coffee preparation powder and milk. I also had 250g of whole milk and a big piece of fruit cake with apples, weighing around 372g.",
-            "description3": "This morning, I used 1g of artificial sweeteners in my coffee made from 26g of powder and added 250g of whole milk. I also had a 372g slice of fruit cake that has apples in it.",
-            "description4": "For breakfast, I mixed 1g of artificial sweeteners into my coffee beverage that includes 26g of powder and 250g of whole milk. I finished off with a 372g fruit cake containing apples.",
-            "description5": "I had a breakfast that included 1g of artificial sweeteners, 26g of coffee powder mixed with milk, 250g of whole cow milk, and a 372g slice of apple fruit cake."
-        }
+        "revised_description": "For breakfast, I had 1.0g of artificial sweeteners mixed with a 26.0g coffee powder that includes light milk. I also drank 250.0g of whole cow milk and enjoyed a slice of fruit cake that weighs about 372.1g, which has apples in it."
     },
     {
         "index": 9425,
@@ -5899,7 +5893,7 @@
             "description4": "I'm having a mix of 93.8g of raw potatoes, 400g of flavored soft drink, and 25.4g of canned peas for lunch, along with 114.9g of cooked tomato sauce.",
             "description5": "Lunch today includes 245g of raw chicken breast, 75g of butternut squash, and 100g of canned sweet corn, plus 17.5g of raw red sweet peppers."
         },
-        "revised_description": "For lunch, I'm having 75.0g of raw butternut squash, 25.4g of canned peas, and 245.0g of raw chicken breast with skin. I also have 22.5g of raw onions and 93.8g of raw potatoes on the side. Additionally, I'm enjoying 400.0g of a light, fortified flavored soft drink made from concentrate, some 100.0g of yellow canned sweet corn, 17.5g of raw red sweet peppers, and a side of 114.9g of tomato-containing cooked sauces."
+        "revised_description": "For lunch, I'm having 75g of raw butternut squash, 25.4g of canned peas, and 245g of raw chicken breast with skin. I also have 22.5g of raw onions and 93.8g of raw potatoes on the side. To drink, I'm enjoying 400g of a light, fortified soft drink made from powdered drink bases. I also added 100g of yellow canned sweet corn, 17.5g of raw red sweet peppers, and 114.9g of tomato-containing cooked sauces."
     },
     {
         "index": 13696,
@@ -6101,7 +6095,6 @@
         },
         "filtered_queries": {
             "description1": "For dinner, I'm having 26g of minced beef with 3g of butter, 5g of whole cow milk, and 6g of firm cheese. I also added 8g of raw onions and 87g of boiled potatoes. To drink, I'm having 200g of a light flavored soft drink, along with 5g of raw red sweet peppers, 3g of vegetable oils, and 13g of whole eggs.",
-            "description2": "I prepared a dinner with 26g of half-fat minced meat, 3g of butter, and a splash of 5g whole milk. I included 6g of gouda cheese, 8g of raw onions, and 87g of boiled potatoes. I\u2019m also having a 200g light flavored soft drink, some raw red sweet peppers, 3g of vegetable fats, and 13g of whole eggs.",
             "description3": "For dinner, I've got 26g of minced beef, 3g of butter, and 5g of whole milk. I added 6g of firm cheese, 8g of raw onions, and 87g of boiled potatoes. To drink, I\u2019m having 200g of a light flavored soft drink, plus 5g of raw sweet peppers, 3g of edible oils, and 13g of whole eggs.",
             "description4": "I'm having a dinner that includes 26g of minced meat, 3g of butter, and 5g of whole cow milk. I also included 6g of firm cheese, 8g of raw onions, and 87g of boiled potatoes. I'm drinking 200g of a light flavored soft drink along with 5g of raw red sweet peppers, 3g of vegetable oils, and 13g of whole eggs.",
             "description5": "For dinner, I\u2019ve got 26g of minced beef, 3g of butter, and 5g of whole milk. I\u2019m also having 6g of firm cheese, 8g of raw onions, and 87g of boiled potatoes. To drink, there's 200g of a light flavored soft drink, along with 5g of raw sweet peppers, 3g of vegetable fats, and 13g of whole eggs."
@@ -6291,7 +6284,6 @@
             "description1": "For a snack, I'm having 100 grams of orange fruit soft drink along with 12.6 grams of potato crisps and 12.6 grams of puffs.",
             "description2": "I just grabbed a snack of 100g orange soft drink, 12.6g of potato crisps, and 12.6g of puffs.",
             "description3": "I'm snacking on 100 grams of orange fruit drink, 12.6 grams of potato chips, and 12.6 grams of puffs.",
-            "description4": "For my snack, I have 100g of orange soft drink, plus 12.6g each of potato crisps and puffs.",
             "description5": "I\u2019m enjoying a snack with 100 grams of orange fruit soft drink, along with 12.6 grams of potato crisps and 12.6 grams of puffs."
         }
     },
@@ -6535,7 +6527,7 @@
             "description4": "I'm enjoying 20g of mayonnaise sauce and 150g of a meat-based dish that includes cheese and boiled eggs.",
             "description5": "To top it off, I have 60g of white refined wheat bread with butter and a sprinkle of 1g of white sugar."
         },
-        "revised_description": "For dinner, I'm having 16.6g of bitter-sweet chocolate, 16.6g of butter, 500.0g of cola beverage, 37.5g of plain cream, 14.5g of egg white, 7.5g of egg yolk, 210.0g of finger food made from minced bovine and pig meat, 232.4g of fruit pie-tarts with quince cheese, 80.0g of instant coffee, 20.0g of mayonnaise sauce, 150.0g of meat-based dishes made from fresh cow, ox, or bull meat, cheese, boiled eggs, 1.0g of preparations for gelling home-made food, 60.0g of white refined wheat bread and rolls, and 46.0g of white sugar."
+        "revised_description": "For dinner, I'm having 16.6g of bitter-sweet chocolate, 16.6g of butter, and a 500.0g cola beverage. I'm also enjoying 37.5g of plain cream, 14.5g of egg white, and 7.5g of egg yolk. I've got 210.0g of finger food made from minced bovine and pig meat, along with 232.4g of fruit pie-tarts with quince cheese. To wash it down, I'm having 80.0g of instant coffee. On the side, there's 20.0g of mayonnaise sauce, and I've added 150.0g of meat-based dishes made from fresh cow, ox, or bull meat, combined with cheese and boiled eggs, all prepared by the food industry. I've also got 1.0g of preparations for gelling homemade food and 60.0g of white wheat bread and rolls. Lastly, I've sweetened things up with 46.0g of white sugar."
     },
     {
         "index": 1981,
@@ -6626,7 +6618,7 @@
             "description4": "I\u2019m having lunch with 100g of minced meat, 8g of butter, and 25g of whole milk. I also got 40g of raw onions, 300g of oranges, and 200g of raw potatoes.",
             "description5": "For lunch, I\u2019m eating 100g of minced beef with 8g of butter and 25g of whole milk. Alongside that, I have 40g of onions, 300g of oranges, and 200g of potatoes."
         },
-        "revised_description": "For lunch, I'm having 100g of low-fat minced beef, 8g of butter, and 25g of whole milk with vitamins A and D. I also have 40g of raw onions, 300g of oranges, and 200g of raw potatoes on the side. To round it off, there's also 5g of green table olives, 20g of tomato puree, 150g of fresh tomatoes, 13g of edible vegetable fats and oils, 5g of vinegar, 40g of white wheat bread and rolls, and 20g of whole eggs."
+        "revised_description": "For lunch, I'm having 100g of low-fat minced beef, 8g of butter, and 25g of whole milk with vitamins A and D. I also have 40g of raw onions, 300g of oranges, and 200g of raw potatoes on the side. Additionally, I'm enjoying 5g of green table olives, 20g of tomato puree, and 150g of fresh tomatoes. I also added 13g of edible vegetable fats and oils, a splash of 5g vinegar, 40g of white wheat bread, and 20g of whole eggs."
     },
     {
         "index": 14313,
@@ -6685,7 +6677,6 @@
         "filtered_queries": {
             "description1": "For dinner, I had 150g of milk-based ice cream, along with 5g of prepared mayonnaise sauce and 5g of mustard. I also drank 200g of flavored soft drink and had 125g of fresh tomatoes on the side, plus a 120g wiener sausage.",
             "description2": "I enjoyed 150 grams of milk-based ice cream and added 5 grams of mayonnaise and 5 grams of mustard. I washed it down with 200 grams of a flavored soft drink, and I had 125 grams of fresh tomatoes along with 120 grams of wiener sausage.",
-            "description3": "For dinner, I ate 150g of ice cream and added a little mayonnaise and mustard, each about 5 grams. I also had 200g of a flavored soft drink, 125g of fresh tomatoes, and 120g of wiener sausage.",
             "description4": "I had a dinner consisting of 150 grams of milk-based ice cream, 5 grams of mayonnaise, and 5 grams of mustard. I paired it with 200 grams of flavored soft drink, 125 grams of fresh tomatoes, and a 120-gram wiener sausage.",
             "description5": "For dinner, I enjoyed 150g of ice cream, 5g of mayonnaise, and 5g of mustard. I also had 200g of a flavored soft drink, 125g of fresh tomatoes, and a 120g wiener sausage."
         }
@@ -6836,7 +6827,7 @@
             "description4": "I'm having 6g of cooked pork ham, 20g of chickpea flour, and 12.5g of fresh lettuce for dinner. Along with that, there's a 100g diet soft drink and 15g of tomato puree.",
             "description5": "For dinner, I\u2019ve got 110g of mandarins, 12.5g of red cabbage, and 6g of raw carrots. I also have 100g of a diet soft drink with caffeine, plus 37.5g of mozzarella cheese for pizza."
         },
-        "revised_description": "For dinner, I'm having 6g of raw carrots, 20g of chickpea flour, and 6g of cooked pork ham. I also have 100g of a diet soft drink with caffeine, along with 12.5g of mixed lettuces and 110g of mandarins. Additionally, I've added 37.5g of mozzarella cheese, 12.5g of red cabbage, 7.5g of sunflower seed oil, 5g of fresh red peppers, 15g of tomato puree, 100g of fresh tomatoes, 20g of vegetable fats and oils, and 45g of white wheat flour."
+        "revised_description": "For dinner, I'm having 6.0g of raw carrots, 20.0g of chickpea flour, 6.0g of cooked pork ham, and 100.0g of a diet soft drink with caffeine. I also have 12.5g of mixed lettuces, 110.0g of mandarins, and 37.5g of mozzarella cheese. There\u2019s also 12.5g of red cabbage, a drizzle of 7.5g of sunflower seed oil, 5.0g of raw red sweet peppers, 15.0g of tomato puree, 100.0g of fresh tomatoes, and 45.0g of white wheat flour. Plus, I've got an extra 20.0g of vegetable fats and oils to add to the mix!"
     },
     {
         "index": 7306,
@@ -6996,13 +6987,7 @@
             "description4": "I'm enjoying 200g of caffeinated cola with my lunch, paired with 628g of fried chicken.",
             "description5": "Lunch today includes a 200g cola and a hefty 628g serving of breaded chicken."
         },
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 200g of caffeinated cola and a fried chicken dish that weighs about 628g.",
-            "description2": "I have a 200g cola drink along with a 628g serving of breaded and fried chicken for lunch.",
-            "description3": "For lunch, there's 200 grams of cola and a sizable 628g portion of fried chicken on my plate.",
-            "description4": "I'm enjoying 200g of caffeinated cola with my lunch, paired with 628g of fried chicken.",
-            "description5": "Lunch today includes a 200g cola and a hefty 628g serving of breaded chicken."
-        }
+        "revised_description": "For lunch, I'm having 200.0g of caffeinated cola and a fried chicken dish that weighs about 627.9g, which is made with fresh chicken meat that\u2019s been breaded and fried."
     },
     {
         "index": 4197,
@@ -7073,7 +7058,7 @@
             "description4": "On the side, there's 20g of mixed lettuces and 81.3g of roasted and breaded beef.",
             "description5": "I also have 25g of fresh tomatoes, 2g of edible vegetable fats and oils, and 100g of white wheat bread."
         },
-        "revised_description": "For dinner, I'm having 497g of caffeinated cola, along with 102g of French fries from a fast food place. I'm also enjoying a 362g hamburger loaded with cheese, savory sauces, onions, bacon, and pickles, freshly prepared by a franchised fast food restaurant. On the side, there's 20g of generic lettuce and 25g of fresh tomatoes. To top it all off, I'm treating myself to 207g of vanilla-flavored ice cream, complete with tasty wafers and biscuits, from an independent fast food joint, and I\u2019ll have a serving of 81.3g of meat-based dishes made from roasted bovine fresh meat that\u2019s been breaded, along with 100g of soft white wheat bread. Oh, and of course, I\u2019ve drizzled on 2g of vegetable fats and oils to add that extra flavor!"
+        "revised_description": "For dinner, I'm having 497g of caffeinated cola, along with 102g of French fries from a fast food place. I also have a 362g hamburger with bread that comes with cheese, savory sauces, onions, bacon, and pickles, all prepared by a franchised fastfood restaurant. On the side, I'm enjoying 81.3g of a meat-based dish that includes fresh bovine meat, breaded and roasted. I\u2019ve got 20g of lettuce and 25g of fresh tomatoes to add some crunch. For dessert, I\u2019m treating myself to 207g of vanilla ice cream with wafers and a biscuit filling, prepared by an independent fastfood restaurant. Oh, and I also have 100g of white wheat bread on the side, along with 2g of edible vegetable fats and oils."
     },
     {
         "index": 1039,
@@ -7523,7 +7508,7 @@
             "description4": "My lunch includes 60g of short pastry dough, 15g of sweet corn from a can, and 10g of raw red sweet peppers. I\u2019m also having 9.4g of vegetable fats and oils and 4g of white wheat flour.",
             "description5": "I\u2019m having a lunch with 4g of butter, 10g of raw butternut squash, and 30g of raw courgettes. I also have 40g of fortified whole milk, 12g of extra hard cheese, and 25g of raw onions."
         },
-        "revised_description": "For lunch, I have 4.0g of butter, 10.0g of raw butternut squash, and 30.0g of raw courgettes. I also have 40.0g of whole milk fortified with vitamin A and D, 12.0g of extra hard cheese like parmesan, and 25.0g of raw onions. Additionally, I've got 60.0g of short pastry dough, 15.0g of canned sweet corn, 10.0g of raw red sweet peppers, and 9.4g of edible vegetable fats and oils. To round things off, there's also 4.0g of white wheat flour."
+        "revised_description": "For lunch, I have 4g of butter, 10g of raw butternut squash, and 30g of raw courgettes. I also have 40g of whole milk fortified with vitamin A and D, 12g of extra hard cheese like parmesan, and 25g of raw onions. Additionally, I\u2019ve got 60g of short pastry dough, 15g of sweet corn (which has a touch of sugar), 10g of raw sweet red peppers, 9.4g of edible vegetable fats and oils, and 4g of white wheat flour."
     },
     {
         "index": 11812,
@@ -7614,7 +7599,7 @@
             "description4": "I'm also enjoying 200g of a flavored soft drink made from powdered drink bases and 6g of green table olives.",
             "description5": "To round it off, I'm having 10g of vegetable fats and oils along with 20g of whole eggs."
         },
-        "revised_description": "For dinner, I'm having 10g of boiled eggs, 60g of high-fat minced beef, 40g of Danbo cheese, 200g of cola, 40g of cooked pork ham, 200g of gelatine dessert, 30g of raw onions, 208.8g of cooked plain pasta, 90g of short pastry dough, 200g of flavoured soft drink, 6g of green table olives, 10g of edible vegetable fats and oils, and 20g of whole eggs."
+        "revised_description": "For dinner, I'm having 10g of boiled eggs, 60g of high-fat minced beef, 40g of Danbo cheese, 200g of cola, 40g of cooked pork ham, 200g of gelatine dessert, 30g of raw onions, 208.8g of plain cooked pasta, 90g of short pastry dough, 200g of a flavored soft drink, 6g of green table olives, 10g of edible vegetable fats and oils, and 20g of whole eggs."
     },
     {
         "index": 16879,
@@ -7819,7 +7804,7 @@
             "description4": "To drink, I\u2019m enjoying a soft drink with some lemon juice, plus I have 200g of white wheat bread on the side.",
             "description5": "Lastly, I\u2019ve got 1 whole egg, 31g of raw sweet corn, 18g of raw red sweet peppers, and 35g of stock cubes for flavor."
         },
-        "revised_description": "For lunch, I\u2019ve got 62.5g of minced beef that's half fat, along with 67g of raw butternut squash, 19.5g of raw carrots, and 4g of raw celery. I've also added 104g of fresh chicken leg meat with skin, 10g of whole cow milk, 23g of raw high-fat beef, 77g of raw onions, 81g of raw potatoes, 200g of soft drink with lemon juice, 1g of stock cubes, 31g of raw yellow sweet corn, 18g of raw red sweet peppers, 35g of white wheat bread, and a couple of whole eggs weighing 25g."
+        "revised_description": "For lunch, I\u2019ve got 62.5g of minced beef that's half fat, along with 67g of raw butternut squash, 19.5g of raw carrots, 4g of raw celery, 104g of raw chicken leg with skin, 10g of whole cow milk, 23g of raw high fat beef, 77g of raw onions, 81g of raw potatoes, 200g of soft drink with fruit juice, 1g of stock cubes, 31g of raw yellow sweet corn, 18g of raw red sweet peppers, 35g of white wheat bread, and 25g of whole eggs."
     },
     {
         "index": 8390,
@@ -8587,7 +8572,7 @@
             "description4": "I had a 160g roasted chicken with skin, paired with 62.5g of fortified semi-skimmed milk and some fried potatoes at 50g.",
             "description5": "For lunch, I had 187.5g of coffee, 400g of cola, and 40g of white bread, making it a pretty filling meal."
         },
-        "revised_description": "For lunch, I had 160g of roasted chicken with skin, along with 400g of cola, 187.5g of coffee, 62.5g of semi-skimmed cow milk, 50g of home-prepared fried potatoes, 40g of white wheat bread, and a sprinkle of 6g of white sugar."
+        "revised_description": "For lunch, I had 160g of roasted chicken with skin, along with 400g of cola and 187.5g of coffee. I also enjoyed 62.5g of semi-skimmed cow milk, 50g of home-prepared fried potatoes, 40g of white wheat bread, and a sprinkle of 6g of white sugar on top."
     },
     {
         "index": 14708,
@@ -9794,7 +9779,7 @@
             "description4": "I'm having a mix of 30g semi-skimmed cow milk, 14.2g of sesame seed snacks, and 24g of light cream cheese with 32g of jam for breakfast.",
             "description5": "For breakfast, I have 220g of malt coffee, 50g of brown bread, and I'm also enjoying some light cream cheese and jam."
         },
-        "revised_description": "For breakfast, I'm having 30g of semi-skimmed fortified cow milk, 14.2g of sesame seed crackers and breadsticks, 24g of light cream cheese, and 32g of fruit jam. I'm also enjoying 220g of malt coffee infusion alongside 50g of brown wheat bread."
+        "revised_description": "For breakfast, I'm having 30g of semi-skimmed fortified cow milk, 14.2g of sesame seed crackers and breadsticks, 24g of light cream cheese with 32g of fruit jam, 220g of malt coffee infusion, and 50g of brown wholemeal bread."
     },
     {
         "index": 10483,
@@ -9963,7 +9948,7 @@
             "description4": "For lunch, I had a 55g biscuit with chocolate coating and 4g of butter. I washed it down with 500g of diet soft drink with lemon, plus 284.9g of fried chicken and 100g of boiled potatoes.",
             "description5": "I\u2019m having a 55g chocolate biscuit and 4g of butter for lunch, along with 500g of diet lemon soda. I also had 284.9g of fried chicken and 100g of boiled potatoes."
         },
-        "revised_description": "For lunch, I'm having a 55g biscuit coated in chocolate, made with wheat flour and baked milk, along with 4g of butter. I also have 500g of diet soft drink with lemon juice, 284.9g of fried chicken, and 100g of boiled potatoes. Oh, and I\u2019m adding 7g of whole milk to my meal too."
+        "revised_description": "For lunch, I'm having a 55g biscuit coated in chocolate, along with 4g of butter. I also have 7g of whole cow milk in the mix, and a 500g diet soft drink with lemon juice. Plus, there\u2019s 284.9g of fried chicken, and 100g of boiled potatoes."
     },
     {
         "index": 12758,
@@ -10047,7 +10032,6 @@
         "filtered_queries": {
             "description1": "For lunch, I had 20g of raw carrots, 7g of raw celery, and 10g of raw courgette. I also included 5g of leeks, 5g of raw onions, and 20g of raw potatoes. I added 20g of raw pumpkin, 17.5g of polished rice, and 150g of a soft drink with some fruit flavors. Finally, I finished off with 5g of sweet corn and 10g of raw Swiss chard.",
             "description2": "I enjoyed a lunch that consisted of 20 grams of raw carrots, 7 grams of celery, and 10 grams of courgettes. I also had 5 grams of leeks, 5 grams of raw onions, and 20 grams of raw potatoes. There was 20 grams of pumpkin, 17.5 grams of polished rice, and a soft drink with a hint of fruit, weighing 150 grams. I rounded it out with 5 grams of yellow sweet corn and 10 grams of Swiss chard.",
-            "description3": "Lunch included 20g of raw carrots, 7g of celery, and 10g of courgette. I added 5g of leeks and onions each, along with 20g of raw potatoes and 20g of pumpkin. I also had 17.5g of polished rice, 150g of a fruit-flavored soft drink, and finished with 5g of sweet corn and 10g of Swiss chard.",
             "description5": "For lunch, I prepared 20g of raw carrots, 7g of celery, and 10g of courgette. I also included 5g of leeks, 5g of raw onions, and 20g of raw potatoes, along with 20g of pumpkin and 17.5g of polished rice. I had a 150g soft drink with a bit of fruit flavor, and finished with 5g of sweet corn and 10g of Swiss chard."
         }
     },
@@ -10606,7 +10590,6 @@
             "description1": "For a snack, I had 4g of cocoa powder, 150g of caffeinated cola, 250g of whole milk, 7g of crackers and breadsticks, 8g of fruit jam, and 4g of white sugar.",
             "description2": "I'm snacking on 150g of cola and 250g of whole milk, along with 4g of cocoa powder, 7g of crackers and breadsticks, 8g of jam, and 4g of sugar.",
             "description3": "I enjoyed a snack that included 250g of whole milk, 150g of caffeinated cola, 4g of cocoa powder, 7g of crackers and breadsticks, 8g of jam, and 4g of sugar.",
-            "description4": "For my snack, I had 4g of cocoa powder, 7g of crackers and breadsticks, and 8g of jam, plus 150g of cola and 250g of whole milk, and a little sugar on top.",
             "description5": "I had a snack with 250g of whole milk, 150g of caffeinated cola, 4g of cocoa powder, 7g of breadsticks, 8g of fruit jam, and 4g of sugar."
         }
     },
@@ -10729,7 +10712,7 @@
             "description4": "Tonight's meal includes 75 grams of cooked butternut squash, 110 grams of banana, and 80 grams of fried soyabeans with a side of 75 grams of boiled potatoes.",
             "description5": "For dinner, I'm enjoying 15 grams of semi-skimmed milk, 20 grams of firm cheese, and a refreshing 125 grams of fat-free yogurt drink."
         },
-        "revised_description": "For dinner, I'm having 75g of cooked butternut squash, 110g of a common banana, 15g of semi-skimmed cow milk fortified with vitamins A and D, 20g of firm gouda cheese, 80g of a delicious legume dish made from soybeans, 5g of olive oil, 75g of boiled potatoes, and 125g of a fat-free yoghurt drink that's packed with probiotics and/or prebiotics."
+        "revised_description": "For dinner, I'm having 75g of cooked butternut squash, 110g of a common banana, 15g of semi-skimmed cow milk fortified with vitamins A and D, 20g of firm semi-hard cheese like gouda or edam, 80g of soybean-based dish that\u2019s been fried and breaded, 5g of olive oil, 75g of boiled potatoes, and finally, 125g of fat-free yoghurt drink with probiotics or prebiotics."
     },
     {
         "index": 1869,
@@ -11261,7 +11244,7 @@
             "description4": "I had a lunch that included 36g of canned peas, 15g of cream, and 85.5g of raw onions. I paired that with 150.4g of raw potatoes, 80g of preserved tomatoes, and 229.7g of fresh rabbit meat. To drink, I had 200g of a flavored soft drink and added 2g of stock cubes for flavor.",
             "description5": "For lunch, I had 36g of canned peas with 15g of cream and 85.5g of raw onions. I also included 150.4g of raw potatoes, 80g of preserved tomatoes, and 229.7g of rabbit meat. I washed it down with 200g of flavored soft drink and used 2g of stock cubes."
         },
-        "revised_description": "For lunch, I had 36g of canned peas, 15g of cream with other ingredients, and 85.5g of raw onions. I also included 150.4g of raw potatoes and 80g of preserved tomatoes. On the side, I had 229.7g of fresh rabbit meat, along with 200g of a flavored soft drink and 2g of stock cubes. To add a bit more to my meal, I enjoyed 100g of fresh strawberries, 39.4g of raw red sweet peppers, and a splash of 40g of white wine."
+        "revised_description": "For lunch, I had 36g of canned peas, 15g of cream with other ingredients, and 85.5g of raw onions. I also included 150.4g of raw potatoes and 80g of preserved tomatoes. On the side, I had 229.7g of fresh rabbit meat, along with 200g of a flavored soft drink and 2g of stock cubes. To add a refreshing touch, I included 100g of fresh strawberries and tossed in 39.4g of raw red sweet peppers. To complement the meal, I enjoyed a splash of 40g of white wine."
     },
     {
         "index": 9967,
@@ -11352,7 +11335,7 @@
             "description4": "I\u2019m including 6.9g of whole eggs in my dinner, along with all the other ingredients I mentioned.",
             "description5": "So for dinner, it all adds up to a mix of meat, veggies, dairy, and some fruit nectar to drink."
         },
-        "revised_description": "For dinner, I\u2019m having 17.5g of minced beef, 7g of raw carrots, and 17.4g of parmesan cheese. I also have 400g of fruit nectar and 12.6g of raw onions. Additionally, I've got 34.7g of ricotta, 25g of sandwich bread (hamburger roll-type), 50g of short pastry dough, 83.7g of raw spinach, 4.9g of raw red sweet peppers, 37.8g of tomato puree, 25.2g of fresh tomatoes, and 6.9g of whole eggs."
+        "revised_description": "For dinner, I\u2019m having 17.5g of minced beef, which is half fat or medium fat, 7g of raw carrots, 17.4g of parmesan cheese, and I also have 400g of fruit nectar. I have 12.6g of raw onions, and I'm adding 34.7g of ricotta, 25g of sandwich bread (hamburger roll type), 50g of short pastry dough, 83.7g of raw spinaches, 4.9g of raw sweet peppers (red), 37.8g of tomato puree, 25.2g of fresh tomatoes, and 6.9g of whole eggs."
     },
     {
         "index": 7998,

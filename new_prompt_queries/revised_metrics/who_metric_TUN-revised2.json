@@ -75,7 +75,13 @@
         "meal_str": "Cucumber Salad With Olive Oil||Potato Stew With Chicken And Vegetable Oil||Vegetable Soup With Chicken And Corn Oil",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having 40g of cucumber salad with olive oil, 100.5g of potato stew with chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil.\",\n    \"description2\": \"I'm eating a 40g cucumber salad dressed in olive oil, along with 100.5g of potato stew that includes chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil for dinner.\",\n    \"description3\": \"For dinner, I have a 40g serving of cucumber salad with olive oil, plus 100.5g of potato stew made with chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil.\",\n    \"description4\": \"I'm enjoying dinner with 40 grams of cucumber salad with olive oil, 100.5 grams of potato stew with chicken and vegetable oil, and 130.7 grams of vegetable soup that has chicken and corn oil.\",\n    \"description5\": \"For dinner, I'm having a cucumber salad with olive oil weighing 40g, along with 100.5g of potato stew that features chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 40g of cucumber salad with olive oil, 100.5g of potato stew with chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil.",
+            "description2": "I'm eating a 40g cucumber salad dressed in olive oil, along with 100.5g of potato stew that includes chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil for dinner.",
+            "description3": "For dinner, I have a 40g serving of cucumber salad with olive oil, plus 100.5g of potato stew made with chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil.",
+            "description4": "I'm enjoying dinner with 40 grams of cucumber salad with olive oil, 100.5 grams of potato stew with chicken and vegetable oil, and 130.7 grams of vegetable soup that has chicken and corn oil.",
+            "description5": "For dinner, I'm having a cucumber salad with olive oil weighing 40g, along with 100.5g of potato stew that features chicken and vegetable oil, and 130.7g of vegetable soup with chicken and corn oil."
+        }
     },
     {
         "index": 296942,
@@ -111,13 +117,7 @@
         "meal_str": "Cola beverages, caffeinic||Couscous with lamb and vegetable oil with raisins||Figs||Watermelons",
         "country": "TUN",
         "query": "{\"description1\": \"For dinner, I'm having 200g of caffeinated cola, 309g of couscous with lamb, vegetable oil, and raisins, along with 80g of figs and 100g of watermelon.\", \"description2\": \"I'm enjoying a dinner that includes 200 grams of cola, 309g of couscous mixed with lamb and veggies, plus 80g of figs and a 100g slice of watermelon.\", \"description3\": \"For my dinner, I have 200g of cola, a 309g serving of couscous with lamb and some raisins, along with 80g of figs and 100g of watermelon.\", \"description4\": \"At dinner, I\u2019m having 200 grams of caffeinated cola, 309g of couscous with lamb and raisins, plus 80g of figs and 100g of watermelon.\", \"description5\": \"I'm sitting down to dinner with 200g of cola, 309g of couscous with lamb and vegetable oil, 80g of figs, and 100g of watermelon.\"}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 200g of caffeinated cola, 309g of couscous with lamb, vegetable oil, and raisins, along with 80g of figs and 100g of watermelon.",
-            "description2": "I'm enjoying a dinner that includes 200 grams of cola, 309g of couscous mixed with lamb and veggies, plus 80g of figs and a 100g slice of watermelon.",
-            "description3": "For my dinner, I have 200g of cola, a 309g serving of couscous with lamb and some raisins, along with 80g of figs and 100g of watermelon.",
-            "description4": "At dinner, I\u2019m having 200 grams of caffeinated cola, 309g of couscous with lamb and raisins, plus 80g of figs and 100g of watermelon.",
-            "description5": "I'm sitting down to dinner with 200g of cola, 309g of couscous with lamb and vegetable oil, 80g of figs, and 100g of watermelon."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 300762,
@@ -382,13 +382,7 @@
         "meal_str": "Blue fish, raw||Orange||Potatoes, raw||Tomato Sauce With Vegetable Oil||baguette bread",
         "country": "TUN",
         "query": "{\n  \"description1\": \"For lunch, I'm having 160g of raw blue fish, a 130g orange, 27g of raw potatoes, 25g of tomato sauce with vegetable oil, and a 150g baguette.\",\n  \"description2\": \"I just prepared a lunch with 160 grams of raw blue fish, 130 grams of orange, and 27 grams of raw potatoes, topped with 25 grams of tomato sauce, plus 150 grams of baguette on the side.\",\n  \"description3\": \"Lunch today includes 160g of raw blue fish, a 130g orange, some raw potatoes weighing 27g, 25g of tomato sauce with vegetable oil, and a 150g baguette.\",\n  \"description4\": \"I'm having 160 grams of raw blue fish for lunch, along with a 130g orange, 27g of raw potatoes, 25g of tomato sauce, and a 150g baguette.\",\n  \"description5\": \"For my lunch, I made a plate with 160g of raw blue fish, a 130g orange, 27g of raw potatoes, 25g of tomato sauce with vegetable oil, and a 150g baguette.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 160g of raw blue fish, a 130g orange, 27g of raw potatoes, 25g of tomato sauce with vegetable oil, and a 150g baguette.",
-            "description2": "I just prepared a lunch with 160 grams of raw blue fish, 130 grams of orange, and 27 grams of raw potatoes, topped with 25 grams of tomato sauce, plus 150 grams of baguette on the side.",
-            "description3": "Lunch today includes 160g of raw blue fish, a 130g orange, some raw potatoes weighing 27g, 25g of tomato sauce with vegetable oil, and a 150g baguette.",
-            "description4": "I'm having 160 grams of raw blue fish for lunch, along with a 130g orange, 27g of raw potatoes, 25g of tomato sauce, and a 150g baguette.",
-            "description5": "For my lunch, I made a plate with 160g of raw blue fish, a 130g orange, 27g of raw potatoes, 25g of tomato sauce with vegetable oil, and a 150g baguette."
-        }
+        "revised_description": "For lunch, I'm having 160g of raw blue fish, a 130g orange, 27g of raw potatoes, 25.1g of tomato sauce with vegetable oil, and a 150g baguette. Everything's weighed out perfectly!"
     },
     {
         "index": 316369,
@@ -424,7 +418,7 @@
         "meal_str": "Fresh orange juice||Fried Foods||Green tea||Potatoes, raw||Sugar||Tabouna Bread||Whole cow's milk||Whole egg, raw",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For breakfast, I had 120g of fresh orange juice, 72g of fried foods, and 100g of green tea.\",\n    \"description2\": \"I started my day with 120 grams of fresh orange juice and 27g of raw potatoes.\",\n    \"description3\": \"For breakfast, I enjoyed 41.6g of tabouna bread with 120g of whole cow's milk and a whole raw egg weighing 40g.\",\n    \"description4\": \"I had 72 grams of fried foods along with 5g of sugar and 100g of green tea for breakfast.\",\n    \"description5\": \"This morning, I had some fresh orange juice (120g), 27g of raw potatoes, and a whole egg (40g).\"\n}",
-        "revised_description": "For breakfast, I had 120g of fresh orange juice, 71.9g of fried foods, 100g of green tea, 27g of raw potatoes, 5g of sugar, 41.6g of Tabouna bread, 120g of whole cow's milk, and 40g of raw whole egg."
+        "revised_description": "For breakfast, I had 120.0g of fresh orange juice, 71.9g of fried foods, 100.0g of green tea, 27.0g of raw potatoes, 5.0g of sugar, 41.6g of Tabouna bread, 120.0g of whole cow's milk, and 40.0g of raw whole egg."
     },
     {
         "index": 306604,
@@ -544,7 +538,13 @@
         "meal_str": "Potato roast with chicken and vegetable oil||Soup with lamb and vegetable oil||Wheat bread and rolls, white (refined flour)",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having 173.7g of potato roast with chicken cooked in vegetable oil, along with 107.5g of lamb soup that also has vegetable oil, and 100g of white wheat bread.\",\n    \"description2\": \"I just made a dinner plate with 173.7g of potato roast with chicken and vegetable oil, plus a bowl of 107.5g lamb soup with vegetable oil, and I'm adding 100g of white bread on the side.\",\n    \"description3\": \"Dinner tonight consists of 173.7 grams of potato roast with chicken and vegetable oil, 107.5 grams of lamb soup with vegetable oil, and 100 grams of white rolls.\",\n    \"description4\": \"I'm eating 173.7g of potato roast with chicken and some vegetable oil for dinner, along with 107.5g of lamb soup made with vegetable oil and a 100g serving of white wheat bread.\",\n    \"description5\": \"For dinner, I have 173.7g of potato roast with chicken, 107.5g of lamb soup cooked in vegetable oil, and I'm rounding it out with 100 grams of white bread.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 173.7g of potato roast with chicken cooked in vegetable oil, along with 107.5g of lamb soup that also has vegetable oil, and 100g of white wheat bread.",
+            "description2": "I just made a dinner plate with 173.7g of potato roast with chicken and vegetable oil, plus a bowl of 107.5g lamb soup with vegetable oil, and I'm adding 100g of white bread on the side.",
+            "description3": "Dinner tonight consists of 173.7 grams of potato roast with chicken and vegetable oil, 107.5 grams of lamb soup with vegetable oil, and 100 grams of white rolls.",
+            "description4": "I'm eating 173.7g of potato roast with chicken and some vegetable oil for dinner, along with 107.5g of lamb soup made with vegetable oil and a 100g serving of white wheat bread.",
+            "description5": "For dinner, I have 173.7g of potato roast with chicken, 107.5g of lamb soup cooked in vegetable oil, and I'm rounding it out with 100 grams of white bread."
+        }
     },
     {
         "index": 298052,
@@ -769,13 +769,7 @@
         "meal_str": "Macaroni With Turkey And Olive Oil Without Salt||Watermelon, pulp, fresh",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had 503g of macaroni with turkey and olive oil, and 240g of fresh watermelon.\",\n    \"description2\": \"I enjoyed 503 grams of macaroni mixed with turkey and olive oil, along with 240g of watermelon for lunch.\",\n    \"description3\": \"I ate a lunch consisting of 503g of macaroni with turkey and olive oil, plus 240g of fresh watermelon.\",\n    \"description4\": \"Lunch today was 503 grams of turkey macaroni and olive oil, paired with 240g of fresh watermelon.\",\n    \"description5\": \"I had 503g of macaroni with turkey and olive oil and 240g of watermelon for lunch.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I had 503g of macaroni with turkey and olive oil, and 240g of fresh watermelon.",
-            "description2": "I enjoyed 503 grams of macaroni mixed with turkey and olive oil, along with 240g of watermelon for lunch.",
-            "description3": "I ate a lunch consisting of 503g of macaroni with turkey and olive oil, plus 240g of fresh watermelon.",
-            "description4": "Lunch today was 503 grams of turkey macaroni and olive oil, paired with 240g of fresh watermelon.",
-            "description5": "I had 503g of macaroni with turkey and olive oil and 240g of watermelon for lunch."
-        }
+        "revised_description": "For lunch, I had 503.2g of macaroni with turkey and olive oil, and 240g of fresh watermelon, pulp."
     },
     {
         "index": 300208,
@@ -853,7 +847,13 @@
         "meal_str": "Boiled eggs||Fried foods||Melons||Tagine bread",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having 45g of boiled eggs, 73g of fried foods, 300g of melons, and 60.5g of tagine bread.\",\n    \"description2\": \"I\u2019ve got a dinner plate with 45 grams of boiled eggs, 73 grams of fried foods, 300 grams of melons, and 60.5 grams of tagine bread.\",\n    \"description3\": \"At dinner, I\u2019m enjoying 45g of boiled eggs, paired with 73g of fried foods, 300g of melons, and 60.5g of tagine bread.\",\n    \"description4\": \"For dinner, I\u2019m having 45 grams of boiled eggs along with 73 grams of fried foods, 300 grams of melons, and some tagine bread weighing 60.5 grams.\",\n    \"description5\": \"Tonight's dinner includes 45g of boiled eggs, 73g of fried foods, 300g of melons, and 60.5g of tagine bread.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 45g of boiled eggs, 73g of fried foods, 300g of melons, and 60.5g of tagine bread.",
+            "description2": "I\u2019ve got a dinner plate with 45 grams of boiled eggs, 73 grams of fried foods, 300 grams of melons, and 60.5 grams of tagine bread.",
+            "description3": "At dinner, I\u2019m enjoying 45g of boiled eggs, paired with 73g of fried foods, 300g of melons, and 60.5g of tagine bread.",
+            "description4": "For dinner, I\u2019m having 45 grams of boiled eggs along with 73 grams of fried foods, 300 grams of melons, and some tagine bread weighing 60.5 grams.",
+            "description5": "Tonight's dinner includes 45g of boiled eggs, 73g of fried foods, 300g of melons, and 60.5g of tagine bread."
+        }
     },
     {
         "index": 320563,
@@ -952,7 +952,13 @@
         "meal_str": "Lettuce salad with olive oil||Melons||Potato stew without meat with vegetable oil||Wheat bread and rolls, white (refined flour)",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had a 63.5g lettuce salad with olive oil, 150g of melons, and 117.5g of potato stew without meat cooked with vegetable oil. I also had 150g of white wheat bread.\",\n    \"description2\": \"I enjoyed a lunch consisting of a 63.5g lettuce salad with olive oil, 150g of melons, and 117.5g of potato stew made with vegetable oil, along with 150g of white bread.\",\n    \"description3\": \"At lunch, I ate a 63.5g salad made with lettuce and olive oil, 150g of melons, and 117.5g of potato stew without meat. I also had 150g of white rolls.\",\n    \"description4\": \"For lunch, I had a lettuce salad with olive oil weighing 63.5g, along with 150g of melons and 117.5g of potato stew that had no meat. I paired it with 150g of white wheat bread.\",\n    \"description5\": \"I had lunch today that included a 63.5g lettuce salad with olive oil, 150g of melons, and 117.5g of potato stew without meat cooked with vegetable oil, plus 150g of white bread.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I had a 63.5g lettuce salad with olive oil, 150g of melons, and 117.5g of potato stew without meat cooked with vegetable oil. I also had 150g of white wheat bread.",
+            "description2": "I enjoyed a lunch consisting of a 63.5g lettuce salad with olive oil, 150g of melons, and 117.5g of potato stew made with vegetable oil, along with 150g of white bread.",
+            "description3": "At lunch, I ate a 63.5g salad made with lettuce and olive oil, 150g of melons, and 117.5g of potato stew without meat. I also had 150g of white rolls.",
+            "description4": "For lunch, I had a lettuce salad with olive oil weighing 63.5g, along with 150g of melons and 117.5g of potato stew that had no meat. I paired it with 150g of white wheat bread.",
+            "description5": "I had lunch today that included a 63.5g lettuce salad with olive oil, 150g of melons, and 117.5g of potato stew without meat cooked with vegetable oil, plus 150g of white bread."
+        }
     },
     {
         "index": 305609,
@@ -1009,7 +1015,13 @@
         "meal_str": "Dates||Fried foods||Potatoes, PROCESS = Frying||Wheat bread and rolls, white (refined flour)",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had 200 grams of dates, 143.5 grams of fried foods, 54 grams of fried potatoes, and 200 grams of white wheat bread.\",\n    \"description2\": \"I enjoyed a lunch that included 200g of dates, 143.5g of fried foods, 54g of potatoes, and 200g of white bread.\",\n    \"description3\": \"For lunch, I ate 200 grams of dates alongside 143.5 grams of fried foods, 54 grams of fried potatoes, and 200 grams of white bread.\",\n    \"description4\": \"I had a lunch consisting of 200g of dates, 143.5g of various fried foods, 54g of fried potatoes, and 200g of wheat bread.\",\n    \"description5\": \"For lunch today, I had 200 grams of dates, 143.5 grams of fried items, 54 grams of fried potatoes, and 200 grams of white rolls.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I had 200 grams of dates, 143.5 grams of fried foods, 54 grams of fried potatoes, and 200 grams of white wheat bread.",
+            "description2": "I enjoyed a lunch that included 200g of dates, 143.5g of fried foods, 54g of potatoes, and 200g of white bread.",
+            "description3": "For lunch, I ate 200 grams of dates alongside 143.5 grams of fried foods, 54 grams of fried potatoes, and 200 grams of white bread.",
+            "description4": "I had a lunch consisting of 200g of dates, 143.5g of various fried foods, 54g of fried potatoes, and 200g of wheat bread.",
+            "description5": "For lunch today, I had 200 grams of dates, 143.5 grams of fried items, 54 grams of fried potatoes, and 200 grams of white rolls."
+        }
     },
     {
         "index": 316656,
@@ -1256,11 +1268,8 @@
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I'm having 654g of couscous with vegetables and vegetable oil, along with 29.2g of grilled lamb, and a sprinkle of 30g of white sugar.\",\n    \"description2\": \"I have a lunch of 654.3 grams of couscous mixed with vegetables and oil, paired with 29.2 grams of grilled lamb and 30 grams of white sugar.\",\n    \"description3\": \"Lunch today consists of 654 grams of couscous with veggies and oil, 29.2 grams of grilled lamb, and 30 grams of white sugar.\",\n    \"description4\": \"I\u2019m eating 654.3g of couscous with vegetables and oil for lunch, plus 29.2 grams of grilled lamb and 30 grams of white sugar.\",\n    \"description5\": \"For lunch, I prepared 654 grams of couscous with vegetables and some vegetable oil, along with 29.2 grams of grilled lamb and 30 grams of white sugar.\"\n}",
         "filtered_queries": {
-            "description1": "For lunch, I'm having 654g of couscous with vegetables and vegetable oil, along with 29.2g of grilled lamb, and a sprinkle of 30g of white sugar.",
             "description2": "I have a lunch of 654.3 grams of couscous mixed with vegetables and oil, paired with 29.2 grams of grilled lamb and 30 grams of white sugar.",
-            "description3": "Lunch today consists of 654 grams of couscous with veggies and oil, 29.2 grams of grilled lamb, and 30 grams of white sugar.",
-            "description4": "I\u2019m eating 654.3g of couscous with vegetables and oil for lunch, plus 29.2 grams of grilled lamb and 30 grams of white sugar.",
-            "description5": "For lunch, I prepared 654 grams of couscous with vegetables and some vegetable oil, along with 29.2 grams of grilled lamb and 30 grams of white sugar."
+            "description4": "I\u2019m eating 654.3g of couscous with vegetables and oil for lunch, plus 29.2 grams of grilled lamb and 30 grams of white sugar."
         }
     },
     {
@@ -1296,7 +1305,7 @@
         "meal_str": "Canned sardines, SURROUNDING-MEDIUM = In vegetable oil||Couscous with chicken and vegetable oil||Mixed salad with egg, tuna and vegetable oil||Wheat bread and rolls, white (refined flour)||White sugar",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had 40g of canned sardines in vegetable oil, along with 290.5g of couscous with chicken and vegetable oil.\",\n    \"description2\": \"I also enjoyed 160.8g of mixed salad with egg and tuna, dressed with vegetable oil.\",\n    \"description3\": \"I paired that with 150g of white bread and rolls, and added 20g of white sugar to my meal.\",\n    \"description4\": \"So for lunch, it was 40 grams of sardines, 290.5 grams of couscous, and a salad of 160.8 grams with egg and tuna.\",\n    \"description5\": \"I had a side of 150 grams of white bread and rolls, plus 20 grams of sugar to round out my lunch.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For lunch, I had 40g of canned sardines in vegetable oil, along with 290.5g of couscous with chicken and vegetable oil, a side of 160.8g of mixed salad with egg, tuna, and vegetable oil, some 150g of white wheat bread and rolls, and a sprinkle of 20g of white sugar."
     },
     {
         "index": 320558,
@@ -1458,7 +1467,7 @@
         "meal_str": "Boiled eggs||Canned sardines, SURROUNDING-MEDIUM = In vegetable oil||Chakchouka with vegetable oil||Mashed carrots with vegetable oil||Oranges||Pears||Wheat bread and rolls, white (refined flour)",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having 22.5g of boiled eggs, 20g of canned sardines in vegetable oil, and 261.1g of chakchouka with vegetable oil.\",\n    \"description2\": \"I also have 30.5g of mashed carrots with vegetable oil on my plate, along with 53.4g of oranges and 150g of pears.\",\n    \"description3\": \"My meal includes 150g of white wheat bread rolls, paired with the boiled eggs and sardines.\",\n    \"description4\": \"So for dinner, that's 22.5g of boiled eggs, 20g of sardines, and a big serving of 261.1g of chakchouka.\",\n    \"description5\": \"I\u2019m also enjoying some mashed carrots, 53.4g of oranges, and 150g of pears with my 150g of bread rolls.\"\n}",
-        "revised_description": "For dinner, I'm having 22.5g of boiled eggs, 20g of canned sardines in vegetable oil, 261.1g of chakchouka with vegetable oil, 30.5g of mashed carrots with vegetable oil, 53.4g of oranges, 150g of pears, and 150g of white wheat bread and rolls."
+        "revised_description": "For dinner, I'm having 22.5g of boiled eggs, 20g of canned sardines in vegetable oil, 261.1g of chakchouka with vegetable oil, 30.5g of mashed carrots with vegetable oil, 53.4g of oranges, 150.0g of pears, and 150.0g of white wheat bread and rolls."
     },
     {
         "index": 302568,
@@ -1536,13 +1545,7 @@
         "meal_str": "Peach||Potato Stew With Chicken And Vegetable Oil||Tunisian Salad With Olive Oil||baguette bread",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having a 240g peach along with 201g of potato stew with chicken and vegetable oil, a 110g Tunisian salad with olive oil, and 200g of baguette bread.\",\n    \"description2\": \"I'm enjoying a 240-gram peach, 201g of chicken potato stew, 110g of Tunisian salad with olive oil, and a 200g baguette for dinner.\",\n    \"description3\": \"For my dinner, I have a peach weighing 240g, some potato stew with chicken and vegetable oil at 201g, a 110g serving of Tunisian salad with olive oil, and 200g of baguette bread.\",\n    \"description4\": \"I\u2019m having a 240g peach, plus 201g of potato stew with chicken, a 110g Tunisian salad dressed with olive oil, and 200g of baguette for dinner.\",\n    \"description5\": \"Tonight's dinner includes a 240g peach, 201g of potato stew made with chicken and vegetable oil, a 110g Tunisian salad with olive oil, and 200g of baguette bread.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having a 240g peach along with 201g of potato stew with chicken and vegetable oil, a 110g Tunisian salad with olive oil, and 200g of baguette bread.",
-            "description2": "I'm enjoying a 240-gram peach, 201g of chicken potato stew, 110g of Tunisian salad with olive oil, and a 200g baguette for dinner.",
-            "description3": "For my dinner, I have a peach weighing 240g, some potato stew with chicken and vegetable oil at 201g, a 110g serving of Tunisian salad with olive oil, and 200g of baguette bread.",
-            "description4": "I\u2019m having a 240g peach, plus 201g of potato stew with chicken, a 110g Tunisian salad dressed with olive oil, and 200g of baguette for dinner.",
-            "description5": "Tonight's dinner includes a 240g peach, 201g of potato stew made with chicken and vegetable oil, a 110g Tunisian salad with olive oil, and 200g of baguette bread."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 309465,
@@ -1620,13 +1623,7 @@
         "meal_str": "Fennel Salad With Olive Oil||Macaroni Without Meat With Vegetable Oil||Orange",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I had a 38g fennel salad with olive oil, 275g of macaroni without meat with vegetable oil, and a 100g orange.\",\n    \"description2\": \"I enjoyed a 38-gram fennel salad dressed with olive oil, along with 275 grams of meatless macaroni prepared with vegetable oil, and a 100-gram orange for dinner.\",\n    \"description3\": \"Tonight's dinner included a fennel salad weighing 38 grams with some olive oil, 275 grams of macaroni made without meat and cooked in vegetable oil, plus a 100-gram orange.\",\n    \"description4\": \"I had a light dinner with a 38g fennel salad with olive oil, a hearty 275g of macaroni without meat made with vegetable oil, and a fresh 100g orange.\",\n    \"description5\": \"For dinner, I ate a 38-gram fennel salad drizzled with olive oil, 275g of macaroni without meat tossed in vegetable oil, and a 100g orange.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I had a 38g fennel salad with olive oil, 275g of macaroni without meat with vegetable oil, and a 100g orange.",
-            "description2": "I enjoyed a 38-gram fennel salad dressed with olive oil, along with 275 grams of meatless macaroni prepared with vegetable oil, and a 100-gram orange for dinner.",
-            "description3": "Tonight's dinner included a fennel salad weighing 38 grams with some olive oil, 275 grams of macaroni made without meat and cooked in vegetable oil, plus a 100-gram orange.",
-            "description4": "I had a light dinner with a 38g fennel salad with olive oil, a hearty 275g of macaroni without meat made with vegetable oil, and a fresh 100g orange.",
-            "description5": "For dinner, I ate a 38-gram fennel salad drizzled with olive oil, 275g of macaroni without meat tossed in vegetable oil, and a 100g orange."
-        }
+        "revised_description": "For dinner, I had a 38.0g fennel salad with olive oil, 275.2g of macaroni without meat with vegetable oil, and a 100.0g orange."
     },
     {
         "index": 313574,
@@ -1726,11 +1723,7 @@
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I'm having 140g of raw chicken meat with a 125g Coca Cola, along with 115g of Kaftagi and 150g of baguette bread. I also have 16.2g of raw potatoes on the side.\",\n    \"description2\": \"I\u2019ve got a lunch that includes 140 grams of raw chicken, 125g of Coca Cola, and 115g of Kaftagi, plus 150g of baguette bread and a small portion of 16.2g raw potatoes.\",\n    \"description3\": \"My lunch today consists of 140g of raw chicken, 125g of Coca Cola, 115.1g of Kaftagi, 150g of baguette bread, and 16.2g of raw potatoes.\",\n    \"description4\": \"I\u2019m enjoying 140 grams of raw chicken meat and a 125g Coca Cola for lunch, along with 115g of Kaftagi, 150g of baguette bread, and a bit of 16.2g raw potatoes.\",\n    \"description5\": \"For lunch, I have 140g of raw chicken, a 125g Coca Cola, 115g of Kaftagi, 150g of baguette bread, and 16.2g of raw potatoes.\"\n}",
         "filtered_queries": {
-            "description1": "For lunch, I'm having 140g of raw chicken meat with a 125g Coca Cola, along with 115g of Kaftagi and 150g of baguette bread. I also have 16.2g of raw potatoes on the side.",
-            "description2": "I\u2019ve got a lunch that includes 140 grams of raw chicken, 125g of Coca Cola, and 115g of Kaftagi, plus 150g of baguette bread and a small portion of 16.2g raw potatoes.",
-            "description3": "My lunch today consists of 140g of raw chicken, 125g of Coca Cola, 115.1g of Kaftagi, 150g of baguette bread, and 16.2g of raw potatoes.",
-            "description4": "I\u2019m enjoying 140 grams of raw chicken meat and a 125g Coca Cola for lunch, along with 115g of Kaftagi, 150g of baguette bread, and a bit of 16.2g raw potatoes.",
-            "description5": "For lunch, I have 140g of raw chicken, a 125g Coca Cola, 115g of Kaftagi, 150g of baguette bread, and 16.2g of raw potatoes."
+            "description3": "My lunch today consists of 140g of raw chicken, 125g of Coca Cola, 115.1g of Kaftagi, 150g of baguette bread, and 16.2g of raw potatoes."
         }
     },
     {
@@ -1767,7 +1760,13 @@
         "meal_str": "Figs||Lentil stew with chicken and vegetable oil||Wheat bread and rolls, white (refined flour)",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I had 100 grams of figs, 155.5 grams of lentil stew with chicken and vegetable oil, and 125 grams of white wheat bread.\",\n    \"description2\": \"I enjoyed 100g of figs along with 155.5g of lentil stew made with chicken and vegetable oil, plus 125g of white bread for dinner.\",\n    \"description3\": \"Dinner was 100 grams of figs, 155.5 grams of lentil stew with chicken, and 125 grams of white rolls.\",\n    \"description4\": \"I ate 100g of figs and 155.5g of lentil stew that had chicken and vegetable oil, along with 125g of white wheat bread for dinner.\",\n    \"description5\": \"For my dinner, I had 100 grams of figs, a hearty 155.5 grams of lentil stew with chicken, and 125 grams of refined white bread.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I had 100 grams of figs, 155.5 grams of lentil stew with chicken and vegetable oil, and 125 grams of white wheat bread.",
+            "description2": "I enjoyed 100g of figs along with 155.5g of lentil stew made with chicken and vegetable oil, plus 125g of white bread for dinner.",
+            "description3": "Dinner was 100 grams of figs, 155.5 grams of lentil stew with chicken, and 125 grams of white rolls.",
+            "description4": "I ate 100g of figs and 155.5g of lentil stew that had chicken and vegetable oil, along with 125g of white wheat bread for dinner.",
+            "description5": "For my dinner, I had 100 grams of figs, a hearty 155.5 grams of lentil stew with chicken, and 125 grams of refined white bread."
+        }
     },
     {
         "index": 317332,
@@ -1866,13 +1865,7 @@
         "meal_str": "Clementine||Couscous With Lamb Osbane And Vegetable Oil||Lettuce Salad With Olive Oil||baguette bread",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had a 50g clementine, 952g of couscous with lamb osbane and vegetable oil, an 83.1g lettuce salad with olive oil, and 200g of baguette bread.\",\n    \"description2\": \"I enjoyed a lunch that included a 50g clementine, a large serving of couscous with lamb osbane weighing 952g, an 83.1g lettuce salad dressed with olive oil, and 200g of baguette bread.\",\n    \"description3\": \"At lunch, I ate a 50g clementine, along with 952g of couscous with lamb osbane and vegetable oil, a side of 83.1g lettuce salad with olive oil, and 200g of baguette bread.\",\n    \"description4\": \"For lunch today, I had a 50g clementine, a big portion of couscous with lamb osbane weighing 952g, an 83.1g salad with lettuce and olive oil, and 200g of baguette bread.\",\n    \"description5\": \"I had a 50g clementine, followed by 952g of couscous with lamb osbane and vegetable oil, an 83.1g lettuce salad with olive oil, and finished with 200g of baguette bread for lunch.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I had a 50g clementine, 952g of couscous with lamb osbane and vegetable oil, an 83.1g lettuce salad with olive oil, and 200g of baguette bread.",
-            "description2": "I enjoyed a lunch that included a 50g clementine, a large serving of couscous with lamb osbane weighing 952g, an 83.1g lettuce salad dressed with olive oil, and 200g of baguette bread.",
-            "description3": "At lunch, I ate a 50g clementine, along with 952g of couscous with lamb osbane and vegetable oil, a side of 83.1g lettuce salad with olive oil, and 200g of baguette bread.",
-            "description4": "For lunch today, I had a 50g clementine, a big portion of couscous with lamb osbane weighing 952g, an 83.1g salad with lettuce and olive oil, and 200g of baguette bread.",
-            "description5": "I had a 50g clementine, followed by 952g of couscous with lamb osbane and vegetable oil, an 83.1g lettuce salad with olive oil, and finished with 200g of baguette bread for lunch."
-        }
+        "revised_description": "For lunch, I had a 50g clementine, 952.1g of couscous with lamb osbane and vegetable oil, an 83.1g lettuce salad with olive oil, and 200g of baguette bread."
     },
     {
         "index": 320557,
@@ -1887,13 +1880,7 @@
         "meal_str": "Couscous with dried meat and vegetable oil||Melons||Wheat bread and rolls, white (refined flour)||Yoghurt, cow milk, flavoured, QUALITATIVE-INFO = Semi-skimmed",
         "country": "TUN",
         "query": "{\"description1\": \"For dinner, I'm having 477g of couscous with dried meat and vegetable oil, along with 30g of melons, 50g of white wheat bread and rolls, and 110g of flavored semi-skimmed cow milk yogurt.\", \"description2\": \"I\u2019ve got a dinner plate with 477g of couscous mixed with dried meat and oil, some melons weighing 30g, a slice of white bread at 50g, and 110g of flavored yogurt.\", \"description3\": \"Dinner today includes 477g of couscous with meat and oil, 30g of melons, 50g of white bread, and 110g of flavored yogurt made from cow's milk.\", \"description4\": \"I'm eating 477g of couscous with dried meat and vegetable oil for dinner, plus 30g of melons, a 50g serving of white bread, and 110g of flavored yogurt.\", \"description5\": \"For dinner, I have 477g of couscous with meat, 30g of melons, 50g of white rolls, and 110g of semi-skimmed flavored yogurt.\"}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 477g of couscous with dried meat and vegetable oil, along with 30g of melons, 50g of white wheat bread and rolls, and 110g of flavored semi-skimmed cow milk yogurt.",
-            "description2": "I\u2019ve got a dinner plate with 477g of couscous mixed with dried meat and oil, some melons weighing 30g, a slice of white bread at 50g, and 110g of flavored yogurt.",
-            "description3": "Dinner today includes 477g of couscous with meat and oil, 30g of melons, 50g of white bread, and 110g of flavored yogurt made from cow's milk.",
-            "description4": "I'm eating 477g of couscous with dried meat and vegetable oil for dinner, plus 30g of melons, a 50g serving of white bread, and 110g of flavored yogurt.",
-            "description5": "For dinner, I have 477g of couscous with meat, 30g of melons, 50g of white rolls, and 110g of semi-skimmed flavored yogurt."
-        }
+        "revised_description": "For dinner, I'm having 476.7g of couscous with dried meat and vegetable oil, along with 30g of melons, 50g of white wheat bread and rolls, and 110g of flavored semi-skimmed cow milk yogurt."
     },
     {
         "index": 298629,
@@ -1927,13 +1914,7 @@
         "meal_str": "Fried Foods||Pear||Potatoes, raw||Tunisian Salad With Olive Oil||baguette bread",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had about 72g of fried foods, a 50g pear, 27g of raw potatoes, a 28g serving of Tunisian salad with olive oil, and 200g of baguette bread.\",\n    \"description2\": \"I ate 72 grams of fried foods alongside a 50g pear, some raw potatoes weighing 27g, a bit of Tunisian salad with olive oil at 28g, and 200g of baguette bread for lunch.\",\n    \"description3\": \"My lunch included 72g of fried foods, 50g of pear, 27g of raw potatoes, 28g of Tunisian salad with olive oil, and a 200g baguette.\",\n    \"description4\": \"I had a lunch that consisted of 72g of fried foods, a 50g pear, 27g of raw potatoes, 28g of Tunisian salad with olive oil, and 200g of baguette bread.\",\n    \"description5\": \"For lunch, I enjoyed 72 grams of fried foods, a 50g pear, 27g of raw potatoes, 28 grams of Tunisian salad with olive oil, and a large 200g baguette.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I had about 72g of fried foods, a 50g pear, 27g of raw potatoes, a 28g serving of Tunisian salad with olive oil, and 200g of baguette bread.",
-            "description2": "I ate 72 grams of fried foods alongside a 50g pear, some raw potatoes weighing 27g, a bit of Tunisian salad with olive oil at 28g, and 200g of baguette bread for lunch.",
-            "description3": "My lunch included 72g of fried foods, 50g of pear, 27g of raw potatoes, 28g of Tunisian salad with olive oil, and a 200g baguette.",
-            "description4": "I had a lunch that consisted of 72g of fried foods, a 50g pear, 27g of raw potatoes, 28g of Tunisian salad with olive oil, and 200g of baguette bread.",
-            "description5": "For lunch, I enjoyed 72 grams of fried foods, a 50g pear, 27g of raw potatoes, 28 grams of Tunisian salad with olive oil, and a large 200g baguette."
-        }
+        "revised_description": "For lunch, I had about 71.9g of fried foods, a 50g pear, 27g of raw potatoes, a 28g serving of Tunisian salad with olive oil, and 200g of baguette bread."
     },
     {
         "index": 304101,
@@ -2074,7 +2055,13 @@
         "meal_str": "Fried foods||Potatoes, PROCESS = Frying||Tomato sauce with vegetable oil",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I'm having 143.5g of fried foods with 54g of fried potatoes and 34.5g of tomato sauce with vegetable oil.\",\n    \"description2\": \"I\u2019ve got a lunch of 143.5 grams of fried foods, some 54 grams of fried potatoes, and 34.5 grams of tomato sauce with vegetable oil.\",\n    \"description3\": \"For lunch, I\u2019m eating 143.5g of fried foods along with 54g of fried potatoes and 34.5g of tomato sauce that has vegetable oil in it.\",\n    \"description4\": \"I\u2019m having lunch that includes 143.5 grams of fried foods, 54 grams of fried potatoes, and 34.5 grams of tomato sauce with vegetable oil.\",\n    \"description5\": \"For my lunch, I have 143.5g of fried foods, 54g of fried potatoes, and a side of 34.5g of tomato sauce with vegetable oil.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I'm having 143.5g of fried foods with 54g of fried potatoes and 34.5g of tomato sauce with vegetable oil.",
+            "description2": "I\u2019ve got a lunch of 143.5 grams of fried foods, some 54 grams of fried potatoes, and 34.5 grams of tomato sauce with vegetable oil.",
+            "description3": "For lunch, I\u2019m eating 143.5g of fried foods along with 54g of fried potatoes and 34.5g of tomato sauce that has vegetable oil in it.",
+            "description4": "I\u2019m having lunch that includes 143.5 grams of fried foods, 54 grams of fried potatoes, and 34.5 grams of tomato sauce with vegetable oil.",
+            "description5": "For my lunch, I have 143.5g of fried foods, 54g of fried potatoes, and a side of 34.5g of tomato sauce with vegetable oil."
+        }
     },
     {
         "index": 321074,
@@ -2299,7 +2286,13 @@
         "meal_str": "Green tea||Orange||Potato Stew With Chicken And Vegetable Oil||Sugar||baguette bread",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had 45g of green tea, a 150g orange, and 100.5g of potato stew with chicken and some vegetable oil. I added 6g of sugar to my tea and enjoyed it with 150g of baguette bread.\",\n    \"description2\": \"I\u2019m eating lunch today, which includes 45 grams of green tea, a 150-gram orange, and a serving of potato stew with chicken that weighs 100.5 grams. I put 6 grams of sugar in the tea and had 150 grams of baguette bread on the side.\",\n    \"description3\": \"For lunch, I had a cup of green tea (45g), a 150g orange, and 100.5g of chicken potato stew with vegetable oil. I sweetened the tea with 6g of sugar and paired it with some 150g of baguette bread.\",\n    \"description4\": \"Today for lunch, I prepared 45g of green tea, a 150g orange, and 100.5g of potato stew with chicken and vegetable oil. I added 6g of sugar to the tea and had 150g of baguette bread as well.\",\n    \"description5\": \"I\u2019m enjoying lunch with 45 grams of green tea, a 150g orange, and a bowl of potato stew with chicken that weighs 100.5 grams. I mixed in 6 grams of sugar and had 150g of baguette bread to go with it.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I had 45g of green tea, a 150g orange, and 100.5g of potato stew with chicken and some vegetable oil. I added 6g of sugar to my tea and enjoyed it with 150g of baguette bread.",
+            "description2": "I\u2019m eating lunch today, which includes 45 grams of green tea, a 150-gram orange, and a serving of potato stew with chicken that weighs 100.5 grams. I put 6 grams of sugar in the tea and had 150 grams of baguette bread on the side.",
+            "description3": "For lunch, I had a cup of green tea (45g), a 150g orange, and 100.5g of chicken potato stew with vegetable oil. I sweetened the tea with 6g of sugar and paired it with some 150g of baguette bread.",
+            "description4": "Today for lunch, I prepared 45g of green tea, a 150g orange, and 100.5g of potato stew with chicken and vegetable oil. I added 6g of sugar to the tea and had 150g of baguette bread as well.",
+            "description5": "I\u2019m enjoying lunch with 45 grams of green tea, a 150g orange, and a bowl of potato stew with chicken that weighs 100.5 grams. I mixed in 6 grams of sugar and had 150g of baguette bread to go with it."
+        }
     },
     {
         "index": 311611,
@@ -2335,11 +2328,7 @@
         "meal_str": "Couscous with beef and vegetable oil||Tunisian mechouia salad with olive oil||Watermelons||Wheat bread and rolls, white (refined flour)",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having about 598g of couscous with beef and vegetable oil, a 40g serving of Tunisian mechouia salad with olive oil, and some watermelon weighing 200g. I also have 50g of white wheat bread.\",\n    \"description2\": \"I'm enjoying dinner with 597g of couscous mixed with beef and a bit of vegetable oil, along with a 40g portion of mechouia salad dressed in olive oil, 200g of watermelon, and 50g of white rolls.\",\n    \"description3\": \"For my dinner, I've got 598g of couscous with beef, 40g of Tunisian mechouia salad with olive oil, 200g of watermelon, and 50g of white bread.\",\n    \"description4\": \"At dinner, I'm eating 597g of couscous combined with beef and vegetable oil, a small 40g serving of mechouia salad with some olive oil, along with 200g of watermelon and 50g of white refined rolls.\",\n    \"description5\": \"I'm having a dinner that includes 598g of couscous with beef and vegetable oil, 40g of mechouia salad with olive oil, 200g of watermelon, and 50g of white wheat bread.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having about 598g of couscous with beef and vegetable oil, a 40g serving of Tunisian mechouia salad with olive oil, and some watermelon weighing 200g. I also have 50g of white wheat bread.",
-            "description3": "For my dinner, I've got 598g of couscous with beef, 40g of Tunisian mechouia salad with olive oil, 200g of watermelon, and 50g of white bread.",
-            "description5": "I'm having a dinner that includes 598g of couscous with beef and vegetable oil, 40g of mechouia salad with olive oil, 200g of watermelon, and 50g of white wheat bread."
-        }
+        "revised_description": "For dinner, I'm having about 598g of couscous with beef and vegetable oil, a 40g serving of Tunisian mechouia salad with olive oil, and some watermelon weighing 200g. I also have 50g of white wheat bread. Additionally, I've got 597.6g of couscous with beef and vegetable oil, 39.8g of Tunisian mechouia salad with olive oil, 200g of watermelon, and 50g of white wheat bread to enjoy."
     },
     {
         "index": 307347,
@@ -2375,13 +2364,7 @@
         "meal_str": "Coca Cola||Couscous With Chicken And Corn Oil||Peach",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I'm having 160g of Coca Cola, a serving of couscous with chicken and corn oil that weighs about 748g, and a peach that weighs 160g.\",\n    \"description2\": \"I just finished a lunch that included 160 grams of Coca Cola, 748g of couscous with chicken and corn oil, and a 160g peach.\",\n    \"description3\": \"Today for lunch, I had 160g of Coca Cola alongside 748g of couscous with chicken and corn oil, plus a 160g peach.\",\n    \"description4\": \"At lunch, I enjoyed 160 grams of Coca Cola, a large serving of couscous with chicken and corn oil weighing around 748g, and a peach that was 160g.\",\n    \"description5\": \"I had a lunch with 160g of Coca Cola, a hefty 748g of couscous with chicken and corn oil, and a 160g peach.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 160g of Coca Cola, a serving of couscous with chicken and corn oil that weighs about 748g, and a peach that weighs 160g.",
-            "description2": "I just finished a lunch that included 160 grams of Coca Cola, 748g of couscous with chicken and corn oil, and a 160g peach.",
-            "description3": "Today for lunch, I had 160g of Coca Cola alongside 748g of couscous with chicken and corn oil, plus a 160g peach.",
-            "description4": "At lunch, I enjoyed 160 grams of Coca Cola, a large serving of couscous with chicken and corn oil weighing around 748g, and a peach that was 160g.",
-            "description5": "I had a lunch with 160g of Coca Cola, a hefty 748g of couscous with chicken and corn oil, and a 160g peach."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 300418,
@@ -2585,7 +2568,13 @@
         "meal_str": "Common peaches||Fried foods||Plumcots||Potatoes, PROCESS = Frying||Watermelons||Wheat bread and rolls, white (refined flour)",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I had 80g of common peaches, 143.5g of fried foods, and 100g of plumcots. I also had 54g of fried potatoes, 150g of watermelon, and 150g of white wheat bread.\",\n    \"description2\": \"I enjoyed 80 grams of peaches along with 143.5 grams of fried foods and 100 grams of plumcots for dinner. I added 54 grams of fried potatoes, 150 grams of watermelon, and 150 grams of white bread.\",\n    \"description3\": \"For my dinner, I had a mix of 80g of peaches, 143.5g of fried foods, and 100g of plumcots. I also included 54g of fried potatoes, 150g of watermelon, and 150g of white rolls.\",\n    \"description4\": \"Dinner consisted of 80 grams of common peaches, 143.5 grams of fried foods, and 100 grams of plumcots, along with 54 grams of fried potatoes, 150 grams of watermelon, and 150 grams of white bread.\",\n    \"description5\": \"I had 80g of peaches, 143.5g of fried foods, and 100g of plumcots for dinner. Plus, I included 54g of fried potatoes, 150g of watermelon, and 150g of white wheat rolls.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I had 80g of common peaches, 143.5g of fried foods, and 100g of plumcots. I also had 54g of fried potatoes, 150g of watermelon, and 150g of white wheat bread.",
+            "description2": "I enjoyed 80 grams of peaches along with 143.5 grams of fried foods and 100 grams of plumcots for dinner. I added 54 grams of fried potatoes, 150 grams of watermelon, and 150 grams of white bread.",
+            "description3": "For my dinner, I had a mix of 80g of peaches, 143.5g of fried foods, and 100g of plumcots. I also included 54g of fried potatoes, 150g of watermelon, and 150g of white rolls.",
+            "description4": "Dinner consisted of 80 grams of common peaches, 143.5 grams of fried foods, and 100 grams of plumcots, along with 54 grams of fried potatoes, 150 grams of watermelon, and 150 grams of white bread.",
+            "description5": "I had 80g of peaches, 143.5g of fried foods, and 100g of plumcots for dinner. Plus, I included 54g of fried potatoes, 150g of watermelon, and 150g of white wheat rolls."
+        }
     },
     {
         "index": 316676,
@@ -2659,13 +2648,7 @@
         "meal_str": "Couscous With Lamb Osbane And Olive Oil||Fermented milk",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had 952g of couscous with lamb osbane and olive oil, along with 120g of fermented milk.\",\n    \"description2\": \"I enjoyed a 952g serving of lamb osbane couscous and paired it with 120g of fermented milk for lunch.\",\n    \"description3\": \"Lunch today included 952g of couscous made with lamb osbane and olive oil, plus 120g of fermented milk.\",\n    \"description4\": \"I had 952 grams of couscous with lamb osbane and olive oil, and I drank 120g of fermented milk for lunch.\",\n    \"description5\": \"For lunch, I ate 952g of couscous with lamb osbane and olive oil, along with a side of 120g fermented milk.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I had 952g of couscous with lamb osbane and olive oil, along with 120g of fermented milk.",
-            "description2": "I enjoyed a 952g serving of lamb osbane couscous and paired it with 120g of fermented milk for lunch.",
-            "description3": "Lunch today included 952g of couscous made with lamb osbane and olive oil, plus 120g of fermented milk.",
-            "description4": "I had 952 grams of couscous with lamb osbane and olive oil, and I drank 120g of fermented milk for lunch.",
-            "description5": "For lunch, I ate 952g of couscous with lamb osbane and olive oil, along with a side of 120g fermented milk."
-        }
+        "revised_description": "For lunch, I had 952.1g of couscous with lamb osbane and olive oil, along with 120g of fermented milk."
     },
     {
         "index": 296238,
@@ -2827,13 +2810,7 @@
         "meal_str": "Coca Cola||Green tea||Macaroni With Lamb And Vegetable Oil||Pizza With Cheese And Tuna||Sugar",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having 120g of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar.\",\n    \"description2\": \"I\u2019ve got 120 grams of Coca Cola, a 45g serving of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar for dinner.\",\n    \"description3\": \"Dinner includes 120g of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar.\",\n    \"description4\": \"I'm enjoying 120 grams of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, plus 10g of sugar for dinner.\",\n    \"description5\": \"For dinner, I have 120g of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 120g of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar.",
-            "description2": "I\u2019ve got 120 grams of Coca Cola, a 45g serving of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar for dinner.",
-            "description3": "Dinner includes 120g of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar.",
-            "description4": "I'm enjoying 120 grams of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, plus 10g of sugar for dinner.",
-            "description5": "For dinner, I have 120g of Coca Cola, 45g of green tea, 885g of macaroni with lamb and vegetable oil, 90g of pizza with cheese and tuna, and 10g of sugar."
-        }
+        "revised_description": "For dinner, I'm having 120g of Coca Cola, 45g of green tea, 885.4g of macaroni with lamb and vegetable oil, 89.9g of pizza with cheese and tuna, and 10g of sugar."
     },
     {
         "index": 315592,
@@ -3124,7 +3101,6 @@
         "filtered_queries": {
             "description1": "For dinner, I'm having 30g of melted cheese, 45.1g of okra stew with beef and corn oil, 50g of turkey salami, and a 50g piece of baguette bread.",
             "description3": "Dinner consists of 30g of melted cheese, 50g of turkey salami, and a serving of okra stew with beef and corn oil weighing 45.1g, all paired with 50g of baguette bread.",
-            "description4": "I'm having 30g of melted cheese with my 45.1g okra stew with beef and corn oil, plus 50g of turkey salami and a slice of baguette bread for dinner.",
             "description5": "For dinner, I have a mix of 30g melted cheese, 45.1g of okra stew with beef, 50g of turkey salami, and a 50g piece of baguette bread."
         }
     },
@@ -3477,7 +3453,7 @@
         "meal_str": "Boiled eggs||Bssissa barley with water||Cow milk, semi skimmed (half fat), PROCESS = UHT||Wheat bread and rolls, white (refined flour)||White sugar||Yoghurt, cow milk, flavoured, QUALITATIVE-INFO = Semi-skimmed",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For breakfast, I had 135g of boiled eggs, 563.5g of Bssissa barley with water, and 250g of semi-skimmed cow milk.\",\n    \"description2\": \"I enjoyed a breakfast of 50g of white bread rolls with 220g of flavored cow milk yogurt and a bit of white sugar, about 10g.\",\n    \"description3\": \"This morning, I ate 135g of boiled eggs alongside 563.5g of barley and drank 250g of semi-skimmed milk.\",\n    \"description4\": \"For breakfast, I had 50g of white bread with 220g of flavored yogurt and 10g of white sugar on top.\",\n    \"description5\": \"I started my day with 135g of boiled eggs and 563.5g of Bssissa barley, plus a glass of 250g semi-skimmed milk.\"\n}",
-        "revised_description": "For breakfast, I had 135.0g of boiled eggs, 563.5g of Bssissa barley with water, 250.0g of semi-skimmed cow milk, 50.0g of white wheat bread, and 10.0g of white sugar. I also enjoyed 220.0g of flavoured cow milk yoghurt."
+        "revised_description": "For breakfast, I had 135g of boiled eggs, 563.5g of Bssissa barley with water, and 250g of semi-skimmed cow milk. I also enjoyed 50g of white bread, spread with 10g of white sugar, and topped it off with 220g of semi-skimmed flavoured yoghurt."
     },
     {
         "index": 317705,
@@ -3517,8 +3493,7 @@
             "description1": "For breakfast, I had about 15g of Assida drizzled with olive oil, along with 100g of whole cow milk, 50g of white bread, and 50g of white sugar.",
             "description2": "I started my day with 15g of Assida with olive oil, 100g of whole milk, 50g of white rolls, and 50g of sugar for breakfast.",
             "description3": "This morning, I ate 15g of Assida topped with olive oil, had a glass of 100g whole cow milk, and some 50g of white bread with 50g of sugar.",
-            "description4": "I had 15g of Assida with olive oil for breakfast, paired with 100g of whole milk, 50g of white rolls, and 50g of sugar.",
-            "description5": "For breakfast, I enjoyed 15g of Assida with olive oil, 100g of whole cow milk, and 50g each of white bread and sugar."
+            "description4": "I had 15g of Assida with olive oil for breakfast, paired with 100g of whole milk, 50g of white rolls, and 50g of sugar."
         }
     },
     {
@@ -3555,7 +3530,13 @@
         "meal_str": "Pickled olive||Potato Stew With Chicken And Vegetable Oil||Tunisian Salad With Olive Oil||baguette bread",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having 15g of pickled olives, 100.5g of potato stew with chicken and vegetable oil, 28g of Tunisian salad with olive oil, and 100g of baguette bread.\",\n    \"description2\": \"I\u2019ve got a dinner plate with 100.5g of potato stew with chicken, 15g of pickled olives, 28g of Tunisian salad with olive oil, and a 100g baguette on the side.\",\n    \"description3\": \"For dinner, I'm enjoying 15g of pickled olives along with 100.5g of chicken potato stew, 28g of Tunisian salad, and 100g of baguette bread.\",\n    \"description4\": \"I'm having dinner that includes 100.5g of potato stew with chicken, 15g of pickled olives, 28g of Tunisian salad with olive oil, and a 100g baguette.\",\n    \"description5\": \"For dinner, I have 15 grams of pickled olives, 100.5 grams of potato stew with chicken, 28 grams of Tunisian salad, and 100 grams of baguette bread.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 15g of pickled olives, 100.5g of potato stew with chicken and vegetable oil, 28g of Tunisian salad with olive oil, and 100g of baguette bread.",
+            "description2": "I\u2019ve got a dinner plate with 100.5g of potato stew with chicken, 15g of pickled olives, 28g of Tunisian salad with olive oil, and a 100g baguette on the side.",
+            "description3": "For dinner, I'm enjoying 15g of pickled olives along with 100.5g of chicken potato stew, 28g of Tunisian salad, and 100g of baguette bread.",
+            "description4": "I'm having dinner that includes 100.5g of potato stew with chicken, 15g of pickled olives, 28g of Tunisian salad with olive oil, and a 100g baguette.",
+            "description5": "For dinner, I have 15 grams of pickled olives, 100.5 grams of potato stew with chicken, 28 grams of Tunisian salad, and 100 grams of baguette bread."
+        }
     },
     {
         "index": 305053,
@@ -3612,7 +3593,13 @@
         "meal_str": "Couscous with chicken and vegetable oil||Cucumber salad with olive oil||Plumcots",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I had 290.5g of couscous with chicken and vegetable oil, a 227g cucumber salad with olive oil, and 80g of plumcots.\",\n    \"description2\": \"I enjoyed a lunch consisting of 290.5 grams of couscous with chicken and some vegetable oil, along with a cucumber salad that weighed 227 grams and 80 grams of plumcots.\",\n    \"description3\": \"Lunch today was 290.5g of couscous with chicken, a cucumber salad dressed with olive oil weighing 227g, and 80g of plumcots for dessert.\",\n    \"description4\": \"I had a 290.5g serving of couscous with chicken and vegetable oil, a 227g cucumber salad with olive oil, and 80g of plumcots for lunch.\",\n    \"description5\": \"For lunch, I ate 290.5 grams of couscous with chicken, a 227g cucumber salad with olive oil, and finished off with 80g of plumcots.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I had 290.5g of couscous with chicken and vegetable oil, a 227g cucumber salad with olive oil, and 80g of plumcots.",
+            "description2": "I enjoyed a lunch consisting of 290.5 grams of couscous with chicken and some vegetable oil, along with a cucumber salad that weighed 227 grams and 80 grams of plumcots.",
+            "description3": "Lunch today was 290.5g of couscous with chicken, a cucumber salad dressed with olive oil weighing 227g, and 80g of plumcots for dessert.",
+            "description4": "I had a 290.5g serving of couscous with chicken and vegetable oil, a 227g cucumber salad with olive oil, and 80g of plumcots for lunch.",
+            "description5": "For lunch, I ate 290.5 grams of couscous with chicken, a 227g cucumber salad with olive oil, and finished off with 80g of plumcots."
+        }
     },
     {
         "index": 315576,
@@ -3690,7 +3677,13 @@
         "meal_str": "Chicken meat, raw||Fried Foods",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I'm having 62 grams of raw chicken meat and about 143.5 grams of fried foods.\",\n    \"description2\": \"I\u2019ve got 62g of raw chicken and 143.5g of fried foods for lunch.\",\n    \"description3\": \"At lunch, I\u2019m eating 62 grams of raw chicken and 143.5 grams of fried foods.\",\n    \"description4\": \"I'm having a 62g portion of raw chicken meat along with 143.5g of fried foods for lunch.\",\n    \"description5\": \"For lunch, it's 62 grams of chicken and 143.5 grams of fried foods.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I'm having 62 grams of raw chicken meat and about 143.5 grams of fried foods.",
+            "description2": "I\u2019ve got 62g of raw chicken and 143.5g of fried foods for lunch.",
+            "description3": "At lunch, I\u2019m eating 62 grams of raw chicken and 143.5 grams of fried foods.",
+            "description4": "I'm having a 62g portion of raw chicken meat along with 143.5g of fried foods for lunch.",
+            "description5": "For lunch, it's 62 grams of chicken and 143.5 grams of fried foods."
+        }
     },
     {
         "index": 301599,

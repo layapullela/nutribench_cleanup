@@ -684,13 +684,7 @@
         "meal_str": "Horse mackerel, fried||Vegetable based dish with rice and chorizo",
         "country": "STP",
         "query": "{\n    \"description1\": \"For lunch, I had 8g of fried horse mackerel along with a vegetable dish that has rice and chorizo, weighing about 111g.\",\n    \"description2\": \"I enjoyed an 8g portion of fried horse mackerel and a vegetable dish with rice and chorizo for lunch, which was around 111g.\",\n    \"description3\": \"Lunch today included 8 grams of fried horse mackerel and a vegetable-based dish with rice and chorizo, totaling about 111g.\",\n    \"description4\": \"I had an 8g serving of fried horse mackerel and a vegetable dish with rice and chorizo for lunch, which weighed about 111g.\",\n    \"description5\": \"For lunch, I ate 8g of fried horse mackerel and a 111g vegetable dish that includes rice and chorizo.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I had 8g of fried horse mackerel along with a vegetable dish that has rice and chorizo, weighing about 111g.",
-            "description2": "I enjoyed an 8g portion of fried horse mackerel and a vegetable dish with rice and chorizo for lunch, which was around 111g.",
-            "description3": "Lunch today included 8 grams of fried horse mackerel and a vegetable-based dish with rice and chorizo, totaling about 111g.",
-            "description4": "I had an 8g serving of fried horse mackerel and a vegetable dish with rice and chorizo for lunch, which weighed about 111g.",
-            "description5": "For lunch, I ate 8g of fried horse mackerel and a 111g vegetable dish that includes rice and chorizo."
-        }
+        "revised_description": "For lunch, I had 8.0g of fried horse mackerel along with a vegetable dish that has rice and chorizo, weighing about 111.1g."
     },
     {
         "index": 293656,
@@ -833,7 +827,6 @@
         "query": "{\n    \"description1\": \"For breakfast, I'm having 2.5g of butter, a 55g boiled hen egg, 2.5g of sugar, and 69g of wheat bread.\",\n    \"description2\": \"I had a breakfast with 69 grams of wheat bread, topped with 2.5 grams of butter, along with a boiled egg weighing 55 grams and a bit of sugar.\",\n    \"description3\": \"For my morning meal, I'm enjoying 55g of boiled egg, 69g of wheat bread, and I added 2.5g of butter and 2.5g of sugar.\",\n    \"description4\": \"This morning, I had a boiled hen egg that weighed 55 grams, with 2.5 grams of butter, 2.5 grams of sugar, and 69 grams of wheat bread.\",\n    \"description5\": \"I started my day with a breakfast that included 2.5g of sugar, a boiled egg at 55g, 2.5g of butter, and 69g of wheat bread.\"\n}",
         "filtered_queries": {
             "description1": "For breakfast, I'm having 2.5g of butter, a 55g boiled hen egg, 2.5g of sugar, and 69g of wheat bread.",
-            "description2": "I had a breakfast with 69 grams of wheat bread, topped with 2.5 grams of butter, along with a boiled egg weighing 55 grams and a bit of sugar.",
             "description3": "For my morning meal, I'm enjoying 55g of boiled egg, 69g of wheat bread, and I added 2.5g of butter and 2.5g of sugar.",
             "description4": "This morning, I had a boiled hen egg that weighed 55 grams, with 2.5 grams of butter, 2.5 grams of sugar, and 69 grams of wheat bread.",
             "description5": "I started my day with a breakfast that included 2.5g of sugar, a boiled egg at 55g, 2.5g of butter, and 69g of wheat bread."
@@ -999,13 +992,7 @@
         "meal_str": "Common seabream, stewed||Corncob, roasted||Rice based dish with vegetables",
         "country": "STP",
         "query": "{\n    \"description1\": \"For dinner, I'm having 115g of stewed common seabream, 45g of roasted corn on the cob, and a rice-based dish with 67g of vegetables.\",\n    \"description2\": \"I\u2019ve got a dinner plate with 115 grams of stewed common seabream, 45 grams of roasted corn, and 67g of a vegetable rice dish.\",\n    \"description3\": \"Tonight\u2019s dinner includes 115g of stewed common seabream, 45g of roasted corn, and a vegetable rice dish that weighs 67 grams.\",\n    \"description4\": \"For my dinner, I'm eating 115 grams of stewed common seabream, along with 45g of roasted corn and a rice dish with 67g of vegetables.\",\n    \"description5\": \"I'm having dinner that consists of 115g of stewed common seabream, 45 grams of roasted corn on the cob, and a rice dish with 67g of vegetables.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 115g of stewed common seabream, 45g of roasted corn on the cob, and a rice-based dish with 67g of vegetables.",
-            "description2": "I\u2019ve got a dinner plate with 115 grams of stewed common seabream, 45 grams of roasted corn, and 67g of a vegetable rice dish.",
-            "description3": "Tonight\u2019s dinner includes 115g of stewed common seabream, 45g of roasted corn, and a vegetable rice dish that weighs 67 grams.",
-            "description4": "For my dinner, I'm eating 115 grams of stewed common seabream, along with 45g of roasted corn and a rice dish with 67g of vegetables.",
-            "description5": "I'm having dinner that consists of 115g of stewed common seabream, 45 grams of roasted corn on the cob, and a rice dish with 67g of vegetables."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 293603,
@@ -1398,13 +1385,7 @@
         "meal_str": "Rice based dish with vegetables||Snail (Archachatina bicarinata)",
         "country": "STP",
         "query": "{\n    \"description1\": \"For dinner, I'm having a rice-based dish with vegetables that weighs about 67g, along with 46g of snails.\",\n    \"description2\": \"I\u2019m enjoying a 67g serving of a rice dish with vegetables and 46g of snails for dinner.\",\n    \"description3\": \"For dinner, I have a rice-based vegetable dish weighing 67g and 46g of Archachatina bicarinata snails.\",\n    \"description4\": \"Dinner tonight includes a rice dish with vegetables at 67g and 46g of snails.\",\n    \"description5\": \"I'm having 67g of a vegetable rice dish and 46g of snails for dinner.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having a rice-based dish with vegetables that weighs about 67g, along with 46g of snails.",
-            "description2": "I\u2019m enjoying a 67g serving of a rice dish with vegetables and 46g of snails for dinner.",
-            "description3": "For dinner, I have a rice-based vegetable dish weighing 67g and 46g of Archachatina bicarinata snails.",
-            "description4": "Dinner tonight includes a rice dish with vegetables at 67g and 46g of snails.",
-            "description5": "I'm having 67g of a vegetable rice dish and 46g of snails for dinner."
-        }
+        "revised_description": "For dinner, I'm having a rice-based dish with vegetables that weighs about 67.1g, along with 46.0g of snails (Archachatina bicarinata)."
     },
     {
         "index": 293649,
@@ -1692,7 +1673,13 @@
         "meal_str": "Cajamanga||Cookies, sweet, plain \"Chiquilin\"||Vegetable based dish with chorizo",
         "country": "STP",
         "query": "{\n    \"description1\": \"For dinner, I'm having 55g of Cajamanga, 11g of plain Chiquilin cookies, and a vegetable-based dish with chorizo weighing about 40.5g.\",\n    \"description2\": \"I\u2019ve got a dinner plate with 55 grams of Cajamanga, 11 grams of sweet plain cookies, and 40.5 grams of a vegetable dish that has chorizo in it.\",\n    \"description3\": \"Tonight's dinner includes 55g of Cajamanga, 11g of Chiquilin cookies, and a 40.5g serving of a vegetable dish with chorizo.\",\n    \"description4\": \"I'm having dinner with 55 grams of Cajamanga, along with 11 grams of sweet cookies and a vegetable chorizo dish that weighs about 40.5 grams.\",\n    \"description5\": \"For dinner, I\u2019m enjoying 55g of Cajamanga, 11g of Chiquilin cookies, and a vegetable dish with about 40.5g of chorizo.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 55g of Cajamanga, 11g of plain Chiquilin cookies, and a vegetable-based dish with chorizo weighing about 40.5g.",
+            "description2": "I\u2019ve got a dinner plate with 55 grams of Cajamanga, 11 grams of sweet plain cookies, and 40.5 grams of a vegetable dish that has chorizo in it.",
+            "description3": "Tonight's dinner includes 55g of Cajamanga, 11g of Chiquilin cookies, and a 40.5g serving of a vegetable dish with chorizo.",
+            "description4": "I'm having dinner with 55 grams of Cajamanga, along with 11 grams of sweet cookies and a vegetable chorizo dish that weighs about 40.5 grams.",
+            "description5": "For dinner, I\u2019m enjoying 55g of Cajamanga, 11g of Chiquilin cookies, and a vegetable dish with about 40.5g of chorizo."
+        }
     },
     {
         "index": 293660,
@@ -2420,7 +2407,7 @@
         "meal_str": "Boiled rice||Common seabream, stewed||Cookies, sweet, plain \"Chiquilin\"||Lolipop - hard candy \"Chupa Chups\"||Matabala (tuber), boiled ",
         "country": "STP",
         "query": "{\"description1\": \"For dinner, I'm having 43g of boiled rice, 115g of stewed common seabream, and a 5.5g plain sweet cookie from Chiquilin.\", \"description2\": \"I\u2019ve got 115 grams of stewed common seabream, 43g of boiled rice, and a 12g Chupa Chups hard candy for dinner.\", \"description3\": \"For dinner, I'm enjoying 101g of boiled matabala, 5.5g of cookies, and 43g of boiled rice.\", \"description4\": \"I\u2019m having a dinner that includes 115g of stewed seabream, 12g of Chupa Chups lollipop, and 101g of boiled matabala.\", \"description5\": \"Dinner consists of 43g of boiled rice, 115g of common seabream, and some sweet cookies and a lollipop.\"}",
-        "revised_description": "For dinner, I'm having 43g of boiled rice, 115g of stewed common seabream, a 5.5g plain sweet cookie from Chiquilin, a 12g hard candy lollipop from Chupa Chups, and 101g of boiled matabala."
+        "revised_description": "For dinner, I'm having 43g of boiled rice, 115g of stewed common seabream, 5.5g of plain sweet cookie from Chiquilin, 12g of hard candy lollipop from Chupa Chups, and 101g of boiled matabala."
     },
     {
         "index": 293607,

@@ -68,7 +68,7 @@
             "description4": "My snack included 4.5g of cheese, 22.4g of carrots, and 3.4g of butter on the side.",
             "description5": "I snacked on 30g of infant formula, 10g of egg yolk, and 4g of wholemeal flour along with some potatoes."
         },
-        "revised_description": "For a snack, I had 3.4g of butter, 22.4g of carrots, 4.5g of briny cow cheese, 10.0g of egg yolk, 4.0g of wholemeal flour, 30.0g of Nestle NAN 1 infant formula (ready for drinking), 103.0g of 2% fat milk, 25.2g of autumn potatoes, and 5.7g of sugar."
+        "revised_description": "For a snack, I had 3.4g of butter, 22.4g of carrots, and 4.5g of briny cow cheese, along with 10.0g of egg yolk, 4.0g of wholemeal flour, 30.0g of formula milk for infant (Nestle - NAN 1, ready for drinking), 103.0g of 2% fat milk, 25.2g of autumn potatoes, and 5.7g of sugar."
     },
     {
         "index": 24650,
@@ -265,10 +265,7 @@
         },
         "filtered_queries": {
             "description1": "For dinner, I\u2019m having 33g of canned peeled tomatoes, 0.6g of flour, 175.5g of marrows, and 72g of summer melons. I also have 180g of Belovo mineral water, 5g of sunflower seed oil, and spices like 0.7g of fennel and 0.7g of parsley. I added a pinch of 0.2g of table salt and 30.4g of fresh tomatoes, along with 50g of yogurt with 3.6% fat.",
-            "description2": "I\u2019m enjoying a dinner that includes 33g of canned tomatoes, 0.6g of flour, and 175.5g of marrows. There\u2019s also 72g of summer melons, 180g of mineral water, and 5g of sunflower oil. I used 0.7g of fennel and 0.7g of parsley for seasoning, along with 0.2g of salt, 30.4g of fresh tomatoes, and 50g of yogurt.",
-            "description3": "For dinner, I have 33g of canned peeled tomatoes, a bit of flour at 0.6g, and 175.5g of marrows. I also included 72g of summer melons and 180g of mineral water. I added 5g of sunflower oil and used 0.7g each of fennel and parsley. There's a touch of 0.2g of salt, 30.4g of fresh tomatoes, and 50g of yogurt.",
-            "description4": "Tonight\u2019s dinner features 33g of canned tomatoes and 0.6g of flour, along with 175.5g of marrows and 72g of summer melons. I\u2019m drinking 180g of mineral water and used 5g of sunflower oil. For flavor, I added 0.7g of fennel and parsley, a pinch of 0.2g of salt, 30.4g of tomatoes, and 50g of yogurt.",
-            "description5": "I\u2019m having a simple dinner with 33g of canned peeled tomatoes, 0.6g of flour, and 175.5g of marrows. There\u2019s 72g of summer melons and 180g of mineral water on the side. I also used 5g of sunflower oil and seasoned with 0.7g of fennel and parsley, plus a little salt at 0.2g, 30.4g of fresh tomatoes, and 50g of yogurt."
+            "description2": "I\u2019m enjoying a dinner that includes 33g of canned tomatoes, 0.6g of flour, and 175.5g of marrows. There\u2019s also 72g of summer melons, 180g of mineral water, and 5g of sunflower oil. I used 0.7g of fennel and 0.7g of parsley for seasoning, along with 0.2g of salt, 30.4g of fresh tomatoes, and 50g of yogurt."
         }
     },
     {
@@ -578,7 +575,7 @@
             "description4": "I'm enjoying 0.7g of flour type 500 along with 1.2g of parsley spice in my lunch.",
             "description5": "For lunch today, I've got 10g of Stara Zagora white wheat bread to go with my meal."
         },
-        "revised_description": "For lunch, I'm having 60g of apple juice, 70g of autumn potatoes, 10g of wheat bread, 0.3g of dry red peppers, 0.7g of wheat flour, 6.7g of sunflower oil, 8.4g of spring onions, 5.0g of green peppers, 1.2g of parsley, 0.5g of table salt, and 9.4g of tomatoes."
+        "revised_description": "For lunch, I'm having 60g of apple juice, 70g of autumn potatoes, 10g of wheat bread, a sprinkle of 0.3g of dry red peppers, a touch of 0.7g of flour, some 6.7g of sunflower oil, 8.4g of diced spring onions, 5.0g of chopped green peppers, a pinch of 1.2g of parsley, a dash of 0.5g of table salt, and 9.4g of fresh tomatoes."
     },
     {
         "index": 29413,
@@ -820,7 +817,7 @@
             "description4": "Along with my snack, I had 30g of white wheat bread and a sprinkle of table salt to enhance the taste.",
             "description5": "For my snack, I combined 0.3g of dry red peppers with my other items for an extra kick."
         },
-        "revised_description": "For a snack, I had 60g of sour bonbons, along with 2.5g of butter and 30g of skinless chicken. I also added a little bit of canned tomato puree (1.0g) and threw in some whole canned tomatoes (14.0g) for extra flavor. To spice things up, I tossed in a pinch of dry red peppers (0.3g) and some black pepper (0.1g). I mixed in a small amount of wheat flour (1.0g) and a splash of sunflower seed oil (7.5g) for cooking. I added some spring onions (12.6g) and paired it all with some autumn potatoes (90.0g). For seasoning, I included a bit of parsley (1.8g) and table salt (0.8g). Finally, I enjoyed it with some white wheat bread from Stara Zagora (30.0g)."
+        "revised_description": "For a snack, I had 60g of sour bonbons, along with 2.5g of butter, 1.0g of canned tomato puree, 14.0g of whole canned tomatoes, 30g of skinless chicken, 0.3g of dry red peppers, 1.0g of flour, 7.5g of sunflower oil, 12.6g of spring onions, 90g of autumn potatoes, 0.1g of black peppercorns, 1.8g of parsley, 0.8g of table salt, and 30g of white wheat bread from Stara Zagora."
     },
     {
         "index": 27177,
@@ -1195,7 +1192,6 @@
         },
         "filtered_queries": {
             "description1": "For dinner, I'm having 2 grams of butter, 14 grams of carrots, and 2.5 grams of cow briny cheese. I also have 2.5 grams of wholemeal flour, 61.2 grams of 2% milk, and 200 grams of Gorna Bania mineral water. Plus, I included 14 grams of autumn potatoes, 13.3 grams of sugar, and 140 grams of 2% yogurt.",
-            "description2": "Tonight's dinner includes 2 grams of butter and 14 grams of carrots, along with 2.5 grams of cheese. I also have some wholemeal flour, 61.2 grams of 2% milk, and 200 grams of mineral water. Additionally, there's 14 grams of potatoes, 13.3 grams of sugar, and 140 grams of yogurt.",
             "description3": "For dinner, I'm eating 2 grams of butter and 14 grams of carrots, with 2.5 grams of cow cheese on the side. I'm also including 2.5 grams of wholemeal flour and 61.2 grams of 2% milk, plus 200 grams of Gorna Bania mineral water. I have 14 grams of autumn potatoes, 13.3 grams of sugar, and 140 grams of yogurt.",
             "description4": "I'm having dinner that consists of 2 grams of butter, 14 grams of carrots, and 2.5 grams of cheese. Along with that, I have 2.5 grams of wholemeal flour, 61.2 grams of 2% milk, and a refreshing 200 grams of mineral water. I also included 14 grams of potatoes, 13.3 grams of sugar, and 140 grams of yogurt.",
             "description5": "For dinner, I've got 2 grams of butter, 14 grams of carrots, and 2.5 grams of cow briny cheese. There's also 2.5 grams of wholemeal flour, 61.2 grams of 2% milk, and 200 grams of Gorna Bania mineral water to drink. Plus, I've got 14 grams of potatoes, 13.3 grams of sugar, and 140 grams of yogurt."
@@ -1558,7 +1554,7 @@
             "description4": "I added a pinch of sodium bicarbonate, 0.3g of black pepper, and a bit of cinnamon, fennel, and parsley to my snack.",
             "description5": "To finish, I have 1.8g of sugar, 1.3g of table salt, some fresh tomatoes, 40g of veal round, 49.4g of walnuts, and a bit of yellow cheese and 2% fat yogurt."
         },
-        "revised_description": "For a snack, I'm having 1.5g of butter, 1.5g of canned tomato puree, 30g of corn chips, 46.7g of cucumbers, 0.5g of dry red peppers, 4.0g of whole egg, 25.0g of flour, 19.4g of 2% fat milk, 9.5g of sunflower seed oil, 12.6g of spring onions, 56.2g of autumn potatoes, 0.3g of sodium bicarbonate, 0.1g of black pepper corns, 0.2g of cinnamon, 1.9g of fennel, 1.8g of parsley, 15.0g of sugar, 1.3g of table salt, 40.0g of tomatoes, 49.4g of veal round, 4.0g of walnuts, 2.3g of yellow cheese, and 124.6g of 2% fat yogurt."
+        "revised_description": "For a snack, I'm having 1.5g of butter and 1.5g of canned tomato puree, along with 30g of corn chips, 46.7g of cucumbers, 0.5g of dry red peppers, 4.0g of whole egg, 25.0g of wheat flour, 19.4g of 2% fat milk, 9.5g of sunflower seed oil, 12.6g of spring onions, 56.2g of autumn potatoes, 0.3g of sodium bicarbonate, 0.1g of black pepper corns, 0.2g of cinnamon, 1.9g of fennel, 1.8g of parsley, 15.0g of sugar, 1.3g of table salt, 40.0g of tomatoes, 49.4g of veal round, 4.0g of walnuts, 2.3g of yellow cheese, and 124.6g of 2% fat yogurt."
     },
     {
         "index": 27343,
@@ -1763,7 +1759,7 @@
             "description4": "I'm including 100g of boiled-smoked pork fillet and 1.7g of sunflower oil for cooking.",
             "description5": "To complete the meal, I've got 66.7g of autumn potatoes, 200g of Rakiavodka, and 5.8g of black pepper for seasoning."
         },
-        "revised_description": "For dinner, I'm having 200g of Original Licensed Beer, alongside 150g of Dobrudja wheat bread with bran. I've also got 3.3g of canned tomato puree, 34g of whole canned tomatoes, 116g of cucumbers, 0.3g of dry red peppers, 100g of boiled-smoked pork fillet, 1.7g of wheat flour, 23.3g of sunflower oil, 11.2g of spring onions, 66.7g of pork shoulder, 110g of autumn potatoes, 200g of Rakiavodka rum whisky gin brandy, 100g of salami Lukanka from Smiadovo, 5.8g of parsley, 1.8g of table salt, 117.5g of tomatoes, and 8.3g of vinegar."
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 27325,
@@ -1926,9 +1922,7 @@
             "description4": "I\u2019m having a dinner that includes 13.3 grams of whole egg, 6 grams of ham, and 2.2 grams of 2% milk. I also added 7 grams of 3% milk, 1.9 grams of sunflower oil, and 15.6 grams of black olives. Plus, there\u2019s 6 grams of veal sausage, a pinch of parsley, and a little salt. I\u2019ll drink 340 grams of tap water and enjoy 4.2 grams of yellow cheese.",
             "description5": "For dinner, I have 13.3g of whole egg, 6g of ham, and 2.2g of 2% fat milk. I\u2019m also including 7g of 3% fat milk, 1.9g of sunflower oil, and 15.6g of black olives. There\u2019s 6g of veal sausage, a bit of parsley, and some table salt. I\u2019ll have 340g of tap water and 4.2g of yellow cheese on the side."
         },
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 13.3g of whole egg, 6g of ham, and 2.2g of 2% fat milk. I'm also adding 7g of 3% fat milk, 1.9g of sunflower oil, and 15.6g of unsalted black olives. There\u2019s 6g of veal sausage, a sprinkle of 0.1g of parsley, and a bit of table salt. I\u2019ll wash it down with 340g of tap water and have 4.2g of yellow cheese."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 23922,
@@ -2056,7 +2050,7 @@
             "description4": "I'm having a lunch that includes 3.5 grams of butter, 17.5 grams of canned peeled tomatoes, and 10 grams of carrots. I also added 25 grams of onions, 200 grams of orange juice, and 35 grams of rabbit. Just a pinch of salt on top, and I'm enjoying it with 40 grams of wheat bread from Bulgaria.",
             "description5": "For lunch today, I've got 3.5g of butter, 17.5g of peeled canned tomatoes, and 10g of carrots, along with 25g of onions. I\u2019m drinking 200g of 100% orange juice and having 35g of rabbit, seasoned lightly with table salt, plus 40g of Bulgarian wheat bread."
         },
-        "revised_description": "For lunch, I'm having 3.5g of butter, 17.5g of peeled canned tomatoes, 10g of carrots, 3g of flour wheat type 500, and 25g of onions. I've also got 200g of 100% orange juice and 35g of rabbit meat. I sprinkled on a bit of table salt (0.2g), and I'm eating this with 40g of Bulgarian wheat bread."
+        "revised_description": "For lunch, I'm having 3.5g of butter, 17.5g of peeled canned tomatoes, 10g of carrots, and 25g of onions. I've also got 200g of 100% orange juice and 35g of rabbit meat. I sprinkled on a bit of table salt (0.2g), and I'm eating this with 40g of Bulgarian wheat bread. Additionally, I've added a sprinkle of flour (3.0g) to my meal."
     },
     {
         "index": 25835,
@@ -2137,7 +2131,7 @@
             "description4": "I\u2019m having a dinner that consists of 2.3g of butter and 10g of chocolate from Nestle Milky. I also have a 100g drink, 26.4g of chicken liver cooked in 2.5g of sunflower oil, and 60.4g of spring potatoes with a sprinkle of black pepper, fennel, and parsley, along with a bit of salt and 50g of tap water.",
             "description5": "For dinner, I mixed 2.3g of butter with 10g of Nestle Milky chocolate in a 100g drink, and cooked 26.4g of chicken liver in 2.5g of sunflower seed oil. I added 60.4g of spring potatoes, seasoned with black pepper, fennel, parsley, and a little salt, finishing it off with 50g of tap water."
         },
-        "revised_description": "For dinner, I'm having 2.3g of butter, 10g of chocolate from Nestle Milky, and a 100g drink. I also cooked 26.4g of chicken liver with 2.5g of sunflower seed oil, and added 60.4g of spring potatoes. I seasoned it with some black pepper, 0.3g of fennel, 0.3g of parsley, a pinch of salt (0.3g), and drank 50g of tap water."
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 29499,
@@ -2193,7 +2187,7 @@
             "description4": "This morning, I ate 7g of butter and 32g of cheese along with 10g of infant formula milk. I also had a cup of herbal tea with 7g of sugar and 117g of white bread from Bulgaria.",
             "description5": "At breakfast, I consumed 7 grams of butter, 32 grams of cow cheese, and 10 grams of dry Milupa formula. I used 7 grams of sugar in my herbal tea and had 62 grams of white bread from Bulgaria."
         },
-        "revised_description": "For breakfast, I'm having 7.0 grams of butter, 32.0 grams of briny cow cheese, and 10.0 grams of Milupa infant formula milk. I also have 7.0 grams of sugar in my tea made from herbs or fruits, along with 62.0 grams of white bread from Bulgaria. Additionally, I'm enjoying 117.0 grams of tea from herbs or fruits to drink, which perfectly complements my meal."
+        "revised_description": "For breakfast, I'm having 7 grams of butter, 32 grams of briny cow cheese, and 10 grams of Milupa infant formula milk. I also have 7 grams of sugar in my tea made from herbs or fruits, along with 117 grams of white bread from Bulgaria. Oh, and I forgot to mention, I've got 62 grams of the traditional Bulgarian white bread to go with it all."
     },
     {
         "index": 25723,
@@ -2269,7 +2263,7 @@
             "description4": "I have a dinner consisting of 46g of wheat bread with bran, 106.3g of veal shawl, and 83.3g of tomatoes. I included onions, spring onions, and a bit of sunflower seed oil for flavor.",
             "description5": "At dinner, I\u2019m having 46g of bran wheat bread with 106.3g of veal shawl. I\u2019ve topped it with 10.2g of onions, 10.3g of spring onions, and seasoned it with salt and some spices."
         },
-        "revised_description": "For dinner, I'm having 46.0g of wheat bread Dobrudja with some bran, topped with 106.3g of veal shawl. I added 10.2g of onions and 10.3g of spring onions, along with 5.3g of sunflower seed oil, 0.2g of black pepper, 0.2g of cumin, 1.4g of parsley, 2.4g of table salt, and 83.3g of tomatoes, along with some spices."
+        "revised_description": "For dinner, I'm having 46.0g of wheat bread with some bran, topped with 106.3g of veal shawl. I added 10.2g of onions and 10.3g of spring onions, along with 5.3g of sunflower seed oil, 0.2g of black pepper, 0.2g of cumin, 1.4g of parsley, 2.4g of table salt, and 83.3g of tomatoes, plus some spices."
     },
     {
         "index": 22713,
@@ -2509,7 +2503,7 @@
             "description4": "I\u2019m including 1.9g of savory spice, 0.2g of starch, and some sugar and table salt. I've also got 100g of tap water to go with it.",
             "description5": "To finish, I have 17.6g of veal shawl, 24g of white wheat bread from Stara Zagora, and 25g of 2% fat yogurt for lunch."
         },
-        "revised_description": "For lunch, I'm having 20.4g of canned peeled tomatoes, 7.4g of carrots, and 4.8g of whole egg. I'm also including 2.1g of wheat flour, 1g of old garlic, and 5g of leek. Additionally, I'm adding 32.0g of lentils, 38.8g of 3% fat milk, and 24.0g of minced meat (veal/pork). I've got 7.4g of sunflower seed oil, 3.4g of onions, and 5.2g of green peppers in there too. To round it off, I've tossed in 3.2g of rice, a sprinkle of 1.5g celery leaves, a touch of 0.2g ground dry red pepper, and 1.9g of parsley. There's also a hint of 0.2g savory, 3.0g of wheat starch, and a dash of 4.0g sugar. Don't forget about the 0.5g of table salt and 100.0g of tap water to keep things hydrated. For a little crunch, I\u2019m adding 24.0g of veal shawl, 25.0g of white wheat bread from Stara Zagora, and a dollop of 14.5g of 2% fat yogurt. Plus, I've got an extra 17.6g of canned tomatoes in there too, just to boost that flavor!"
+        "revised_description": "For lunch, I'm having 20.4g of canned peeled tomatoes, 7.4g of carrots, and 4.8g of whole egg. I'm also including 2.1g of wheat flour, 1g of old garlic, and 5g of leek. I've added 32.0g of lentils for some heartiness, along with 38.8g of 3% fat milk to make things creamy. There's also 24.0g of minced meat, a mix of veal and pork, and a splash of 7.4g of sunflower oil for flavor. I've tossed in 3.4g of onions, some 5.2g of green peppers, and 3.2g of rice for extra texture. A sprinkle of celery leaves (1.5g) and a bit of ground dry red pepper (0.2g) give it a nice kick, while 1.9g of parsley adds freshness. I also included a hint of savory (0.2g) and a touch of wheat starch (3.0g) for thickening. To sweeten it up, I added 4.0g of sugar, along with some table salt (0.5g) for balance. And of course, I can't forget the 100.0g of tap water to keep it all cooking smoothly. Lastly, a bit of 17.6g of fresh tomatoes goes in for added flavor. Oh, and I\u2019m enjoying it with a slice of 25.0g of white wheat bread from Stara Zagora and a little side of 14.5g of 2% fat yogurt. I've also sprinkled in 24.0g of veal shawl to add depth to the dish."
     },
     {
         "index": 27952,
@@ -2622,7 +2616,7 @@
             "description4": "I have a bit of vanilla too, though it\u2019s just 0g since I\u2019m not adding any to my snack.",
             "description5": "So, my snack includes biscuits, crackers, juice, milk, starch, sugar, water, and some vanilla."
         },
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For a snack, I'm having 7.9g of biscuit breakfast, 6g of salty crackers, and 100g of multivitamin juice. I'm also enjoying 42g of 2% fat milk, a sprinkle of 3.5g of wheat starch, a dash of 3.5g of sugar, and staying hydrated with 100g of tap water. Oh, and there's no vanilla (0.0g) in this snack!"
     },
     {
         "index": 22544,
@@ -2693,7 +2687,7 @@
             "description4": "Today for lunch, I have 100 grams of cherries and 100 grams of roasted chicken, alongside 67.2 grams of cucumbers. I\u2019m also having 250 grams of mineral water and 200 grams of peach nectar, with a drizzle of sunflower seed oil and some seasoning.",
             "description5": "For lunch, I'm eating 100g of cherries, 100g of chicken roast, and 67.2g of cucumbers. I have a 250g bottle of mineral water and 200g of peach nectar to drink, along with a bit of sunflower oil and spices to add some flavor."
         },
-        "revised_description": "For lunch, I'm having 100g of cherries, 100g of roasted chicken, and 67.2g of cucumbers. I also have 250g of mineral water, 200g of peach nectar, 4g of sunflower seed oil, 1g of fennel spice, 0.2g of table salt, and 3g of vinegar, plus a small amount of seasoning."
+        "revised_description": "For lunch, I'm having 100g of cherries, 100g of roasted chicken, and 67.2g of cucumbers. I also have 250g of mineral water, 200g of peach nectar, 4g of sunflower seed oil, 1g of fennel spice, 0.2g of table salt, 3g of vinegar, and a small amount of seasoning."
     },
     {
         "index": 23355,
@@ -2764,7 +2758,7 @@
             "description4": "I had a lunch that included 2.4 grams of whole egg, 3 grams of wheat flour, and 7.2 grams of sunflower oil. I also added 8 grams of spring onions, a little black pepper, and 1.3 grams of parsley, plus 0.6 grams of salt. I enjoyed 48 grams of veal round and a slice of 30.8 grams of white bread.",
             "description5": "For lunch, I mixed 2.4g of whole egg and 3g of flour with 7.2g of sunflower oil. I included 8g of spring onions, a pinch of black pepper, and 1.3g of parsley, along with 0.6g of table salt. I also had 48g of veal round and a slice of white Stara Zagora bread that weighs 30.8g."
         },
-        "revised_description": "For lunch, I'm having 2.4g of whole egg, 3g of wheat flour, and 7.2g of sunflower seed oil. I added 8g of spring onions, a pinch (0.1g) of black pepper, 1.3g of parsley, and 0.6g of table salt. I'm also having 48g of veal round and a slice of 30.8g white Stara Zagora bread."
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 22027,
@@ -2870,7 +2864,7 @@
             "description4": "I'm eating 5.4g of canned peeled tomatoes with 1.6g of carrots and 13.9g of cucumbers for lunch. I mixed in 12.3g of dried beans and some sunflower oil.",
             "description5": "For lunch, I have a mix of 2.8g of onions, 2.0g of green peppers, and spices like 0.3g of celery leaves and 0.1g of dry red pepper. I also have 18.8g of tomatoes and a slice of 12.0g white bread."
         },
-        "revised_description": "For lunch, I'm having 5.4g of peeled canned tomatoes, 1.6g of carrots, and 13.9g of cucumbers. I also included 12.3g of dried beans, 0.3g of flour, and 3.5g of sunflower oil. I added 2.8g of onions and 2.0g of green peppers for some extra flavor. To spice things up, there's 0.3g of celery leaves, a pinch of 0.1g of grinded dry red pepper, a sprinkle of 0.1g of mint leaves, and 0.7g of parsley. I've also got a little bit of table salt at 0.2g, some extra tomatoes for taste at 18.8g, and a splash of 1.0g of vinegar. Finally, I\u2019m enjoying 12.0g of white wheat bread from Stara Zagora on the side."
+        "revised_description": "For lunch, I'm having 5.4g of peeled canned tomatoes, 1.6g of carrots, and 13.9g of cucumbers. I also included 12.3g of dried beans, 0.3g of flour, and 3.5g of sunflower oil. I added 2.8g of onions, 2.0g of green peppers, a sprinkle of 0.3g of celery leaves, a pinch of 0.1g of grinded dry red pepper, a touch of 0.1g of mint leaves, and 0.7g of parsley. I seasoned it with 0.2g of table salt, mixed in 18.8g of fresh tomatoes, splashed a bit of 1.0g of vinegar, and finished it off with a slice of 12.0g of white wheat bread from Stara Zagora."
     },
     {
         "index": 28504,
@@ -2931,7 +2925,7 @@
             "description4": "I have 4.5g of flour, 52.5g of potatoes, and 10g of dry infant formula milk for my lunch.",
             "description5": "For lunch, I'm having 97.5g of 2% milk, 1.4g of sugar, and 15.8g of canned green beans."
         },
-        "revised_description": "For lunch, I have 3.9g of butter, 15.8g of canned green beans, 4.5g of flour type 500, 10.0g of Nestle formula milk for infants (dry content), 97.5g of 2% fat milk, 52.5g of autumn potatoes, and 1.4g of sugar."
+        "revised_description": "For lunch, I have 3.9g of butter, 15.8g of canned green beans, and 4.5g of flour type 500. I\u2019m also including 10.0g of formula milk for infant Nestle AL 110, 97.5g of 2% fat milk, 52.5g of autumn potatoes, and just a sprinkle of 1.4g of sugar."
     },
     {
         "index": 25098,
@@ -3074,7 +3068,7 @@
             "description4": "I'm having a light lunch with 36 grams of chicken, 6.7 grams of rice, and some fresh veggies: 4.3 grams of carrots and 4.8 grams of celery. I also have 2 grams of butter and 15.7 grams of tomatoes.",
             "description5": "For lunch today, it's 36 grams of skinless chicken with 4.3 grams of carrots and 4.8 grams of celery, drizzled with 4.7 grams of sunflower oil. I'm also drinking 20 grams of mineral water."
         },
-        "revised_description": "For lunch, I'm having 36 grams of skinless chicken, 4.3 grams of carrots, and 4.8 grams of celery. I also have 6.7 grams of rice, 2 grams of butter, and some seasoning with 1 gram of table salt, 4.3 grams of parsley, 4.3 grams of horseradish spice, 15.7 grams of tomatoes, and a bit of onion (5.6 grams). I also added 2.7 grams of lemon juice and a splash of sunflower oil (4.7 grams). To wash it down, I've got 20 grams of mineral water."
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 26131,
@@ -3175,7 +3169,7 @@
             "description4": "Tonight's dinner includes 5g of canned peas, 12.5g of whole canned tomatoes, and 2.5g of butter. I also have 2.7g of celery and 4g of potatoes.",
             "description5": "For dinner, I'm enjoying 4.2g of green peppers, 5.2g of canned green beans, and 4g of carrots. I topped it with 1.5g of flour and some 4g of onions."
         },
-        "revised_description": "For dinner, I'm having 2.5g of butter, 5.2g of canned green beans, and 5g of canned peas. I also added 12.5g of canned whole tomatoes, 4g of carrots, and 2.7g of celery. Plus, I tossed in 4g of whole egg, 1.5g of flour, a drizzle of 2.5g sunflower oil, 4.2g of chopped onions, 5.7g of green peppers, and 15g of autumn potatoes. To season it all, I sprinkled in 1.4g of parsley, a pinch of 0.4g of table salt, and finished it off with 19.4g of 2% fat yogurt."
+        "revised_description": "For dinner, I'm having 2.5g of butter, 5.2g of canned green beans, and 5g of canned peas. I also added 12.5g of canned whole tomatoes, 4g of carrots, and 2.7g of celery. Along with that, I've got 4g of whole egg, a sprinkle of 1.5g of flour, a drizzle of 2.5g of sunflower oil, some diced 4.2g of onions, and a bit of 5.7g of green peppers. I included 15g of autumn potatoes, seasoned with 1.4g of parsley and a pinch of 0.4g of table salt. To top it off, I've got a creamy dollop of 19.4g of yogurt with 2% fat."
     },
     {
         "index": 29377,
@@ -3325,9 +3319,7 @@
             "description4": "I\u2019m having breakfast that includes 50g of white wheat bread with 15g of margarine, 240g of whole milk, and a little sugar and savory spice on the side.",
             "description5": "For breakfast, I have 50g of white wheat bread with 15g of low-calorie margarine, 240g of milk, a 15g sprinkle of sugar, and a bit of savory spice to add flavor."
         },
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 15g of low-calorie margarine, 240g of 4.5% fat milk, and a sprinkle of 3g of savory spice on 50g of white wheat bread."
-        }
+        "revised_description": "For breakfast, I'm having 15g of low-calorie margarine, 240g of 4.5% fat milk, and a sprinkle of 3g of savory spice on 50g of white wheat bread. I also added 15g of sugar to sweeten things up a bit and a glass of 50g of tap water to wash it down."
     },
     {
         "index": 29091,
@@ -3589,7 +3581,7 @@
             "description4": "I added 1g of fennel, 1.2g of parsley, and 0.5g of table salt to the mix.",
             "description5": "Finally, I had 15.7g of tomatoes, 33.3g of veal round, and 3g of walnuts, with a side of 20g of white bread and 58.2g of 2% fat yogurt."
         },
-        "revised_description": "For a snack, I had 1.7g of canned tomato puree, 39g of cucumbers, 0.2g of dry red peppers, 0.8g of flour, 1.0g of garlic, 8.0g of sunflower oil, 5.6g of spring onions, 55.0g of autumn potatoes, 0.0g of black pepper, 1.0g of fennel, 1.2g of parsley, 0.5g of table salt, 15.7g of tomatoes, 33.3g of veal round, 3.0g of walnuts, 20.0g of white bread, and 58.2g of yogurt with 2% fat."
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 29456,
@@ -3704,8 +3696,6 @@
         },
         "filtered_queries": {
             "description1": "For breakfast, I'm having 156g of wheat bread with some bran, spread with 20g of KaliaKra margarine and topped with 10g of polyflora honey. I also have 5g of sugar and a side of 5g of lemons, along with 200g of herbal or fruit tea.",
-            "description2": "I\u2019m enjoying a breakfast of 156 grams of bran wheat bread with 10 grams of honey and 20 grams of margarine. I added some lemon slices and 5 grams of sugar, plus a 200g cup of herbal tea.",
-            "description3": "For my breakfast, I have 156g of wheat bread with bran, 10g of honey, and 20g of margarine. I also squeezed in some lemon, added 5g of sugar, and brewed 200g of herbal tea.",
             "description4": "I'm starting my day with 156 grams of bran wheat bread, 10 grams of honey, and 20 grams of margarine. I included 5 grams of lemon and 5 grams of sugar, along with a drink of 200 grams of herbal tea.",
             "description5": "This morning, I\u2019m having 156g of wheat bran bread with 20g of margarine and 10g of honey. I also added 5g of lemon and 5g of sugar, and I\u2019m drinking 200g of herbal or fruit tea."
         }
@@ -3856,7 +3846,7 @@
             "description4": "I'm adding 4.3g of sugar and a bit of table salt to balance the flavors.",
             "description5": "To drink, I'm having some herbal tea, and I'm finishing off with 69.3g of tomatoes and 71.4g of white wheat bread."
         },
-        "revised_description": "For a snack, I'm having 4.3g of butter, 19.1g of briny cow cheese, and 10g of egg yolk. I've also got 80.0g of apricot nectar, a splash of 8.0g of sunflower oil, some chopped 6.7g onions, and 20.0g of rice. To season it all, I'm adding a pinch of black pepper (0.1g) and a sprinkle of parsley (1.4g). A touch of sugar (4.3g) and a bit of table salt (0.8g) round it out. I'll enjoy this with 69.3g of herbal tea, some fresh tomatoes (71.4g), and a slice of 30.0g of white wheat bread from Stara Zagora, along with 36.4g of white bread from Bulgaria."
+        "revised_description": "For a snack, I'm having 4.3g of butter, 19.1g of briny cow cheese, and 10g of egg yolk. Also, I'm enjoying 80.0g of apricot nectar, a drizzle of 8.0g of sunflower oil, and a sprinkle of 6.7g of onions. I added 20.0g of rice on the side, with a dash of 0.1g black pepper and a hint of 1.4g parsley for flavor. To sweeten the deal, there's 4.3g of sugar and a pinch of 0.8g table salt. I'm sipping on 69.3g of herbal tea, and on the plate, I've got 71.4g of tomatoes alongside 30.0g of white wheat bread from Stara Zagora and 36.4g of white wheat bread from Bulgaria."
     },
     {
         "index": 27260,
@@ -4009,7 +3999,7 @@
             "description4": "I'm having a dinner that includes 46.2 grams of cow briny cheese, 144 grams of cherries, and 70 grams of cucumbers. I added 26.9 grams of sunflower oil and 265.4 grams of autumn potatoes, seasoned with some black pepper and fennel, plus 165 grams of 2% yogurt.",
             "description5": "For dinner, I've put together 46.2g of briny cheese, 144g of cherries, and 70g of cucumbers. There's also 26.9g of sunflower oil and 265.4g of autumn potatoes, lightly seasoned with black pepper and fennel, and I have 165g of 2% fat yogurt to go with it."
         },
-        "revised_description": "For dinner, I'm having 46.2g of briny cow cheese, 144g of cherries, and 70g of cucumbers. I also added 26.9g of sunflower seed oil, 265.4g of autumn potatoes, a sprinkle of 0.2g of black pepper and 2.8g of fennel spice. I seasoned it with a little 1.6g of table salt and finished with 165g of 2% fat yogurt."
+        "revised_description": "For dinner, I'm having 46.2g of briny cow cheese, 144g of cherries, and 70g of cucumbers. I also added 26.9g of sunflower seed oil, 265.4g of autumn potatoes, a sprinkle of 0.2g black pepper and 2.8g of fennel spice. I seasoned it with a little 1.6g table salt and finished with 165g of 2% fat yogurt."
     },
     {
         "index": 27868,
@@ -4215,11 +4205,7 @@
             "description4": "For dinner, I'm enjoying 30 grams of briny sheep cheese, 40 grams of fresh cucumbers, and 172.5 grams of potatoes, all topped with 17.5 grams of sunflower oil, a touch of black pepper, and a half gram of salt. I have 600 grams of tap water, 100 grams of tomatoes, and 46 grams of white bread to go with it.",
             "description5": "My dinner consists of 30g of sheep cheese, 40g of cucumbers, and 172.5g of potatoes. I added 17.5g of sunflower oil, a sprinkle of black pepper, and half a gram of salt, plus 600g of tap water, 100g of tomatoes, and 46g of white wheat bread."
         },
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 30g of briny sheep cheese, 40g of cucumbers, 17.5g of sunflower seed oil, and 172.5g of autumn potatoes. I also added a pinch of black pepper and half a gram of table salt, along with 600g of tap water, 100g of tomatoes, and 46g of white wheat bread.",
-            "description4": "For dinner, I'm enjoying 30 grams of briny sheep cheese, 40 grams of fresh cucumbers, and 172.5 grams of potatoes, all topped with 17.5 grams of sunflower oil, a touch of black pepper, and a half gram of salt. I have 600 grams of tap water, 100 grams of tomatoes, and 46 grams of white bread to go with it.",
-            "description5": "My dinner consists of 30g of sheep cheese, 40g of cucumbers, and 172.5g of potatoes. I added 17.5g of sunflower oil, a sprinkle of black pepper, and half a gram of salt, plus 600g of tap water, 100g of tomatoes, and 46g of white wheat bread."
-        }
+        "revised_description": "For dinner, I'm having 30.0g of briny sheep cheese, 40.0g of cucumbers, 17.5g of sunflower seed oil, and 172.5g of autumn potatoes. I also added a pinch of black pepper (0.1g) and half a gram of table salt (0.5g), along with 600.0g of tap water, 100.0g of tomatoes, and 46.0g of white wheat bread from Stara Zagora."
     },
     {
         "index": 23712,
@@ -4305,7 +4291,7 @@
             "description4": "I\u2019m having 0.8g of wheat flour and 8g of sunflower seed oil along with 55g of tomatoes and 11.3g of salt for lunch today. I also mixed in some yogurt.",
             "description5": "For lunch, my plate has 84g of autumn potatoes, 0.9g of fennel spice, and 0.4g of dry red peppers. I\u2019m also enjoying 23.3g of cucumbers and a dollop of 2% fat yogurt."
         },
-        "revised_description": "For lunch, I'm having 23.3g of cucumbers, 0.4g of dry red peppers, and 0.8g of type 500 wheat flour. I also added 8g of sunflower seed oil, 10.1g of spring onions, and 6g of green peppers. Plus, I'm enjoying 84g of autumn potatoes, a sprinkle of 0.9g of fennel spice, a dash of 1.4g of parsley spice, some seasoning with 0.9g of table salt, 11.3g of tomatoes, and a side of 55g of 2% fat yogurt."
+        "revised_description": "For lunch, I'm having 23.3g of cucumbers, 0.4g of dry red peppers, and 0.8g of type 500 wheat flour. I also added 8g of sunflower seed oil, 10.1g of spring onions, and 6g of green peppers. I've included 84g of autumn potatoes, a pinch of fennel spice (0.9g), some parsley spice (1.4g), a touch of table salt (0.9g), 11.3g of tomatoes, and a dollop of 2% fat yogurt (55g)."
     },
     {
         "index": 24057,
@@ -4421,7 +4407,7 @@
             "description4": "During lunch, I enjoyed a mix of ingredients like 1.4g of sunflower oil, 1.6g of carrots, and 1.2g of egg, along with 2.8g of tomatoes and 1.5g of salt.",
             "description5": "I had a variety of flavors for lunch with 0.6g of butter, 1.6g of carrots, 7.4g of onions, and 1.6g of rice, plus 100g of watermelon and 59g of yogurt."
         },
-        "revised_description": "For lunch, I'm having 0.6g of butter, 1.6g of carrots, and 1.2g of whole egg along with 0.8g of flour. I also added 1.4g of sunflower oil, 7.4g of onions, and 1.6g of rice. I sprinkled in a bit of black pepper (0.1g) and some cumin (0.1g) for flavor. I also tossed in a touch of parsley (0.7g) to freshen things up. To balance it all out, I added 1.5g of table salt and some diced tomatoes (2.8g) for a nice juicy touch. Oh, and I've got some tender veal round (8.0g) and a bit of veal shawl (59.0g) to make it heartier. A splash of vinegar (0.6g) gives it a nice zing, and I'm enjoying some refreshing watermelon (100.0g) on the side, along with a dollop of yogurt (5.8g, 2% fat)."
+        "revised_description": "For lunch, I'm having 0.6g of butter, 1.6g of carrots, and 1.2g of whole egg along with 0.8g of flour. I also added 1.4g of sunflower oil, 7.4g of onions, and 1.6g of rice. Plus, I sprinkled in a dash of black pepper (0.1g), a little cumin (0.1g), and some parsley (0.7g) for flavor. I tossed in some salt (1.5g) and a couple of tomatoes (2.8g) for freshness. And how could I forget the veal? I've got 8.0g of veal round and 59.0g of veal shawl in there. I added a splash of vinegar (0.6g) and a good serving of watermelon (100.0g) for some sweetness. To round it off, I\u2019m enjoying a bit of yogurt with 2% fat (5.8g) on the side. Just to mention, I didn\u2019t include any dry red peppers (0.0g) in my dish this time around."
     },
     {
         "index": 27335,
@@ -4703,7 +4689,7 @@
             "description4": "For lunch, I seasoned my meal with 0.5g of table salt and 23g of tomatoes. I finished it off with a serving of 11.6g of 2% fat yogurt.",
             "description5": "I'm enjoying a lunch that includes canned tomatoes, carrots, lentils, and a drink, along with some spices and yogurt to round it out."
         },
-        "revised_description": "For lunch, I'm having 26.1g of canned peeled tomatoes, 7.5g of carrots, and a 100g drink. I also have 4g of whole egg, 1.8g of wheat flour, and 1.1g of old garlic. On the side, I've added 5.8g of leek, 36.9g of lentils, a splash of 8.8g of sunflower oil, 2.3g of onions, and 6.0g of green peppers. I even threw in 30.0g of autumn potatoes for some heartiness. To spice things up, I've included a pinch of 0.8g of celery leaves, a sprinkle of 0.2g of ground dry red pepper, and a dash of 1.5g of parsley. There's also a hint of 0.2g of savory and a little 0.5g of table salt to season everything just right. And for a creamy touch, I've got 11.6g of 2% fat yogurt. \n\nOh, and let me not forget to add another 23.0g of canned tomatoes, just to give it that extra tomato-y goodness!"
+        "revised_description": "For lunch, I'm having 26.1g of canned peeled tomatoes, 7.5g of carrots, and a 100g drink. I also have 4g of whole egg, 1.8g of wheat flour, and 1.1g of old garlic. Plus, I've added 5.8g of leek, 36.9g of lentils, 8.8g of sunflower seed oil, 2.3g of onions, 6.0g of green peppers, and 30.0g of autumn potatoes. To spice things up a bit, I've got 0.8g of celery leaves, a pinch of 0.2g of ground dry red pepper, 1.5g of parsley, 0.2g of savory, and 0.5g of table salt. As a finishing touch, I'm also including 23g of fresh tomatoes and 11.6g of 2% fat yogurt."
     },
     {
         "index": 27522,
@@ -4814,7 +4800,7 @@
             "description4": "I had a lunch of 2.5g of tomato puree, 20g of Milky chocolate, and 150g of plum compote, paired with 30g of plain crackers and 32g of fresh cucumbers.",
             "description5": "My lunch consisted of 2.5g of canned tomato puree, 20g of chocolate, 150g of plum compote, 30g of plain crackers, and 32g of cucumbers."
         },
-        "revised_description": "For lunch, I had 2.5g of canned tomato puree, 20g of Nestle Milky chocolate, and 150g of cut-up plum compote. I also had 30g of plain crackers and 32g of cucumbers. Along with that, I added a touch of red dry peppers (0.2g), a sprinkle of wheat flour (1.2g), a drizzle of sunflower oil (7.5g), some spring onions (8.4g), and enjoyed a refreshing glass of 200g of orange juice. I also included 82.5g of autumn potatoes, a dash of black pepper (0.0g), a hint of parsley (1.8g), a pinch of table salt (0.8g), some fresh tomatoes (23.5g), a serving of veal round (50g), and a slice of white bread from Bulgaria (20g)."
+        "revised_description": "For lunch, I had 2.5g of canned tomato puree, 20.0g of Nestle Milky chocolate, and 150.0g of cut-up plum compote. I also had 30.0g of plain crackers and 32.0g of cucumbers. To round it off, I added a sprinkle of red dry peppers (0.2g) and some fresh parsley (1.8g). I included 7.5g of sunflower oil to drizzle over my meal, along with 8.4g of spring onions for a bit of crunch. I also enjoyed a refreshing glass of orange juice (200.0g) on the side. For some extra flavor, I tossed in 1.2g of flour, a pinch of table salt (0.8g), and 23.5g of diced tomatoes. I couldn't resist adding a comforting piece of veal (50.0g) and paired it with a slice of white bread from Bulgaria (20.0g) and some autumn potatoes (82.5g). I also had a hint of black pepper to enhance the flavors (0.0g). All in all, it was a delightful mix!"
     },
     {
         "index": 27300,
@@ -5504,7 +5490,7 @@
             "description4": "For dinner, I put together 19.4g of canned tomatoes, 32.5g of cucumbers, and 130g of apricot nectar with some sunflower oil.",
             "description5": "I\u2019m having a mix of 15.2g of onions, 125.6g of autumn potatoes, and 2.8g of flour, along with various spices for dinner."
         },
-        "revised_description": "For dinner, I\u2019m having 19.4g of canned peeled tomatoes, 32.5g of cucumbers, and 2.8g of flour. I also have 130g of apricot nectar and 10.6g of sunflower oil. Plus, I\u2019ve added 15.2g of onions, 125.6g of autumn potatoes, 125.7g of spring potatoes, a pinch of 0.3g of ground dry red pepper, 2.0g of parsley, a little bit of 0.6g of table salt, 49.9g of fresh tomatoes, and 2.3g of vinegar to spice things up!"
+        "revised_description": "For dinner, I\u2019m having 19.4g of canned peeled tomatoes, 32.5g of cucumbers, and 2.8g of flour. I also have 130g of apricot nectar and 10.6g of sunflower oil. On the side, I added 15.2g of onions, 125.6g of autumn potatoes, and 125.7g of spring potatoes. I sprinkled in a bit of dry red pepper (0.3g), some parsley (2.0g), and a touch of table salt (0.6g) for flavor. To finish it off, I drizzled 2.3g of vinegar over everything and threw in some extra tomatoes weighing 49.9g."
     },
     {
         "index": 25339,
@@ -5783,13 +5769,7 @@
             "description4": "For lunch today, I'm having 4.6g of butter and 58.5g of cucumbers, along with a 150g drink. I included 1.5g of garlic, 9.1g of sunflower oil, and 120.8g of spring potatoes. I seasoned everything with 2g of fennel, 0.5g of parsley, and a little table salt. I also have 4.5g of walnuts and 87.3g of 2% yogurt.",
             "description5": "I\u2019m having a lunch that includes 4.6 grams of butter, 58.5 grams of cucumbers, and 150 grams of Fructus drink. I mixed in 1.5 grams of garlic, 9.1 grams of sunflower oil, and 120.8 grams of spring potatoes. For seasoning, I added 2 grams of fennel spice and 0.5 grams of parsley with a pinch of salt. I also included 4.5 grams of walnuts and 87.3 grams of yogurt."
         },
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 4.6 grams of butter, 58.5 grams of cucumbers, and 150 grams of Fructus drink. I added 1.5 grams of old garlic, 9.1 grams of sunflower seed oil, and 120.8 grams of spring potatoes. I seasoned it with 2 grams of fennel spice, 0.5 grams of parsley spice, and a pinch of table salt. I also have 4.5 grams of walnuts and 87.3 grams of 2% fat yogurt.",
-            "description2": "At lunch, I\u2019m enjoying 4.6g of butter spread on 58.5g of cucumbers, along with 150g of a Fructus drink. I tossed in 1.5g of old garlic, 9.1g of sunflower oil, and 120.8g of spring potatoes. For flavor, I used 2g of fennel spice, 0.5g of parsley, and a bit of table salt. I\u2019m finishing off with 4.5g of walnuts and 87.3g of yogurt with 2% fat.",
-            "description3": "I have 4.6 grams of butter and 58.5 grams of cucumbers for lunch, paired with a 150g Fructus drink. I added 1.5 grams of garlic, 9.1 grams of sunflower oil, and 120.8 grams of spring potatoes. I seasoned it with 2 grams of fennel, 0.5 grams of parsley, and some table salt. To top it off, I have 4.5 grams of walnuts and 87.3 grams of yogurt.",
-            "description4": "For lunch today, I'm having 4.6g of butter and 58.5g of cucumbers, along with a 150g drink. I included 1.5g of garlic, 9.1g of sunflower oil, and 120.8g of spring potatoes. I seasoned everything with 2g of fennel, 0.5g of parsley, and a little table salt. I also have 4.5g of walnuts and 87.3g of 2% yogurt.",
-            "description5": "I\u2019m having a lunch that includes 4.6 grams of butter, 58.5 grams of cucumbers, and 150 grams of Fructus drink. I mixed in 1.5 grams of garlic, 9.1 grams of sunflower oil, and 120.8 grams of spring potatoes. For seasoning, I added 2 grams of fennel spice and 0.5 grams of parsley with a pinch of salt. I also included 4.5 grams of walnuts and 87.3 grams of yogurt."
-        }
+        "revised_description": "For lunch, I'm having 4.6 grams of butter, 58.5 grams of cucumbers, and 150 grams of Fructus drink. I added 1.5 grams of old garlic, 9.1 grams of sunflower seed oil, and 120.8 grams of spring potatoes. I seasoned it with 2 grams of fennel spice, 0.5 grams of parsley spice, and a pinch of table salt (0.2 grams). I also have 4.5 grams of walnuts and 87.3 grams of 2% fat yogurt."
     },
     {
         "index": 21469,
@@ -5905,7 +5885,7 @@
             "description4": "On my plate, there are also 7.4g of tomatoes dressed with 4g of vinegar, making a nice salad.",
             "description5": "All of this is part of my dinner tonight, combining flavors and textures from the meats, veggies, and condiments."
         },
-        "revised_description": "For dinner, I'm having 30g of wheat bread with bran, 0.6g of butter, and 180g of sour cherry compote. I also have 46.4g of cucumbers and 44g of butterhead lettuce on the side. Along with that, I'm enjoying 72.3g of minced meat (veal and pork mix), saut\u00e9ed with 7.3g of sunflower oil, and 6.8g of onions. I added 2.2g of spring onions for a bit of freshness, and tossed in 7.2g of rice as well. To spice things up, I've included a sprinkle of 0.1g of black pepper, a dash of 0.1g of cumin, and a pinch of 1.4g of fennel. I also mixed in 0.5g of parsley for some extra flavor, and seasoned everything with 2.0g of table salt. For a bit of acidity, I'm using 7.4g of tomatoes and a drizzle of 4.0g of vinegar."
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 24590,
@@ -6011,7 +5991,7 @@
             "description4": "I have 2g of onions, 3.3g of green peppers, and 20g of autumn potatoes.",
             "description5": "To finish it off, I'm having 0.1g of table salt, 65g of tap water, 3.3g of tomatoes, 30g of white wheat bread, and 3.3g of yogurt."
         },
-        "revised_description": "For a snack, I'm having 0.7g of butter, 5g of canned peas, 6.7g of carrots, 2.0g of celery, 2.3g of whole egg, 0.3g of wholemeal flour, 6.7g of green beans, 1.0g of human milk, 2.0g of onions, 3.3g of green peppers, 20.0g of autumn potatoes, 0.1g of table salt, 65.0g of tap water, 3.3g of tomatoes, 30.0g of white wheat bread, and 3.3g of yogurt with 3.6% fat."
+        "revised_description": "For a snack, I'm having 0.7g of butter, 5g of canned peas, 6.7g of carrots, 2.0g of celery, 2.3g of egg, 0.3g of wholemeal flour, 6.7g of green beans, 1.0g of human milk, 2.0g of onions, 3.3g of green peppers, 20.0g of autumn potatoes, 0.1g of table salt, 65.0g of tap water, 3.3g of tomatoes, 30.0g of white wheat bread, and 3.3g of yogurt with 3.6% fat."
     },
     {
         "index": 23743,
@@ -6103,13 +6083,7 @@
             "description4": "I\u2019m snacking on a 70g chocolate croissant and 150g of yogurt that has 3.6% fat, and I have some tap water on the side.",
             "description5": "For a quick snack, I have a 70g chocolate croissant, 150g of yogurt with 3.6% fat, and I\u2019m also drinking tap water."
         },
-        "filtered_queries": {
-            "description1": "For a snack, I'm having a 70g chocolate croissant, along with 150g of yogurt that's 3.6% fat, and some tap water.",
-            "description2": "I\u2019ve got a 70g croissant filled with chocolate and 150g of 3.6% fat yogurt for my snack, plus some tap water to drink.",
-            "description3": "For my snack, I\u2019m enjoying a 70g chocolate croissant, 150g of yogurt with 3.6% fat, and drinking tap water.",
-            "description4": "I\u2019m snacking on a 70g chocolate croissant and 150g of yogurt that has 3.6% fat, and I have some tap water on the side.",
-            "description5": "For a quick snack, I have a 70g chocolate croissant, 150g of yogurt with 3.6% fat, and I\u2019m also drinking tap water."
-        }
+        "revised_description": "For a snack, I'm having a 70g chocolate croissant, along with 150g of yogurt that's 3.6% fat, some tap water, and 150g of tap water."
     },
     {
         "index": 29042,
@@ -6341,7 +6315,7 @@
             "description4": "For lunch, I had a mix of 39.5g of canned peas, 50.9g of carrots, and some skinless chicken weighing 24g, along with a bit of celery.",
             "description5": "I enjoyed a lunch with 7g of whole egg, 10g of egg yolk, and a touch of sugar at 2.4g, paired with a side of yogurt."
         },
-        "revised_description": "For lunch, I had 20g of bananas, 5.4g of butter, and 39.5g of canned peas. I also included 50.9g of carrots, 2.7g of celery, and 24g of skinless chicken. Additionally, I added 7g of whole egg, 10g of egg yolk, a sprinkle of 8.9g of wheat flour, 3g of rice, a bit of 2.4g of sugar, and a dollop of 10g of 2% fat yogurt."
+        "revised_description": "For lunch, I had 20g of bananas, 5.4g of butter, and 39.5g of canned peas. I also included 50.9g of carrots, 2.7g of celery, and 24g of skinless chicken. Additionally, I had 7g of whole egg, 10g of egg yolk, 8.9g of wheat flour type 500, 3g of rice, 2.4g of sugar, and 10g of 2% fat yogurt to round out my meal."
     },
     {
         "index": 26840,
@@ -6397,7 +6371,7 @@
             "description4": "I snacked on 50g of whole peach compote, along with 12.5g of plain biscuits and 50g of plain crackers.",
             "description5": "My snack included 12.5g of biscuits, 50g of compote made from whole peaches, and 50g of plain crackers."
         },
-        "revised_description": "For a snack, I'm having 12.5g of plain biscuits, 50g of whole peach compote, 50g of plain crackers, 7.5g of wheat starch, 10g of sugar, and a pinch of vanilla at 0.5g."
+        "revised_description": "For a snack, I'm having 12.5g of plain biscuits, 50g of whole peach compote, 50g of plain crackers, 7.5g of wheat starch, 10g of sugar, and a pinch of vanilla (0.5g)."
     },
     {
         "index": 20800,
@@ -6508,7 +6482,7 @@
             "description4": "I added 6.7g of spring onions, 12g of rice, and some spices like 0g of black pepper and 1.1g of parsley.",
             "description5": "To finish it off, I'm having 18.8g of tomatoes, 2g of vinegar, and a slice of 58g white wheat bread with 15.5g of 2% fat yogurt."
         },
-        "revised_description": "For a snack, I'm having 39g of cabbage, 2g of canned tomato puree, 200g of cut-up plum compote, 0.4g of dry red peppers, 2.4g of whole egg, 2.4g of wheat flour, 32g of minced veal and pork mix, 8g of sunflower oil, 6.7g of spring onions, 12g of rice, 0g of black peppercorns, 1.1g of parsley, 0.6g of table salt, 18.8g of tomatoes, 2g of vinegar, 58g of white wheat bread, and 15.5g of 2% fat yogurt."
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 24896,
@@ -6576,8 +6550,6 @@
         },
         "filtered_queries": {
             "description1": "For dinner, I had 10 grams of Luckcheta bonbons, 100 grams of apricot nectar, 6.8 grams of onions, and a mix of spices including 0.1 grams of black pepper, 0.1 grams of cumin, and 1.4 grams of table salt. I also enjoyed 70.8 grams of veal shawl and 46 grams of white wheat bread.",
-            "description2": "I ate 10g of Luckcheta bonbons for dinner, along with 100g of apricot nectar. I added 6.8g of onions, plus some black pepper and cumin, both at 0.1g. I had 1.4g of salt, 70.8g of veal shawl, and 46g of white wheat bread.",
-            "description3": "Dinner included 10 grams of Luckcheta bonbons, 100 grams of nectar made from apricots, and 6.8 grams of onions. I also used 0.1 grams each of black pepper and cumin, plus 1.4 grams of salt. On the side, I had 70.8 grams of veal shawl and 46 grams of white wheat bread.",
             "description4": "For dinner, I had a mix of 10g of Luckcheta bonbons, 100g of apricot nectar, and 6.8g of onions. I seasoned it with 0.1g of black pepper, 0.1g of cumin, and 1.4g of salt. I also had 70.8g of veal shawl and 46g of white wheat bread.",
             "description5": "I enjoyed 10 grams of Luckcheta bonbons and 100 grams of apricot nectar for dinner. I included 6.8 grams of onions and seasoned it with 0.1 grams of black pepper, 0.1 grams of cumin, and 1.4 grams of salt. Plus, there was 70.8 grams of veal shawl and 46 grams of white wheat bread."
         }
@@ -6681,7 +6653,7 @@
             "description4": "I'm having a mix of canned tomatoes, butter, and various veggies like carrots, celery, and onions for lunch. I also included some veal and a bit of yogurt on the side.",
             "description5": "For lunch today, my plate has 25 grams of canned tomatoes, 8.5 grams of butter, and 77 grams of potatoes, with some veal and a serving of 2% fat yogurt to round it out."
         },
-        "revised_description": "For lunch, I'm having 25 grams of canned whole tomatoes, 8.5 grams of butter, and 77 grams of autumn potatoes. I also included 3.5 grams of carrots, 2.2 grams of celery, 12.6 grams of onions, 1.9 grams of spring onions, 3.5 grams of whole egg, 38.8 grams of 3% fat milk, 1.5 grams of rice, 3.2 grams of semolina wheat, 1.0 gram of parsley spice, 4.0 grams of sugar, 45.0 grams of veal round, and 5.0 grams of 2% fat yogurt, along with some spices."
+        "revised_description": "For lunch, I'm having 25 grams of canned whole tomatoes, 8.5 grams of butter, and 77 grams of autumn potatoes. I also included 3.5 grams of carrots, 2.2 grams of celery, and 12.6 grams of onions, along with 1.9 grams of spring onions. There\u2019s also 3.5 grams of whole egg, 38.8 grams of 3% fat milk, 1.5 grams of rice, 3.2 grams of semolina wheat, 1.0 gram of parsley spice, 4.0 grams of sugar, 45.0 grams of veal round, and 5.0 grams of 2% fat yogurt, along with some spices."
     },
     {
         "index": 28130,
@@ -6908,7 +6880,7 @@
             "description4": "I'm enjoying a snack that includes 25.2g of a whole egg, 3.6g of flour, and 10.8g of rice. I also have 44g of white bread and 36g of yogurt.",
             "description5": "For my snack, I have 10.8g of butter, 12.6g of carrots, and 9.7g of celery along with 86.4g of chicken without skin and an 80g croissant with chocolate."
         },
-        "revised_description": "For a snack, I'm having 10.8g of butter, 12.6g of carrots, and 9.7g of celery. I also have 86.4g of skinless chicken, an 80g croissant with chocolate, and a whole egg weighing 25.2g. Plus, I\u2019ve got 3.6g of flour, 10.8g of rice, 44.0g of white bread, and 36.0g of yogurt with 2% fat."
+        "revised_description": "For a snack, I'm having 10.8g of butter, 12.6g of carrots, and 9.7g of celery. I also have 86.4g of skinless chicken, an 80g croissant with chocolate, a whole egg weighing 25.2g, 3.6g of flour, 10.8g of rice, 44.0g of white bread, and 36.0g of 2% fat yogurt."
     },
     {
         "index": 22836,
@@ -7143,7 +7115,7 @@
             "description4": "I had a lunch that included 100g of apple juice, 50g of bananas, and 24g of plain biscuits. I used a small amount of butter, about 1.3g, and added 13.3g each of cabbage, carrots, and celery. The meal also featured 16.7g of dark chicken meat without skin, 3.3g of onions, and 6.7g of green peppers, plus 40g of autumn potatoes and 8g of rusk for kids, with just a touch of salt.",
             "description5": "At lunch, I had 100g of apple juice, 50g of bananas, and 24g of plain biscuits. I spread on 1.3g of butter and included 13.3g of cabbage, carrots, and celery. I had 16.7g of dark meat chicken without skin, 3.3g of onions, and 6.7g of green peppers. On the side, I ate 40g of autumn potatoes, 8g of rusk for children, and a bit of salt."
         },
-        "revised_description": "For lunch, I had 100.0g of apple juice, 50.0g of bananas, and 24.0g of plain biscuits. I also included 1.3g of butter and added 13.3g of cabbage, 13.3g of carrots, and 6.7g of celery. I had 16.7g of dark meat chicken without skin, along with 3.3g of onions, 6.7g of green peppers, and 40.0g of autumn potatoes. I finished off with 8.0g of rusk for children and a pinch of salt (0.1g). Oh, and I also tossed in 13.3g of tomatoes to freshen things up!"
+        "revised_description": "For lunch, I had 100.0g of apple juice, 50.0g of bananas, and 24.0g of plain biscuits. I also included 1.3g of butter and added 13.3g of cabbage, 13.3g of carrots, and 6.7g of celery. I had 16.7g of dark meat chicken without skin, along with 3.3g of onions, 6.7g of green peppers, and 40.0g of autumn potatoes. I finished off with 8.0g of rusk for children, a pinch of table salt (0.1g), and I tossed in 13.3g of tomatoes for a fresh touch."
     },
     {
         "index": 23770,
@@ -7380,13 +7352,7 @@
             "description4": "For lunch, I used 2.5g of butter and 1g of canned tomato puree. I added 0.3g of dry red peppers and 1.5g of flour. I cooked 47.6g of goose with 7.5g of sunflower oil and mixed in 96.5g of spring onions. I seasoned it with 0.1g of black pepper, 1.8g of parsley, and 0.2g of savory. I added 23.5g of table salt, some tomatoes, and 0.5g of vinegar, and served everything with 46g of wheat bread.",
             "description5": "I made a lunch meal with 2.5g of butter and 1g of tomato puree, mixed with 0.3g of dry red peppers and 1.5g of flour. I cooked 47.6g of goose in 7.5g of sunflower oil along with 96.5g of spring onions. I seasoned it with 0.1g of black pepper, 1.8g of parsley, and 0.2g of savory, plus 23.5g of salt, some tomatoes, and 0.5g of vinegar, served with 46g of Bulgarian wheat bread."
         },
-        "filtered_queries": {
-            "description1": "For lunch, I used 2.5g of butter and 1g of canned tomato puree. I added 0.3g of dry red peppers and 1.5g of flour. I cooked 47.6g of goose with 7.5g of sunflower oil and mixed in 96.5g of spring onions. To season it, I used 0.1g of black pepper, 0g of bay leaves, 1.8g of parsley, and 0.2g of savory. I also added 23.5g of table salt, some fresh tomatoes and 0.5g of vinegar. I served it with 46g of Bulgarian wheat bread.",
-            "description2": "I made a lunch dish with 2.5g of butter and 1g of tomato puree. There\u2019s 0.3g of dry red pepper and 1.5g of flour mixed in. I cooked up 47.6g of goose in 7.5g of sunflower oil along with 96.5g of spring onions. For seasoning, I added 0.1g of black pepper, 1.8g of parsley, and 0.2g of savory. I threw in 23.5g of salt, some tomatoes, and 0.5g of vinegar, and served it with 46g of wheat bread.",
-            "description3": "For lunch, I prepared a dish with 2.5g of butter and 1g of canned tomato puree, mixed with 0.3g of dry red peppers and 1.5g of flour. I cooked 47.6g of goose in 7.5g of sunflower oil, added 96.5g of spring onions, and seasoned it with 0.1g of black pepper, 1.8g of parsley, and 0.2g of savory. I also included 23.5g of salt, fresh tomatoes, and 0.5g of vinegar, served with 46g of Bulgarian wheat bread.",
-            "description4": "For lunch, I used 2.5g of butter and 1g of canned tomato puree. I added 0.3g of dry red peppers and 1.5g of flour. I cooked 47.6g of goose with 7.5g of sunflower oil and mixed in 96.5g of spring onions. I seasoned it with 0.1g of black pepper, 1.8g of parsley, and 0.2g of savory. I added 23.5g of table salt, some tomatoes, and 0.5g of vinegar, and served everything with 46g of wheat bread.",
-            "description5": "I made a lunch meal with 2.5g of butter and 1g of tomato puree, mixed with 0.3g of dry red peppers and 1.5g of flour. I cooked 47.6g of goose in 7.5g of sunflower oil along with 96.5g of spring onions. I seasoned it with 0.1g of black pepper, 1.8g of parsley, and 0.2g of savory, plus 23.5g of salt, some tomatoes, and 0.5g of vinegar, served with 46g of Bulgarian wheat bread."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 21761,
@@ -7700,7 +7666,7 @@
             "description4": "I'm enjoying a lunch that consists of 4.8g of butter, 5.6g of carrots, and 4.3g of celery. I also have some cow's brine cheese, skinless chicken, and raspberry compote.",
             "description5": "My lunch includes a mix of vegetables and proteins: 11.2g of egg, 5.2g of spring onions, and 4.8g of rice, seasoned with parsley and salt, plus a side of tomatoes and yogurt."
         },
-        "revised_description": "For lunch, I'm having 4.8g of butter, 5.6g of carrots, and 4.3g of celery. I also have 30g of cow's brine cheese, 38.4g of skinless chicken, and a 60g serving of raspberry compote. Additionally, I'm including 11.2g of whole egg, a sprinkle of 1.6g of wheat flour, 2.7g of sunflower oil, 5.2g of spring onions, 4.8g of rice, a dash of 0.7g of parsley, 0.2g of table salt, 41.7g of tomatoes, 30g of Bulgarian white bread, and 16g of 2% fat yogurt."
+        "revised_description": "For lunch, I'm having 4.8g of butter, 5.6g of carrots, and 4.3g of celery. I also have 30g of cow's brine cheese, 38.4g of skinless chicken, and a 60g serving of raspberry compote. On the side, I've got 11.2g of whole egg, a sprinkle of 1.6g of wheat flour, and a drizzle of 2.7g of sunflower oil. I'm adding some fresh spring onions, about 5.2g, and a touch of parsley for flavor, just 0.7g. To season it up, there's a pinch of table salt at 0.2g and some juicy tomatoes weighing 41.7g. I couldn\u2019t resist including 30g of Bulgarian wheat bread and a dollop of 16g of 2% fat yogurt. Oh, and I tossed in 4.8g of rice to round it all off!"
     },
     {
         "index": 25939,
@@ -7844,7 +7810,7 @@
             "description4": "I\u2019m having a dinner that includes 11.4g of 2% milk, 6g of Nutella, and a small splash of Raki vodka at 1.2g.",
             "description5": "For dinner, I mixed together 21.5g of sugar with my other ingredients, which include butter, cocoa powder, and some egg."
         },
-        "revised_description": "For dinner, I'm having 17.9g of butter, 2.4g of cocoa powder, and 14.3g of whole egg. I also included 9g of wheat flour, 3g of blueberry jam, and 11.4g of 2% milk. Plus, I've added 6g of Nutella, a splash of 1.2g of Raki (vodka, rum, whisky, or gin), and a little sweetness with 21.5g of sugar."
+        "revised_description": "For dinner, I'm having 17.9g of butter, 2.4g of cocoa powder, and 14.3g of whole egg. I also included 9g of wheat flour, 3g of blueberry jam, and 11.4g of 2% milk. To make it a little sweeter, I added 6g of Nutella and 21.5g of sugar. And for a little kick, I tossed in 1.2g of raki/vodka/rum/whisky/gin brandy."
     },
     {
         "index": 21259,
@@ -7915,7 +7881,7 @@
             "description4": "For breakfast, I had a combination of 200g drinkable yogurt, 50g of flour, and a whole egg, plus some cheese and salami.",
             "description5": "I put together 15g of milk, 20g of sunflower oil, and 30g of salami speck for a filling breakfast."
         },
-        "revised_description": "For breakfast, I'm having 200g of drinkable yogurt mixed with water, along with 50g of wheat flour, 15g of 2% milk, 1g of bread yeast, 15g of cheese from cow briny, 4g of whole egg, 20g of sunflower seed oil, 30g of salami speck, and a pinch of 0.5g table salt."
+        "revised_description": "For breakfast, I'm having 200g of drinkable yogurt mixed with water, along with 50g of wheat flour, 15g of 2% milk, 1g of bread yeast, 15g of briny cow cheese, 4g of whole egg, 20g of sunflower seed oil, 30g of salami speck, and a pinch of 0.5g of table salt."
     },
     {
         "index": 22585,
@@ -8162,7 +8128,7 @@
             "description4": "I\u2019m putting together a lunch with 4.7g of wheat flour, 15g of 2% milk, and 10g of sunflower oil. To season, I\u2019ll use some black pepper, sugar, and salt.",
             "description5": "My lunch consists of 26.2g of autumn potatoes, 0.5g of table salt, and 0.1g of black pepper. I also have 2.6g of butter and a mix of canned peas and tomato puree."
         },
-        "revised_description": "For lunch, I\u2019m having 2.6g of butter, 23.7g of canned peas, and 17.5g of canned tomato puree. I also have 28.4g of carrots, 4.7g of flour, and 0.2g of garlic. Additionally, I\u2019m adding 15.0g of milk, 10.0g of sunflower oil, 26.2g of autumn potatoes, a pinch of black pepper (0.1g), 2.4g of sugar, and a sprinkle of table salt (0.5g)."
+        "revised_description": "For lunch, I\u2019m having 2.6g of butter, 23.7g of canned peas, and 17.5g of canned tomato puree. I also have 28.4g of carrots, 4.7g of flour, and 0.2g of garlic. Additionally, I've got 15.0g of 2% fat milk, 10.0g of sunflower oil, 26.2g of autumn potatoes, 0.1g of black peppercorns, 2.4g of sugar, and 0.5g of table salt."
     },
     {
         "index": 21722,
@@ -8310,7 +8276,7 @@
             "description4": "I seasoned my meal with 1.9g of parsley, 0.8g of table salt, and added 25.1g of tomatoes.",
             "description5": "Finally, I enjoyed 42.7g of veal shawl, 100g of watermelon, and 20.7g of 2% fat yogurt."
         },
-        "revised_description": "For lunch, I had 2.1g of carrots, 3.2g of whole egg, 3.7g of wheat flour, 8.0g of sunflower oil, 9.0g of spring onions, 59.2g of green peppers, 16.0g of rice, 0.1g of black peppercorns, 0.5g of ground dry red pepper, 1.9g of parsley, 0.8g of table salt, 25.1g of tomatoes, 42.7g of veal shawl, 100.0g of watermelon, and 20.7g of 2% fat yogurt."
+        "revised_description": "For lunch, I had 2.1g of carrots, 3.2g of whole egg, and 3.7g of wheat flour, 8.0g of sunflower oil, 9.0g of spring onions, 59.2g of green peppers, 16.0g of rice, 0.1g of black peppercorns, 0.5g of ground dry red pepper, 1.9g of parsley, 0.8g of table salt, 25.1g of tomatoes, 42.7g of veal shawl, 100.0g of watermelon, and 20.7g of yogurt with 2% fat."
     },
     {
         "index": 27142,
@@ -8411,7 +8377,7 @@
             "description4": "For my snack, I had 3.4g of honey and 0.3g of bread yeast mixed in with my food.",
             "description5": "I also drank 120g of herbal or fruit tea while enjoying my snack."
         },
-        "revised_description": "For a snack, I had 30.0g of wheat bread Dobrudja (with some bran), along with 20.0g of briny cow cheese and 2.4g of liquid glucose. I also added 14.6g of wheat flour type 500, 0.3g of bread yeast, 3.4g of honey (polyflora), 5.0g of Kalia kra margarine, 4.3g of Nutella, 3.4g of sunflower seed oil, and 10.0g of sladko (jelly-like but with whole preserved fruits and more sugar) of strawberries. I included a pinch of 0.1g spice - cinnamon, a tiny bit of 0.0g spice - clove, and 10.1g of sugar. To wash it down, I enjoyed 120.0g of tea from herbs or fruits."
+        "revised_description": "For a snack, I had 30.0g of wheat bread Dobrudja with some bran, along with 20.0g of briny cow cheese and 2.4g of liquid glucose. I also enjoyed 0.3g of bread yeast, 14.6g of flour wheat type 500, 3.4g of honey (polyflora), 5.0g of margarine Kaliakra, 4.3g of Nutella, and a drizzle of 3.4g of sunflower seed oil. On the side, I had 10.0g of sladko (jelly-like but with whole preserved fruits and more sugar) of strawberries, a pinch of 0.2g of sodium bicarbonate, a hint of 0.1g of cinnamon spice, a sprinkle of 10.1g of sugar, and washed it down with 120.0g of herbal fruit tea. I didn't use any cloves (0.0g) this time, though!"
     },
     {
         "index": 22915,
@@ -8976,7 +8942,7 @@
             "description4": "Dinner consists of 72.7g of fish trout, 24g of lettuce, and 12g of lemon. I\u2019m also drinking 250g of mineral water and having 1g of table salt as seasoning.",
             "description5": "I\u2019m having a dinner with 72.7g fish trout, 24g cucumbers, and 30g of white wheat bread. I also have 100g of watermelon and 50g of yogurt on the side."
         },
-        "revised_description": "For dinner, I have 72.7g of fish trout, 24g of cucumbers, 24g of lettuce, and 50g of 2% fat yogurt. I also have 250g of mineral water, a slice of 30g white wheat bread, a little bit of fresh garlic (0.5g), some zesty lemon (12g), a drizzle of sunflower seed oil (2g), a sprinkle of fennel spice (1g), a pinch of table salt (1.1g), a few walnuts (1.5g), and a slice of refreshing watermelon (100g)."
+        "revised_description": "For dinner, I have 72.7g of fish trout, 24g of cucumbers, 24g of lettuce, 50g of 2% fat yogurt, a touch of fresh garlic (0.5g), a squeeze of lemon (12g), a drizzle of sunflower oil (2g), a sprinkle of fennel (1g), a bit of table salt (1.1g), some walnuts (1.5g), and a refreshing portion of watermelon (100g). I also have 250g of mineral water Devin and a slice of 30g white wheat bread Stara Zagora."
     },
     {
         "index": 21792,
@@ -9136,7 +9102,7 @@
             "description4": "I\u2019m sipping on 150 grams of 100% orange juice with my snack, along with 2.4 grams of sugar and a pinch of 0.4 grams of table salt.",
             "description5": "So, my snack consists of various items: a bit of butter, egg, flour, jam, two kinds of milk, some oil, orange juice, sugar, and salt."
         },
-        "revised_description": "For a snack, I'm having 1.2 grams of butter, 16 grams of whole egg, 28 grams of wheat flour type 500, 10 grams of blueberry jam, 150 grams of 2% milk, 50.4 grams of 3% milk, 5.6 grams of sunflower oil, 150 grams of 100% orange juice, 2.4 grams of sugar, and 0.4 grams of table salt."
+        "revised_description": "For a snack, I'm having 1.2 grams of butter, 16 grams of whole egg, 28 grams of wheat flour type 500, 10 grams of blueberry jam, 150 grams of 2% fat milk, 50.4 grams of 3% fat milk, 5.6 grams of sunflower seed oil, 150 grams of 100% orange juice, 2.4 grams of sugar, and 0.4 grams of table salt."
     },
     {
         "index": 25079,
@@ -9311,13 +9277,7 @@
             "description4": "I'm having a lunch that consists of 2 grams of butter, 20 grams of cabbage, and 20 grams of carrots. I\u2019ve also got 10 grams of celery, 25 grams of chicken dark meat without skin, and 40 grams of juice multivitamins. There are 5 grams of onions, 10 grams of green peppers, 60 grams of autumn potatoes, a dash of table salt at 0.2 grams, 30 grams of tomatoes, and a 20-gram plain waffle.",
             "description5": "For lunch today, I'm eating 2 grams of butter, 20 grams of cabbage, and 20 grams of carrots. I also have 10 grams of celery, 25 grams of dark meat chicken without skin, and 40 grams of juice multivitamins. I included 5 grams of onions, 10 grams of green peppers, 60 grams of autumn potatoes, a small amount of table salt at 0.2 grams, 30 grams of tomatoes, and a plain waffle that weighs 20 grams."
         },
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 2 grams of butter, 20 grams of cabbage, 20 grams of carrots, and 10 grams of celery. I also have 25 grams of dark meat chicken without skin, 40 grams of juice multivitamins, and 5 grams of onions. There's 10 grams of green peppers, 60 grams of autumn potatoes, a pinch of table salt at 0.2 grams, 30 grams of tomatoes, and a plain waffle weighing 20 grams.",
-            "description2": "I'm enjoying a lunch with 2 grams of butter, 20 grams of cabbage, and 20 grams of carrots. I've added 10 grams of celery, 25 grams of skinless dark meat chicken, and 40 grams of juice multivitamins. On the side, there are 5 grams of onions, 10 grams of green peppers, 60 grams of autumn potatoes, a bit of salt at 0.2 grams, 30 grams of tomatoes, and a plain waffle that weighs 20 grams.",
-            "description3": "For my lunch, I have 2 grams of butter, 20 grams of cabbage, and 20 grams of carrots. There's 10 grams of celery, 25 grams of chicken dark meat without skin, and 40 grams of juice multivitamins. I'm also including 5 grams of onions, 10 grams of green peppers, 60 grams of potatoes, just a pinch of table salt at 0.2 grams, 30 grams of tomatoes, and a 20-gram plain waffle.",
-            "description4": "I'm having a lunch that consists of 2 grams of butter, 20 grams of cabbage, and 20 grams of carrots. I\u2019ve also got 10 grams of celery, 25 grams of chicken dark meat without skin, and 40 grams of juice multivitamins. There are 5 grams of onions, 10 grams of green peppers, 60 grams of autumn potatoes, a dash of table salt at 0.2 grams, 30 grams of tomatoes, and a 20-gram plain waffle.",
-            "description5": "For lunch today, I'm eating 2 grams of butter, 20 grams of cabbage, and 20 grams of carrots. I also have 10 grams of celery, 25 grams of dark meat chicken without skin, and 40 grams of juice multivitamins. I included 5 grams of onions, 10 grams of green peppers, 60 grams of autumn potatoes, a small amount of table salt at 0.2 grams, 30 grams of tomatoes, and a plain waffle that weighs 20 grams."
-        }
+        "revised_description": "For lunch, I'm having 2.0 grams of butter, 20.0 grams of cabbage, 20.0 grams of carrots, and 10.0 grams of celery. I also have 25.0 grams of dark meat chicken without skin, 40.0 grams of juice multivitamins, and 5.0 grams of onions. There's 10.0 grams of green peppers, 60.0 grams of autumn potatoes, a pinch of table salt at 0.2 grams, 20.0 grams of tomatoes, and a plain waffle weighing 30.0 grams. I\u2019ve also got 30.0 grams of tap water to wash it all down!"
     },
     {
         "index": 26434,
@@ -9459,7 +9419,7 @@
             "description4": "For my snack, I'm enjoying 53.7g of chicken without skin, accompanied by some 15.4g sunflower oil and 4g of butter.",
             "description5": "I have a mix of 161.9g of pickled cabbage, 3.2g of hip jam, and a little 1.9g whole egg as part of my snack."
         },
-        "revised_description": "For a snack, I have 53.7g of skinless chicken, 4g of butter, and a 1.9g whole egg. I also have 7.2g of wheat flour and 3.2g of hip jam marmalade. Additionally, I've got 15.4g of sunflower oil, 161.9g of pickled cabbage, a pinch of black pepper (0.1g), 2.4g of sugar, 0.6g of table salt, a dash of vanilla (0.0g), 33.0g of white wheat bread from Stara Zagora, and a glass of sweet white wine (100.0g)."
+        "revised_description": "For a snack, I have 53.7g of skinless chicken, 4.0g of butter, and a 1.9g whole egg. I also have 7.2g of wheat flour, and 3.2g of hip jam marmalade. Plus, I\u2019m adding 15.4g of sunflower oil, 161.9g of pickled cabbage, a pinch of black pepper (0.1g), 2.4g of sugar, and a little bit of table salt (0.6g). To bring it all together, I\u2019ve got 33.0g of white bread from Stara Zagora and a glass of sweet white wine (100.0g) on the side!\n\nOh, and just to clarify, there\u2019s no vanilla in there (0.0g), so it\u2019s all about the savory and sweet goodness with these tasty treats!"
     },
     {
         "index": 22206,
@@ -9696,7 +9656,7 @@
             "description4": "I had 15g of wheat bran bread accompanied by 11.1g of green beans and 11.7g of peas for lunch. I mixed in 30g of canned tomatoes and 9.6g of carrots along with a whole egg.",
             "description5": "For lunch, I put together 3g of flour, 9g of sunflower oil, and some onions. I also included 46.5g of potatoes, a little celery leaves, and topped it off with 284.8g of yogurt."
         },
-        "revised_description": "Here\u2019s the updated description with the exact weights added for the meal items:\n\nFor lunch, I had 15g of wheat bran bread, 11.1g of canned green beans, and 11.7g of canned peas. I also included 30g of peeled canned tomatoes, 9.6g of carrots, and a whole egg weighing 12g. I added 3g of wheat flour, 9g of sunflower oil, and some chopped onions weighing 5.1g. There were also 46.5g of autumn potatoes in the mix. To season, I sprinkled in 2.1g of celery leaves and 2.1g of parsley, along with a pinch of table salt at 0.6g. To finish it off, I enjoyed 24g of fresh tomatoes and a rich serving of 284.8g of yogurt with 2% fat."
+        "revised_description": "For lunch, I had 15g of wheat bran bread, 11.1g of canned green beans, and 11.7g of canned peas. I also included 30g of peeled canned tomatoes, 9.6g of carrots, and a whole egg weighing 12g. Plus, I added 3g of wheat flour, 9g of sunflower seed oil, 5.1g of onions, and 46.5g of autumn potatoes. I sprinkled in 2.1g of celery leaves and 2.1g of parsley for some extra flavor, along with 0.6g of table salt. To top it all off, I enjoyed 24g of fresh tomatoes and a generous serving of 284.8g of 2% fat yogurt."
     },
     {
         "index": 21051,
@@ -9896,7 +9856,7 @@
             "description4": "I included 6g of rice, 40g of white bread from Bulgaria, and 20g of 2% fat yogurt in my snack.",
             "description5": "Overall, my snack consisted of a mix of fruits, vegetables, and some dairy and bread."
         },
-        "revised_description": "For a snack, I had 90g of bananas, 16g of butter, 20g of canned whole tomatoes, 14g of carrots, 9g of celery, 14g of whole egg, 10g of hip jam marmalade, 7.4g of spring onions, 28g of autumn potatoes, 6g of rice, 40g of white bread from Bulgaria, and 20g of 2% fat yogurt."
+        "revised_description": "For a snack, I had 90.0g of bananas, 16.0g of butter, and 20.0g of canned whole tomatoes, along with 14.0g of carrots, 9.0g of celery, 14.0g of egg, 10.0g of marmalade, 7.4g of spring onions, 28.0g of autumn potatoes, 6.0g of rice, 40.0g of white bread from Bulgaria, and 20.0g of yogurt with 2% fat."
     },
     {
         "index": 23638,
@@ -9958,9 +9918,7 @@
             "description5": "Tonight\u2019s meal consists of 7.3 grams of sunflower seed oil, 5.6 grams of spring onions, and 23.3 grams of rice. I seasoned it with some black pepper and salt, added 33.3 grams of veal shawl, and paired it with 100 grams of yogurt at 3.6% fat."
         },
         "filtered_queries": {
-            "description1": "For dinner, I'm having 7.3 grams of sunflower oil, 5.6 grams of spring onions, and 23.3 grams of rice. I also added a pinch of black pepper, 0.5 grams of table salt, and 33.3 grams of veal shawl, along with 100 grams of yogurt with 3.6% fat.",
-            "description2": "Tonight\u2019s dinner includes 7.3 grams of sunflower seed oil, 5.6 grams of chopped spring onions, and 23.3 grams of rice. I seasoned it with 0.1 grams of black pepper and 0.5 grams of salt, plus 33.3 grams of veal shawl, and I\u2019m having 100 grams of yogurt on the side.",
-            "description4": "For dinner, I prepared 7.3 grams of sunflower oil, 5.6 grams of spring onions, and 23.3 grams of rice. I included a bit of black pepper and 0.5 grams of salt, along with 33.3 grams of veal shawl, and I\u2019m enjoying 100 grams of yogurt with 3.6% fat."
+            "description2": "Tonight\u2019s dinner includes 7.3 grams of sunflower seed oil, 5.6 grams of chopped spring onions, and 23.3 grams of rice. I seasoned it with 0.1 grams of black pepper and 0.5 grams of salt, plus 33.3 grams of veal shawl, and I\u2019m having 100 grams of yogurt on the side."
         }
     },
     {
@@ -10119,7 +10077,7 @@
             "description4": "I'm enjoying 1.0g of table salt on my 30g of tomatoes and a slice of 1.3g of white bread from Bulgaria for lunch.",
             "description5": "At lunch, I put together 56g of apple, 250g of apple juice, and 10g of candy bonbons along with a little butter and some canned tomato puree."
         },
-        "revised_description": "For lunch, I'm having 56g of apple, 250g of apple juice, and 10g of violet bonbons. I also have 3.3g of butter and 1.3g of canned tomato puree. Plus, I've got 8g of milky fine chocolate, 5g of plain crackers, a sprinkle of 0.4g of dry red peppers, and 1.3g of wheat flour. I'm adding 63.5g of goose, a dash of 10g of sunflower oil, some 16.8g of spring onions, and 120g of autumn potatoes. There's also a pinch of 0.1g of black peppercorns, a little bit of 2.3g of parsley, and 1g of table salt for seasoning. To top it off, I'm including 18.7g of tomatoes and 30g of white wheat bread from Bulgaria."
+        "revised_description": "For lunch, I'm having 56g of apple, 250g of apple juice, and 10g of violet bonbons. I also have 3.3g of butter and 1.3g of canned tomato puree. I\u2019m also enjoying 8g of chocolate, 5g of plain crackers, 0.4g of dried red peppers, 1.3g of wheat flour, 63.5g of goose, 10g of sunflower oil, 16.8g of spring onions, 120g of autumn potatoes, 0.1g of black peppercorns, 2.3g of parsley, 1g of table salt, 18.7g of tomatoes, and 30g of white bread."
     },
     {
         "index": 21297,
@@ -10294,12 +10252,7 @@
             "description4": "At dinner, I had 100 grams of wheat bread, 120 grams of a whole egg, 10 grams of sunflower seed oil, a dash of black pepper, half a gram of salt, and 100 grams of tomatoes.",
             "description5": "I ate a dinner that included 100g of bran wheat bread, 120g of egg, 10g of sunflower oil, a sprinkle of black pepper, half a gram of salt, and 100g of tomatoes."
         },
-        "filtered_queries": {
-            "description1": "For dinner, I had 100g of wheat bread with bran, 120g of whole egg, 10g of sunflower seed oil, a pinch of black pepper, half a gram of table salt, and 100g of tomatoes.",
-            "description3": "For dinner, I prepared 100g of wheat bread with bran, along with 120g of whole egg, 10g of sunflower oil, a touch of black pepper, half a gram of salt, and 100g of fresh tomatoes.",
-            "description4": "At dinner, I had 100 grams of wheat bread, 120 grams of a whole egg, 10 grams of sunflower seed oil, a dash of black pepper, half a gram of salt, and 100 grams of tomatoes.",
-            "description5": "I ate a dinner that included 100g of bran wheat bread, 120g of egg, 10g of sunflower oil, a sprinkle of black pepper, half a gram of salt, and 100g of tomatoes."
-        }
+        "revised_description": "For dinner, I had 100g of wheat bread Dobrudja with some bran, 120g of whole egg, 10g of sunflower seed oil, a pinch of black pepper (about 0.2g), half a gram of table salt, and 100g of tomatoes."
     },
     {
         "index": 24102,
@@ -10658,7 +10611,7 @@
             "description4": "I had 51.8g of parsnip, 50g of green peppers, and 20g of spring potatoes for my snack.",
             "description5": "To round out my snack, I had 34.1g of rice, a pinch of black pepper, and some 2% fat yogurt."
         },
-        "revised_description": "For a snack, I had 60g of wheat bran bread with 3.3g of butter. I also included 19.5g of cabbage, 1g of canned tomato puree, 16.7g of canned tomatoes whole, 7.2g of carrots, 0.2g of dry red peppers, 9.3g of egg, 5.8g of wheat flour, 14.3g of sunflower oil, 20.1g of spring onions, 3g of parsnip, 51.8g of green peppers, 50g of spring potatoes, 20g of rice, 0.1g of black peppercorns, 0.5g of ground dry red pepper, 34.1g of parsley, 1.5g of table salt, 31.3g of tomatoes, 53.3g of veal shawl, 1g of vinegar, and 51.8g of 2% fat yogurt."
+        "revised_description": "For a snack, I had 60g of wheat bran bread with 3.3g of butter. I also included 19.5g of cabbage, 1g of canned tomato puree, 16.7g of canned tomatoes, 7.2g of carrots, 0.2g of dry red peppers, 9.3g of whole egg, 5.8g of wheat flour, 14.3g of sunflower oil, 20.1g of spring onions, 3g of parsnip, 51.8g of green peppers, 50g of spring potatoes, 20g of rice, 0.1g of black peppercorns, 0.5g of ground dry red pepper, 34.1g of parsley, 1.5g of table salt, 31.3g of tomatoes, 53.3g of veal shawl, 1g of vinegar, and 51.8g of yogurt with 2% fat."
     },
     {
         "index": 27721,
@@ -10896,7 +10849,7 @@
             "description4": "I\u2019m having a lunch that consists of 7g of sunflower oil, 13g of onions, and 50g of frozen raspberries. I also included 24.2g of rice, 1g of parsley spice, and 14g of yogurt.",
             "description5": "For lunch, I mixed together 4.2g of butter, 55g of canned tomatoes, and added 4.9g of carrots and 3.8g of celery. There\u2019s skinless chicken and egg, plus some flour and other ingredients."
         },
-        "revised_description": "For lunch, I'm having 4.2g of butter, 55g of canned whole tomatoes, 4.9g of carrots, and 3.8g of celery. I also have 33.6g of skinless chicken, 9.8g of whole egg, 1.4g of flour, a splash of 7.0g of sunflower oil, 13.0g of onions, 50.0g of frozen raspberries, 24.2g of rice, a sprinkle of 1.0g of parsley, and 14.0g of 2% fat yogurt."
+        "revised_description": "For lunch, I'm having 4.2g of butter, 55g of canned whole tomatoes, 4.9g of carrots, and 3.8g of celery. I also have 33.6g of skinless chicken, 9.8g of whole egg, and 1.4g of flour. On the side, there's 7.0g of sunflower oil, some chopped onions weighing 13.0g, a handful of frozen raspberries at 50.0g, and 24.2g of rice. I sprinkled in a bit of parsley for flavor, just 1.0g, and topped it off with 14.0g of 2% fat yogurt."
     },
     {
         "index": 28832,
@@ -11200,7 +11153,7 @@
             "description4": "My lunch includes 60g of apple juice, 38.8g of canned tomatoes, and 35.8g of raw mackerel fish on the side.",
             "description5": "I had 60 grams of apple juice for lunch, along with 38.8 grams of canned tomatoes and 35.8 grams of raw mackerel."
         },
-        "revised_description": "For lunch, I'm having 60g of apple juice, 38.8g of peeled canned tomatoes, 35.8g of raw mackerel fish, 1.2g of lemon juice, 2.7g of sunflower oil, 9.7g of onions, a sprinkle of 0.4g of parsley, a pinch of 0.2g of sugar, and just a dash of 0.1g of table salt."
+        "revised_description": "For lunch, I'm having 60g of apple juice, 38.8g of peeled canned tomatoes, 35.8g of raw mackerel fish, 1.2g of lemon juice, a splash of sunflower seed oil (2.7g), a bit of chopped onions (9.7g), a sprinkle of parsley (0.4g), a pinch of sugar (0.2g), and a dash of table salt (0.1g)."
     },
     {
         "index": 25576,
@@ -11433,7 +11386,7 @@
             "description4": "I'm having a light breakfast with 0.4g of sunflower oil, 1.5g of spring onions, and 50g of Bulgarian white bread, along with my pineapple juice.",
             "description5": "For breakfast, I'm enjoying 8.1g of canned liutenitsa, some leek and spring onions, and a refreshing 100g of pineapple juice."
         },
-        "revised_description": "For breakfast, I'm having 8.1g of canned liutenitsa made from tomatoes, peppers, and onions, along with 1.5g of leek, 0.4g of sunflower oil, 1.5g of spring onions, 100.0g of pineapple juice, and 50.0g of white bread from Bulgaria. There's also a sprinkle of table salt to taste."
+        "revised_description": "For breakfast, I'm having 8.1g of canned liutenitsa made from tomatoes, peppers, and onions, along with 1.5g of leek, 0.4g of sunflower oil, 1.5g of spring onions, 100.0g of 100% pineapple juice, a pinch of table salt (0.0g), and 50.0g of white bread from Bulgaria."
     },
     {
         "index": 21038,
@@ -11576,7 +11529,7 @@
             "description4": "So, for lunch, it's 130g of apple, 86.2g of chicken without skin, and I mixed in 12g of cucumbers and some lettuce.",
             "description5": "On the side, I'm having 30.8g of rice, 12.3g of onions, and I dressed it with 5.9g of sunflower oil and a bit of table salt."
         },
-        "revised_description": "For lunch, I'm having 130g of apple, 86.2g of skinless chicken, and 12g of cucumbers. I also added some fresh garlic (0.2g) and 12g of lettuce, along with 5.9g of sunflower seed oil. I included 12.3g of onions, a side of 30.8g of rice, a sprinkle of fennel spice (0.5g), a pinch of table salt (0.3g), and a few walnuts (0.8g). I also have a slice of white wheat bread (33g) and a little yogurt (25g, 2% fat) on the side."
+        "revised_description": "For lunch, I'm having 130g of apple, 86.2g of skinless chicken, and 12g of cucumbers. I also added some fresh garlic (0.2g) and 12g of lettuce, along with 5.9g of sunflower seed oil. I\u2019ve also got some onions (12.3g), a bit of rice (30.8g), a pinch of fennel spice (0.5g), a bit of table salt (0.3g), some walnuts (0.8g), a slice of white wheat bread (33.0g), and a dollop of yogurt (25.0g) with 2% fat."
     },
     {
         "index": 24641,
@@ -11754,7 +11707,7 @@
             "description4": "For protein, I included 13.3g of veal round, along with 1g of vinegar and 9.7g of 2% fat yogurt.",
             "description5": "So, my lunch consisted of a mix of fruits and vegetables, dairy, and protein sources all measured out in various grams."
         },
-        "revised_description": "For lunch, I had 80g of bananas, 1g of butter, and 18g of canned whole tomatoes. I also included 2.7g of carrots, 0.1g of dry red peppers, and 2g of whole egg. To round it out, I added 4.3g of wheat flour, 80g of green beans, 15g of 3% fat milk, 9.3g of sunflower oil, 10.8g of onions, 2.7g of rice, 1.2g of parsley, 0.5g of table salt, 200g of tap water, 4.7g of tomatoes, 13.3g of veal round, 1g of vinegar, and 9.7g of 2% fat yogurt."
+        "revised_description": "For lunch, I had 80g of bananas, 1g of butter, and 18g of canned whole tomatoes. I also included 2.7g of carrots, 0.1g of dry red peppers, and 2g of whole egg. Additionally, I added 4.3g of flour, 80g of green beans, 15g of 3% fat milk, 9.3g of sunflower oil, 10.8g of onions, 2.7g of rice, 1.2g of parsley spice, 0.5g of table salt, 200g of tap water, 4.7g of tomatoes, 13.3g of veal round, 1g of vinegar, and 9.7g of 2% fat yogurt."
     },
     {
         "index": 21471,
@@ -11855,7 +11808,7 @@
             "description4": "For seasoning, I've added 64.3g of red peppers, 2.1g of mint leaves, and 5.4g of parsley.",
             "description5": "To finish it off, I have 1.8g of table salt, 78.4g of tomatoes, and 8.3g of vinegar for a bit of flavor."
         },
-        "revised_description": "For dinner, I'm having 120g of wheat bran bread, along with 5.3g of carrots, 4.8g of celery, 50g of cucumbers, 51.7g of dried beans, 0.7g of dry red peppers, 1.3g of flour, 23.3g of sunflower seed oil, 21g of onions, 64.3g of red peppers, 2.1g of mint leaves, 5.4g of parsley, 1.8g of table salt, 78.4g of tomatoes, and 8.3g of vinegar."
+        "revised_description": "For dinner, I'm having 120g of wheat bran bread, along with 5.3g of carrots, 4.8g of celery, and 50g of cucumbers. I'm also including 51.7g of dried beans, a sprinkle of 0.7g of dry red peppers, and a bit of 1.3g of wheat flour. To keep it tasty, I added 23.3g of sunflower oil, 21.0g of onions, and 64.3g of red peppers. For some freshness, I'm using 2.1g of mint leaves and 5.4g of parsley. A dash of 1.8g of table salt, 78.4g of tomatoes, and a splash of 8.3g of vinegar round out the meal."
     },
     {
         "index": 24098,
@@ -12051,7 +12004,7 @@
             "description4": "I ate 44.4g of cabbage and 70.8g of pork shoulder for dinner, drizzled with 2.7g of sunflower seed oil, and 0.7g of cumin. I finished off with 108g of strawberries.",
             "description5": "For dinner, I had a hearty plate with 70.8g of pork shoulder, 6.8g of onions, and 212.5g of yellow cheese, along with 1.7g of celery leaves and 1.7g of vinegar, plus a side of 108g of cherries."
         },
-        "revised_description": "For dinner, I had 70.8g of pork shoulder, mixed with 6.8g of onions, 44.4g of cabbage, and topped with 1.7g of celery leaves, 0.1g of cumin, and a pinch of black pepper. I also added 108.0g of cherries and 234.3g of yellow cheese (including 21.8g of Vitosha cheese from cow milk), along with 2.7g of sunflower oil for a little richness, 0.7g of parsley for some freshness, and a dash of vinegar (1.7g) to brighten things up. Finally, I included 1.6g of table salt and 109.1g of chicken wurst for added protein. I also had 212.5g of strawberries on the side for a sweet touch."
+        "revised_description": "For dinner, I had 70.8g of pork shoulder, mixed with 6.8g of onions, 44.4g of cabbage, and topped with 1.7g of celery leaves, 0.1g of cumin, 0.1g of black pepper, and 0.7g of parsley. I also added 108g of cherries, 212.5g of yellow cheese, and 21.8g of Vitosha cheese from cow milk. A drizzle of 2.7g of sunflower seed oil, a pinch of table salt (1.6g), and a splash of vinegar (1.7g) rounded out the flavors. Additionally, I had 109.1g of chicken sausage on the side."
     },
     {
         "index": 27695,
@@ -12262,7 +12215,7 @@
             "description4": "I enjoyed 3.0g of flour and 2.7g of sunflower oil in my snack, along with 4.8g of rice. I sprinkled on 0.5g of fennel spice and 0.4g of salt, finishing with 16.0g of yogurt at 2% fat and 6.6g at 3.2% fat.",
             "description5": "For a light snack, I mixed 51.2g of aubergine with 4.8g of butter, 5.6g of carrots, and 4.3g of celery. I added 38.4g of skinless chicken and 11.2g of a whole egg, along with some flour and sunflower seed oil."
         },
-        "revised_description": "For a snack, I had 51.2g of aubergine, 4.8g of butter, and 5.6g of carrots with 4.3g of celery. I also included 38.4g of skinless chicken and 11.2g of a whole egg, along with 3.0g of wheat flour. I added 0.5g of garlic, 2.7g of sunflower oil, 4.8g of rice, 0.5g of fennel spice, and 0.4g of table salt. To finish off, I included 16.0g of 2% fat yogurt and 6.6g of 3.2% fat yogurt."
+        "revised_description": "For a snack, I had 51.2g of aubergine, 4.8g of butter, and 5.6g of carrots with 4.3g of celery. I also included 38.4g of skinless chicken and 11.2g of a whole egg, along with 3.0g of wheat flour. I added a little bit of garlic (0.5g), some sunflower oil (2.7g), and a sprinkle of rice (4.8g). To enhance the flavor, I tossed in 0.5g of fennel spice, along with a pinch of table salt (0.4g). To round it off, I enjoyed 16.0g of yogurt with 2% fat and 6.6g of yogurt with 3.2% fat."
     },
     {
         "index": 24897,
@@ -12422,7 +12375,7 @@
             "description4": "I'm snacking on 50g of bananas, 13.6g of canned tomatoes, and 40.9g of pizza dough, with a little sunflower seed oil and 8.3g of chicken sausage on the side.",
             "description5": "For my snack, I'm enjoying 50g of bananas, 13.6g of canned tomatoes, and 40.9g of pizza dough, along with 0.6g of sunflower seed oil and 8.3g of chicken sausage."
         },
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For a snack, I'm having 50.0g of bananas, 13.6g of canned whole tomatoes, 40.9g of pizza dough with a bit of sunflower seed oil (0.6g), plus 8.3g of chicken sausage. I'm also enjoying a sprinkle of savory spice (0.0g) for some extra flavor."
     },
     {
         "index": 27425,
@@ -12650,7 +12603,7 @@
             "description4": "I'm eating a lunch that includes butter, canned tomatoes, chicken, and vegetables like carrots and onions. There\u2019s also some bread and yogurt on the side.",
             "description5": "For lunch, I prepared a mix of 30g of chicken, 6g of canned tomatoes, and some fresh vegetables like onions and carrots, served with a slice of bread and a bit of yogurt."
         },
-        "revised_description": "For lunch, I'm having 3g of butter, 6g of canned peeled tomatoes, 4.3g of carrots, and 30g of chicken light meat without skin. I also have 28.4g of hen, 1.2g of lemons, and 2.8g of onions, along with 14g of autumn potatoes. On the side, I've added 0.7g of celery leaves, 0.7g of parsley, a pinch of sugar (3g), a tiny sprinkle of table salt (0.2g), and some tap water (30g) to keep everything hydrated. I can't forget the extra 5g of tomatoes for flavor and a slice of white wheat bread (40g) to soak up the deliciousness. To top it off, I'm enjoying a bit of yogurt (50g) with 3.6% fat for some creaminess."
+        "revised_description": "For lunch, I'm having 3.0g of butter, 6.0g of canned peeled tomatoes, 4.3g of carrots, and 30.0g of chicken light meat without skin. I also have 28.4g of hen, 1.2g of lemons, and 2.8g of onions, along with 14.0g of autumn potatoes. Plus, I've added a sprinkle of celery leaves and parsley for extra flavor, 3.0g of sugar and 0.2g of table salt to taste. I\u2019m also having 30.0g of tap water to keep hydrated and a slice of white Stara Zagora wheat bread, which weighs 40.0g, on the side. For a creamy touch, I've got 50.0g of yogurt with 3.6% fat. Oh, and I'll throw in a bit more tomatoes, weighing 5.0g, just for good measure! Just to make it a little tastier, I\u2019ve added 0.7g of celery leaves and 0.7g of parsley as spices as well. And that's my delicious lunch!"
     },
     {
         "index": 24786,
@@ -12892,7 +12845,7 @@
             "description4": "I seasoned everything with 1.2g of parsley, 0.5g of table salt, and I added 9.4g of wheat bread as a side.",
             "description5": "Finally, I used 20g of tap water while cooking to help with the meal prep."
         },
-        "revised_description": "For dinner, I'm having 50g of bananas, 100g of strawberry compote, and 17g of dry pastry along with 70g of autumn potatoes, 200g of tomatoes, 0.3g of dry red peppers, 0.7g of flour, 6.7g of sunflower seeds oil, 8.4g of spring onions, 5.0g of green peppers, 1.2g of parsley spice, 0.5g of table salt, 200g of tap water, 9.4g of additional tomatoes, and 20g of white wheat bread from Stara Zagora."
+        "revised_description": "For dinner, I'm having 50g of bananas, 100g of strawberry compote, and 17g of dry pastry along with 70g of autumn potatoes, 200g of tomatoes, and I've added a sprinkle of dry red peppers (0.3g), a touch of flour (0.7g), a dash of sunflower seed oil (6.7g), some spring onions (8.4g), a few green peppers (5.0g), a pinch of parsley (1.2g), a bit of table salt (0.5g), a splash of tap water (200g), and just a little bit of fresh tomatoes (9.4g), plus 20g of white wheat bread from Stara Zagora."
     },
     {
         "index": 21214,
@@ -13116,7 +13069,7 @@
             "description4": "I put together 2.5g of tomato puree with 1.2g of flour and some sunflower oil for a base. On the side, I enjoyed 200g of pineapple juice.",
             "description5": "I had a meal with 82.5g of potatoes and 200g of tomatoes, along with some veal, and finished it off with 150g of yogurt for dessert."
         },
-        "revised_description": "For lunch, I had 2.5g of canned tomato puree, 0.2g of dry red peppers, and 1.2g of flour. I also used 7.5g of sunflower oil, 8.4g of spring onions, and drank 200g of 100% pineapple juice. I included 82.5g of autumn potatoes, a pinch of black pepper, 1.8g of parsley, a sprinkle of table salt (0.8g), and refreshed myself with 200g of tap water. On the side, I enjoyed 23.5g of fresh tomatoes and 50g of veal round, along with 40g of white bread from Bulgaria and 150g of yogurt with natural flavor."
+        "revised_description": "For lunch, I had 2.5g of canned tomato puree, 0.2g of dry red peppers, and 1.2g of flour. I also used 7.5g of sunflower oil, 8.4g of spring onions, and drank 200g of 100% pineapple juice. I included 82.5g of autumn potatoes, 0.0g of black pepper, 1.8g of parsley, 0.8g of table salt, and 200.0g of tap water. Additionally, I had 23.5g of tomatoes, 50.0g of veal round, 40.0g of white bread of wheat Bulgaria, and 150.0g of yogurt with natural flavor."
     },
     {
         "index": 29222,
@@ -13355,6 +13308,6 @@
             "description4": "I topped my dish with 1.9g of yellow cheese and finished it off with 200g of yogurt with 3.6% fat.",
             "description5": "So, for dinner, I had a mix of ingredients including apple juice, butter, canned tomato puree, and a selection of spices and dairy."
         },
-        "revised_description": "For dinner, I had 200g of apple juice, 1.2g of butter, and 1.2g of canned tomato puree. I also used 0.4g of dry red peppers, 3.2g of whole egg, and 4g of flour. Along with that, I included 15.5g of 2% milk, 6.0g of sunflower oil, 10.1g of spring onions, 45.0g of autumn potatoes, 0.0g of black peppercorns, 1.4g of parsley, 10.0g of sugar, 0.6g of table salt, 32.0g of tomatoes, 39.5g of veal round, 1.9g of yellow cheese Vitosha from cow milk, and 200.0g of yogurt with 3.6% fat."
+        "revised_description": "For dinner, I had 200g of apple juice, 1.2g of butter, and 1.2g of canned tomato puree. I also used 0.4g of dry red peppers, 3.2g of whole egg, and 4g of flour. I added 15.5g of 2% milk, 6.0g of sunflower oil, 10.1g of spring onions, 45.0g of autumn potatoes, 0.0g of black peppercorns, 1.4g of parsley, 10.0g of sugar, 0.6g of table salt, 32.0g of tomatoes, 39.5g of veal round, 1.9g of yellow cheese (Vitosha from cow milk), and 200.0g of yogurt (3.6% fat)."
     }
 ]

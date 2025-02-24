@@ -305,7 +305,7 @@
         "meal_str": "POTATO SOUP||POTATO, FRENCH FRIES||SALT||TOMATO",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For breakfast, I had 351.6g of potato soup, along with 200g of French fries, a pinch of salt, and 111g of tomatoes.\",\n    \"description2\": \"I enjoyed a breakfast of 351.6g potato soup, 200g French fries, a bit of salt, and 111g of tomato.\",\n    \"description3\": \"This morning, I had 351.6g of potato soup and paired it with 200g of French fries, adding some salt and 111g of tomato.\",\n    \"description4\": \"For breakfast, I ate 351.6g of potato soup, 200g of French fries, a dash of salt, and 111g of fresh tomato.\",\n    \"description5\": \"I had a hearty breakfast with 351.6g of potato soup, 200g of French fries, a sprinkle of salt, and 111g of tomato.\"\n}",
-        "revised_description": "For breakfast, I had 351.6g of potato soup, along with 200g of French fries made from 200g of potato, a pinch of salt (about 1g), and 111g of tomatoes."
+        "revised_description": "For breakfast, I had 351.6g of potato soup, along with 200g of French fries, a pinch of salt (about 1g), and 111g of tomatoes."
     },
     {
         "index": 282521,
@@ -1180,7 +1180,7 @@
         "meal_str": "BREAD||COUNTRY SOUP||HOMEMADE CAKE||JUICE, FRUITS||PORK||SPINACH",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For lunch, I have 50g of bread, 436.1g of country soup, 200g of pork, 75g of spinach, and a 175g fruit juice.\",\n    \"description2\": \"I\u2019m eating 50 grams of bread along with 436.1 grams of country soup, 200 grams of pork, 75 grams of spinach, and 175 grams of fruit juice for lunch.\",\n    \"description3\": \"Today\u2019s lunch includes 50g of bread, 436.1g of hearty country soup, 200g of pork, 75g of spinach, and a refreshing 175g of fruit juice.\",\n    \"description4\": \"My lunch consists of 50 grams of bread, 436.1 grams of country soup, 200 grams of pork, 75 grams of spinach, and 175 grams of fruit juice.\",\n    \"description5\": \"I\u2019m having a lunch with 50g of bread, 436.1g of country soup, 200g of pork, 75g of spinach, and 175g of fruit juice.\"\n}",
-        "revised_description": "For lunch, I have 50g of bread, 436.1g of country soup, 200g of pork, 75g of spinach, a 175g fruit juice, and a delicious slice of homemade cake weighing 106.7g."
+        "revised_description": "For lunch, I have 50g of bread, 436.1g of country soup, 200g of pork, 75g of spinach, 175g of fruit juice, and a delicious 106.7g slice of homemade cake."
     },
     {
         "index": 289255,
@@ -1555,9 +1555,7 @@
         "filtered_queries": {
             "description1": "For breakfast, I'm having 100g of white bread, 100g of desalted Telemea cheese, a 100g fried egg, and 150g of salami.",
             "description2": "I made myself a breakfast with 100 grams of white bread, 100 grams of fried egg, 100 grams of cheese, and 150 grams of salami.",
-            "description3": "This morning, I had 100g of white bread with 100g of Telemea cheese, a fried egg, and 150g of salami.",
-            "description4": "I enjoyed a breakfast of 100g white bread, 100g desalted cheese, 100g fried egg, and 150g salami.",
-            "description5": "For breakfast, I put together 100 grams of white bread, a fried egg of the same weight, 100 grams of cheese, and 150 grams of salami."
+            "description4": "I enjoyed a breakfast of 100g white bread, 100g desalted cheese, 100g fried egg, and 150g salami."
         }
     },
     {
@@ -1864,7 +1862,13 @@
         "meal_str": "MELON||SEMONLINA PUDDING",
         "country": "ROU",
         "query": "{\"description1\": \"For dinner, I'm having 100g of melon and 164.5g of semolina pudding.\", \"description2\": \"I\u2019ve got 100 grams of melon alongside 164.5 grams of semolina pudding for my dinner.\", \"description3\": \"Dinner consists of 100g of melon and 164.5g of semolina pudding.\", \"description4\": \"I\u2019m enjoying 100 grams of melon with 164.5 grams of semolina pudding for dinner.\", \"description5\": \"For my dinner, I have 100g of melon and a serving of semolina pudding that weighs 164.5g.\"}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 100g of melon and 164.5g of semolina pudding.",
+            "description2": "I\u2019ve got 100 grams of melon alongside 164.5 grams of semolina pudding for my dinner.",
+            "description3": "Dinner consists of 100g of melon and 164.5g of semolina pudding.",
+            "description4": "I\u2019m enjoying 100 grams of melon with 164.5 grams of semolina pudding for dinner.",
+            "description5": "For my dinner, I have 100g of melon and a serving of semolina pudding that weighs 164.5g."
+        }
     },
     {
         "index": 290083,
@@ -2110,7 +2114,7 @@
         "meal_str": "BREAD||EGGPLANT||HOMEMADE CAKE||MEATBALL SOUP||POTATOES WITH CHECKEN ROAST||WINE",
         "country": "ROU",
         "query": "{\"description1\": \"For lunch, I'm having 25g of bread, 150g of eggplant, and 364.2g of meatball soup. I also have 348.5g of potatoes with roasted chicken and a glass of 175g of wine.\", \"description2\": \"I ate 150 grams of eggplant with 25g of bread for lunch, along with 364.2g of meatball soup and 348.5g of potatoes and chicken. I finished it off with 175g of wine.\", \"description3\": \"For lunch, I enjoyed 25g of bread, 150g of eggplant, and a hearty 364.2g of meatball soup. I also had 348.5g of potatoes with roasted chicken and a 175g glass of wine.\", \"description4\": \"Lunch consisted of 150g of eggplant, 25g of bread, and 364.2g of meatball soup, plus 348.5g of potatoes with chicken, and I had 175g of wine to drink.\", \"description5\": \"I had a lunch that included 25g of bread, 150g of eggplant, and 364.2g of meatball soup. I also enjoyed 348.5g of potatoes with roasted chicken and a glass of 175g of wine.\"}",
-        "revised_description": "For lunch, I'm having 25g of bread, 150g of eggplant, and 364.2g of meatball soup. I also have 348.5g of potatoes with roasted chicken, a glass of 175g of wine, and a slice of 106.7g of homemade cake."
+        "revised_description": "For lunch, I'm having 25g of bread, 150g of eggplant, and 364.2g of meatball soup. I also have 348.5g of potatoes with roasted chicken and a glass of 175g of wine. And for dessert, I've got a slice of homemade cake weighing 106.7g."
     },
     {
         "index": 278016,
@@ -2208,13 +2212,7 @@
         "meal_str": "BRANDY, PLUM||BREAD||CABBAGE ROLLS STUFFED WITH MEAT||CHICKEN SOUP||WINE",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For lunch, I'm having 50g of plum brandy, 100g of bread, 434g of cabbage rolls stuffed with meat, 458g of chicken soup, and a 350g glass of wine.\",\n    \"description2\": \"I had a lunch that included 50 grams of plum brandy, a 100g slice of bread, 434g of stuffed cabbage rolls, 458g of chicken soup, and 350g of wine.\",\n    \"description3\": \"My lunch consists of 50g of plum brandy, 100g of bread, a hefty 434g of cabbage rolls with meat, 458g of chicken soup, and a 350g serving of wine.\",\n    \"description4\": \"I\u2019m enjoying lunch with 50 grams of plum brandy, 100 grams of bread, 434 grams of meat-stuffed cabbage rolls, 458 grams of chicken soup, and 350 grams of wine.\",\n    \"description5\": \"Today for lunch, I have 50g of plum brandy, 100g of bread, 434g of cabbage rolls loaded with meat, 458g of chicken soup, and a 350g drink of wine.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 50g of plum brandy, 100g of bread, 434g of cabbage rolls stuffed with meat, 458g of chicken soup, and a 350g glass of wine.",
-            "description2": "I had a lunch that included 50 grams of plum brandy, a 100g slice of bread, 434g of stuffed cabbage rolls, 458g of chicken soup, and 350g of wine.",
-            "description3": "My lunch consists of 50g of plum brandy, 100g of bread, a hefty 434g of cabbage rolls with meat, 458g of chicken soup, and a 350g serving of wine.",
-            "description4": "I\u2019m enjoying lunch with 50 grams of plum brandy, 100 grams of bread, 434 grams of meat-stuffed cabbage rolls, 458 grams of chicken soup, and 350 grams of wine.",
-            "description5": "Today for lunch, I have 50g of plum brandy, 100g of bread, 434g of cabbage rolls loaded with meat, 458g of chicken soup, and a 350g drink of wine."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 290936,
@@ -2544,13 +2542,7 @@
         "meal_str": "SPAGHETTI WITH MUSHROOMS||WATER (DRINKING  WATER)",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For dinner, I'm having 300g of spaghetti with mushrooms and 250g of drinking water.\",\n    \"description2\": \"I prepared 300 grams of spaghetti with mushrooms and I'm drinking 250 grams of water.\",\n    \"description3\": \"Tonight's meal is 300g of spaghetti with mushrooms along with 250g of water.\",\n    \"description4\": \"I'm enjoying 300 grams of spaghetti with mushrooms for dinner and washing it down with 250 grams of water.\",\n    \"description5\": \"For my dinner, I've got 300g of spaghetti with mushrooms and a glass of 250g of drinking water.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 300g of spaghetti with mushrooms and 250g of drinking water.",
-            "description2": "I prepared 300 grams of spaghetti with mushrooms and I'm drinking 250 grams of water.",
-            "description3": "Tonight's meal is 300g of spaghetti with mushrooms along with 250g of water.",
-            "description4": "I'm enjoying 300 grams of spaghetti with mushrooms for dinner and washing it down with 250 grams of water.",
-            "description5": "For my dinner, I've got 300g of spaghetti with mushrooms and a glass of 250g of drinking water."
-        }
+        "revised_description": "For dinner, I'm having 300.1g of spaghetti with mushrooms and 250.0g of drinking water."
     },
     {
         "index": 286771,
@@ -2610,9 +2602,7 @@
         "filtered_queries": {
             "description1": "For breakfast, I had 40g of toasted bread with 40g of butter and 40g of Telemea cheese.",
             "description2": "I enjoyed 40 grams of toast topped with 40 grams of butter and 40 grams of Telemea cheese for breakfast.",
-            "description3": "Breakfast today was 40g of toast, spread with 40g of butter, and paired with 40g of Telemea cheese.",
-            "description4": "I made myself a breakfast with 40 grams of toast, some butter, and 40 grams of Telemea cheese.",
-            "description5": "For breakfast, I had a simple meal of 40g of buttered toast and 40g of Telemea cheese."
+            "description3": "Breakfast today was 40g of toast, spread with 40g of butter, and paired with 40g of Telemea cheese."
         }
     },
     {
@@ -3006,7 +2996,13 @@
         "meal_str": "MEAT||RICE PILAF",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For dinner, I'm having 105g of meat with 199.5g of rice pilaf.\",\n    \"description2\": \"I\u2019ve got a 105g serving of meat alongside 199.5g of rice pilaf for dinner.\",\n    \"description3\": \"Dinner tonight includes 105 grams of meat and 199.5 grams of rice pilaf.\",\n    \"description4\": \"I\u2019m enjoying 105g of meat with a side of 199.5g rice pilaf for my dinner.\",\n    \"description5\": \"For dinner, I\u2019ll eat 105 grams of meat and 199.5 grams of rice pilaf.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 105g of meat with 199.5g of rice pilaf.",
+            "description2": "I\u2019ve got a 105g serving of meat alongside 199.5g of rice pilaf for dinner.",
+            "description3": "Dinner tonight includes 105 grams of meat and 199.5 grams of rice pilaf.",
+            "description4": "I\u2019m enjoying 105g of meat with a side of 199.5g rice pilaf for my dinner.",
+            "description5": "For dinner, I\u2019ll eat 105 grams of meat and 199.5 grams of rice pilaf."
+        }
     },
     {
         "index": 279100,
@@ -3042,13 +3038,7 @@
         "meal_str": "BREAD||CABBAGE ROLLS STUFFED WITH MEAT||MEATBALL SOUP",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For lunch, I had 25g of bread along with 434g of cabbage rolls stuffed with meat and a bowl of 364g meatball soup.\",\n    \"description2\": \"I enjoyed a lunch that included 25 grams of bread, 434 grams of meat-stuffed cabbage rolls, and 364 grams of meatball soup.\",\n    \"description3\": \"Lunch consisted of 25g of bread, 434g of cabbage rolls filled with meat, and a hearty 364g meatball soup.\",\n    \"description4\": \"I had a 25g piece of bread for lunch, plus 434g of cabbage rolls stuffed with meat and 364g of meatball soup.\",\n    \"description5\": \"For lunch, I ate 25 grams of bread, 434 grams of cabbage rolls with meat, and 364 grams of meatball soup.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I had 25g of bread along with 434g of cabbage rolls stuffed with meat and a bowl of 364g meatball soup.",
-            "description2": "I enjoyed a lunch that included 25 grams of bread, 434 grams of meat-stuffed cabbage rolls, and 364 grams of meatball soup.",
-            "description3": "Lunch consisted of 25g of bread, 434g of cabbage rolls filled with meat, and a hearty 364g meatball soup.",
-            "description4": "I had a 25g piece of bread for lunch, plus 434g of cabbage rolls stuffed with meat and 364g of meatball soup.",
-            "description5": "For lunch, I ate 25 grams of bread, 434 grams of cabbage rolls with meat, and 364 grams of meatball soup."
-        }
+        "revised_description": "For lunch, I had 25.0g of bread along with 434.3g of cabbage rolls stuffed with meat and a bowl of 364.2g meatball soup."
     },
     {
         "index": 279192,
@@ -3441,13 +3431,7 @@
         "meal_str": "CABBAGE||MIXED VEGETABLES SOUP||PORK||WATER (DRINKING  WATER)",
         "country": "ROU",
         "query": "{\"description1\": \"For lunch, I'm having 300g of cabbage, 300g of mixed vegetable soup, 150g of pork, and 250g of drinking water.\", \"description2\": \"I have a lunch with 300g of cabbage, 300g of mixed vegetable soup, plus 150g of pork and some drinking water, about 250g.\", \"description3\": \"Today\u2019s lunch includes 300g of cabbage, 300g of mixed vegetable soup, 150g of pork, and I\u2019m drinking 250g of water.\", \"description4\": \"I\u2019m enjoying 300g of cabbage and 300g of mixed vegetable soup for lunch, along with 150g of pork and 250g of water.\", \"description5\": \"For lunch, I\u2019ve got 300g of cabbage, a 300g bowl of mixed vegetable soup, 150g of pork, and I\u2019m drinking 250g of water.\"}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 300g of cabbage, 300g of mixed vegetable soup, 150g of pork, and 250g of drinking water.",
-            "description2": "I have a lunch with 300g of cabbage, 300g of mixed vegetable soup, plus 150g of pork and some drinking water, about 250g.",
-            "description3": "Today\u2019s lunch includes 300g of cabbage, 300g of mixed vegetable soup, 150g of pork, and I\u2019m drinking 250g of water.",
-            "description4": "I\u2019m enjoying 300g of cabbage and 300g of mixed vegetable soup for lunch, along with 150g of pork and 250g of water.",
-            "description5": "For lunch, I\u2019ve got 300g of cabbage, a 300g bowl of mixed vegetable soup, 150g of pork, and I\u2019m drinking 250g of water."
-        }
+        "revised_description": "For lunch, I'm having 300.1g of cabbage, 300.2g of mixed vegetable soup, 150g of pork, and 250g of drinking water."
     },
     {
         "index": 288297,
@@ -3735,13 +3719,7 @@
         "meal_str": "BREAD||COFFEE||EGGPLANT VEGETABLE STEW||TOMATO",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For breakfast, I had 25 grams of bread, 75 grams of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.\",\n    \"description2\": \"I enjoyed a breakfast of 25g of bread paired with 75g of coffee, along with 30g of eggplant stew and 111g of tomato.\",\n    \"description3\": \"This morning, I had 25 grams of bread, 75 grams of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.\",\n    \"description4\": \"I started my day with 25g of bread, 75g of coffee, 30g of eggplant stew, and 111g of tomato for breakfast.\",\n    \"description5\": \"For breakfast, I had 25 grams of bread, a 75-gram cup of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I had 25 grams of bread, 75 grams of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.",
-            "description2": "I enjoyed a breakfast of 25g of bread paired with 75g of coffee, along with 30g of eggplant stew and 111g of tomato.",
-            "description3": "This morning, I had 25 grams of bread, 75 grams of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.",
-            "description4": "I started my day with 25g of bread, 75g of coffee, 30g of eggplant stew, and 111g of tomato for breakfast.",
-            "description5": "For breakfast, I had 25 grams of bread, a 75-gram cup of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 278353,
@@ -3780,7 +3758,6 @@
         "filtered_queries": {
             "description1": "For breakfast, I'm having 100g of bread, 125g of cocoa drink, 100g of coffee, 200g of milk, 50g of pork pastrami, and 50g of salami.",
             "description2": "I\u2019ve got 100 grams of bread, a 125g cocoa drink, 100g of coffee, and 200g of milk for breakfast, along with 50g of pastrami and 50g of salami.",
-            "description3": "My breakfast includes 100g of bread, 125g of cocoa drink, 100g of coffee, and 200g of whole milk, plus 50g each of pork pastrami and salami.",
             "description4": "I'm eating 100 grams of bread with a 125g cocoa drink, 100g of coffee, and 200g of milk. I also have 50g of pastrami and 50g of salami for breakfast.",
             "description5": "For breakfast, I have 100g of bread, 125g of cocoa drink, 100g of coffee, and 200g of milk, along with 50g of pastrami and 50g of salami."
         }
@@ -3841,11 +3818,8 @@
         "country": "ROU",
         "query": "{\n    \"description1\": \"For lunch, I had 175 grams of bread, along with 380 grams of cabbage soup and 398 grams of cabbage with sausages.\",\n    \"description2\": \"I enjoyed a 175g piece of bread with 379.8g of cabbage soup and 397.7g of cabbage mixed with sausages for lunch.\",\n    \"description3\": \"At lunch, I ate 175g of bread, 380g of cabbage soup, and 398g of cabbage with sausages.\",\n    \"description4\": \"I had a lunch that included 175 grams of bread, 379.8 grams of cabbage soup, and 397.7 grams of cabbage with sausages.\",\n    \"description5\": \"For lunch, I had a total of 175g of bread, 380g of cabbage soup, and 398g of cabbage with sausages.\"\n}",
         "filtered_queries": {
-            "description1": "For lunch, I had 175 grams of bread, along with 380 grams of cabbage soup and 398 grams of cabbage with sausages.",
             "description2": "I enjoyed a 175g piece of bread with 379.8g of cabbage soup and 397.7g of cabbage mixed with sausages for lunch.",
-            "description3": "At lunch, I ate 175g of bread, 380g of cabbage soup, and 398g of cabbage with sausages.",
-            "description4": "I had a lunch that included 175 grams of bread, 379.8 grams of cabbage soup, and 397.7 grams of cabbage with sausages.",
-            "description5": "For lunch, I had a total of 175g of bread, 380g of cabbage soup, and 398g of cabbage with sausages."
+            "description4": "I had a lunch that included 175 grams of bread, 379.8 grams of cabbage soup, and 397.7 grams of cabbage with sausages."
         }
     },
     {

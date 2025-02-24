@@ -222,13 +222,7 @@
         "meal_str": "Cabbage chinese, blanch / Luag Phak Kart||Drink water/ Nam Deum||Rice glutinous, polished, steamed/ Khao Niew||Rice noodles fresh with beef Soup/ Feu Ngau||Shrimp tiny paste, fermented/ Ka Pi||Yard long bean green/ Mak Tour Yao",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For lunch, I'm having 32g of blanched Chinese cabbage, 600g of water to drink, 106.5g of steamed glutinous rice, and 605g of fresh rice noodles with beef soup. I also have 4g of fermented tiny shrimp paste and 29.7g of green yard long beans.\",\n    \"description2\": \"Today for lunch, I\u2019m eating 32 grams of Chinese cabbage, 600 grams of plain water, and 106.5 grams of steamed glutinous rice. I also have a bowl of fresh beef soup with 605 grams of rice noodles, along with 4 grams of fermented shrimp paste and 29.7 grams of green yard long beans.\",\n    \"description3\": \"I prepared a lunch with 32g of Chinese cabbage, 600g of water, and 106.5g of steamed sticky rice. There\u2019s also 605g of rice noodles in beef soup, plus 4g of fermented shrimp paste and 29.7g of green yard long beans on the side.\",\n    \"description4\": \"At lunch, I'm enjoying 32 grams of blanched Chinese cabbage, drinking 600 grams of water, and having 106.5 grams of polished steamed glutinous rice. I also have 605 grams of beef soup with rice noodles, along with 4 grams of fermented tiny shrimp paste and 29.7 grams of green yard long beans.\",\n    \"description5\": \"For lunch, I\u2019ve got 32g of Chinese cabbage, 600g of water, and 106.5g of steamed glutinous rice. I\u2019m also having 605g of fresh rice noodles in beef soup, 4g of fermented shrimp paste, and 29.7g of green yard long beans.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 32g of blanched Chinese cabbage, 600g of water to drink, 106.5g of steamed glutinous rice, and 605g of fresh rice noodles with beef soup. I also have 4g of fermented tiny shrimp paste and 29.7g of green yard long beans.",
-            "description2": "Today for lunch, I\u2019m eating 32 grams of Chinese cabbage, 600 grams of plain water, and 106.5 grams of steamed glutinous rice. I also have a bowl of fresh beef soup with 605 grams of rice noodles, along with 4 grams of fermented shrimp paste and 29.7 grams of green yard long beans.",
-            "description3": "I prepared a lunch with 32g of Chinese cabbage, 600g of water, and 106.5g of steamed sticky rice. There\u2019s also 605g of rice noodles in beef soup, plus 4g of fermented shrimp paste and 29.7g of green yard long beans on the side.",
-            "description4": "At lunch, I'm enjoying 32 grams of blanched Chinese cabbage, drinking 600 grams of water, and having 106.5 grams of polished steamed glutinous rice. I also have 605 grams of beef soup with rice noodles, along with 4 grams of fermented tiny shrimp paste and 29.7 grams of green yard long beans.",
-            "description5": "For lunch, I\u2019ve got 32g of Chinese cabbage, 600g of water, and 106.5g of steamed glutinous rice. I\u2019m also having 605g of fresh rice noodles in beef soup, 4g of fermented shrimp paste, and 29.7g of green yard long beans."
-        }
+        "revised_description": "For lunch, I'm having 32.0g of blanched Chinese cabbage, 600.0g of water to drink, 106.5g of steamed glutinous rice, and 605.1g of fresh rice noodles with beef soup. I also have 4.0g of fermented tiny shrimp paste and 29.7g of green yard long beans."
     },
     {
         "index": 172241,
@@ -327,7 +321,7 @@
         "meal_str": "Banana (Nam-wa variety), ripe/  Kuay Nam Souk||Banana blossoms/ Hua Pi||Chilli fresh sauce / Jeaw Mak Phet Soth||Clear Snail pond / river, soup / Tom Hoi Sai||Drink water/ Nam Deum||Eggplant / Mak Keua Phuang||Horse tamarind, young pods / Ka Thin On||Mashed Gunthers walking catfish mixed with condiments/ Pon Pa Duk||Rice glutinous, polished, steamed/ Khao Niew",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For breakfast, I had 73.5g of ripe Nam-wa bananas, 37g of banana blossoms, and a 5.8g serving of fresh chili sauce.\",\n    \"description2\": \"I enjoyed 49.3g of clear snail soup, along with 200g of water to drink.\",\n    \"description3\": \"I also had 4g of eggplant and 26g of young horse tamarind pods on my plate.\",\n    \"description4\": \"On the side, I mixed 46g of mashed walking catfish with condiments and paired it with 220.9g of steamed glutinous rice.\",\n    \"description5\": \"So for breakfast, that\u2019s 73.5g of bananas, various other ingredients, and a good amount of water.\"\n}",
-        "revised_description": "For breakfast, I had 73.5g of ripe Nam-wa bananas, 37g of banana blossoms, and a 5.8g serving of fresh chili sauce. I also enjoyed 49.3g of clear snail soup, 200.0g of water, 4.0g of eggplant, 26.0g of young horse tamarind pods, 46.0g of mashed Gunther's walking catfish mixed with condiments, and 220.9g of steamed polished glutinous rice."
+        "revised_description": "For breakfast, I had 73.5g of ripe Nam-wa bananas, 37g of banana blossoms, a 5.8g serving of fresh chili sauce, 49.3g of clear snail pond soup, 200.0g of drink water, 4.0g of eggplant, 26.0g of young horse tamarind pods, 46.0g of mashed Gunther's walking catfish mixed with condiments, and 220.9g of steamed polished glutinous rice."
     },
     {
         "index": 175033,
@@ -363,7 +357,7 @@
         "meal_str": "Boiled Cassia leaves with little water/ Om Khi Lek||Drink water/ Nam Deum||Orange fruit/  Mak Kieng||Rice glutinous, polished, steamed/ Khao Niew",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For dinner, I had 65.4g of boiled Cassia leaves with some water, along with 120g of water to drink.\",\n    \"description2\": \"I enjoyed 69.5g of orange fruit and paired it with 90g of steamed glutinous rice for dinner.\",\n    \"description3\": \"For dinner, I had 65.4 grams of boiled Cassia leaves, 120 grams of water to drink, and 69.5 grams of orange.\",\n    \"description4\": \"I ate 90 grams of polished steamed glutinous rice with my dinner, along with 65.4g of boiled Cassia leaves and 120g of water.\",\n    \"description5\": \"Dinner included 69.5g of orange fruit, 65.4g of boiled Cassia leaves, and I washed it down with 120g of water.\"\n}",
-        "revised_description": "For dinner, I had 65.4g of boiled Cassia leaves with some water, along with 120g of water to drink. I also enjoyed 69.5g of fresh orange fruit, and 90g of steamed glutinous rice on the side."
+        "revised_description": "For dinner, I had 65.4g of boiled Cassia leaves with some water, along with 120g of water to drink. I also enjoyed 69.5g of orange fruit on the side and 90g of steamed glutinous rice."
     },
     {
         "index": 172841,
@@ -882,7 +876,7 @@
         "meal_str": "Bamboo shoot, boiled withStriped snakehead fish/ Kheang Nor Mai Sot Sai Pa Kor||Drink water/ Nam Deum||Job's tear whole seeds with coconut milk/ Nam Wan Mak Deuay||Rice glutinous, polished, steamed/ Khao Niew",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For lunch, I had 379.9g of boiled bamboo shoot with striped snakehead fish, along with 400g of water to drink.\",\n    \"description2\": \"I enjoyed 275.7g of Job's tear whole seeds cooked with coconut milk and 70g of steamed glutinous rice for lunch.\",\n    \"description3\": \"For my lunch, I ate 379.9g of bamboo shoots with fish and drank 400g of water.\",\n    \"description4\": \"I had 275.7g of Job's tears in coconut milk and 70g of polished steamed glutinous rice for lunch.\",\n    \"description5\": \"Lunch consisted of 379.9g of boiled bamboo shoots and fish, plus 400g of water and 275.7g of Job's tears with coconut milk.\"\n}",
-        "revised_description": "For lunch, I had 379.9g of boiled bamboo shoot with striped snakehead fish, along with 400g of water to drink. I also enjoyed 275.7g of Job's tear whole seeds with coconut milk, and on the side, I had 70.0g of steamed glutinous rice."
+        "revised_description": "For lunch, I had 379.9g of boiled bamboo shoot with striped snakehead fish, along with 400g of water to drink. I also enjoyed 275.7g of Job's tear whole seeds with coconut milk and 70.0g of steamed glutinous rice on the side."
     },
     {
         "index": 176096,
@@ -1334,7 +1328,7 @@
         "meal_str": "Boiled Fowl meatl with  little water/ Or Nok||Drink water/ Nam Deum||Pork ball, stir fry/ Kuar Luak Sin Mou||Rice glutinous, polished, steamed/ Khao Niew||Sour Sauce/ Jeaw Som????",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For dinner, I had 191g of boiled fowl meat with a little water, along with 400g of water to drink.\",\n    \"description2\": \"I enjoyed 76.1g of stir-fried pork balls and paired it with 338g of steamed glutinous rice.\",\n    \"description3\": \"I also had 8g of sour sauce to go with my meal, along with a drink of 400g of water.\",\n    \"description4\": \"For dinner, my plate included 191g of boiled fowl meat, 76.1g of pork balls stir-fried, and 338g of polished steamed rice.\",\n    \"description5\": \"I washed it all down with 400g of water and added a touch of 8g of sour sauce for flavor.\"\n}",
-        "revised_description": "For dinner, I had 191g of boiled fowl meat with a little water, along with 400g of water to drink. I also enjoyed 76.1g of pork ball stir fry and 338g of steamed glutinous rice. To add some flavor, I had 8g of sour sauce on the side."
+        "revised_description": "For dinner, I had 191g of boiled fowl meat with a little water, along with 400g of water to drink. I also enjoyed 76.1g of pork ball stir fry, 338g of steamed glutinous rice, and used a bit of 8g sour sauce on the side."
     },
     {
         "index": 172763,
@@ -1411,7 +1405,7 @@
         "meal_str": "Cabbage chinese ,Steaming/ Neung Phak Kart||Cowpea pods/ Tour Phou||Drink water/ Nam Deum||Indian penny wort leaves / Bai Bua Bok||Rice glutinous, polished, steamed/ Khao Niew||Sardines, canned in tomato sauce, stir fry/ Khua Pa Ka Pong||Spicy Shallot spring dipping sauce / Jeaw Ton Hom",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For breakfast, I had 38.5g of steamed Chinese cabbage, 55g of cowpea pods, and 400g of water to drink.\",\n    \"description2\": \"I started my day with 109.5g of steamed glutinous rice and 39g of canned sardines in tomato sauce.\",\n    \"description3\": \"I enjoyed 13g of Indian pennywort leaves and dipped them in 2.5g of spicy shallot spring dipping sauce for breakfast.\",\n    \"description4\": \"For breakfast, I had a mix of 38.5g of steamed cabbage, 55g of cowpea pods, and 400g of water.\",\n    \"description5\": \"I also had 109.5g of sticky rice and 39g of sardines in tomato sauce with a bit of 2.5g spicy dipping sauce.\"\n}",
-        "revised_description": "For breakfast, I had 38.5g of steamed Chinese cabbage, 55g of cowpea pods, 400g of water to drink, 13g of Indian pennywort leaves, 109.5g of steamed glutinous rice, 39g of canned sardines in tomato sauce, and a little bit of spicy shallot spring dipping sauce at 2.5g."
+        "revised_description": "For breakfast, I had 38.5g of steamed Chinese cabbage, 55g of cowpea pods, 400g of water to drink, 13g of Indian penny wort leaves, 109.5g of steamed glutinous rice, 39g of sardines canned in tomato sauce, and 2.5g of spicy shallot spring dipping sauce for some extra flavor."
     },
     {
         "index": 173041,
@@ -1903,13 +1897,7 @@
         "meal_str": "Chicken, boiled with Pumpkin/ Tom Kai Sai Mak Eu||Drink water/ Nam Deum||Milk whole UHT sweet favoured/  Nom UHT||Peas garden stir fry with Pork Meat/ Kuar Mak Lan Tao||Rice polished, steamed/  Khao Chao",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For dinner, I had 320g of boiled chicken with pumpkin, along with 100g of water. I also had 180g of sweet flavored whole UHT milk, 89g of garden peas stir-fried with pork, and 120g of steamed polished rice.\",\n    \"description2\": \"I enjoyed a dinner that included 320g of boiled chicken with pumpkin, 100g of water to drink, and 180g of whole UHT milk. On the side, I had 89g of stir-fried garden peas with pork and 120g of steamed rice.\",\n    \"description3\": \"For dinner, I ate 320g of chicken boiled with pumpkin and drank 100g of water. I also had 180g of sweet whole UHT milk, along with 89g of garden peas stir-fried with pork and 120g of steamed rice.\",\n    \"description4\": \"I\u2019m having a dinner that consists of 320g of boiled chicken with pumpkin, 100g of water, and 180g of sweet whole UHT milk. Plus, there\u2019s 89g of stir-fried garden peas with pork and 120g of steamed rice.\",\n    \"description5\": \"Dinner for me included 320g of chicken boiled with pumpkin, 100g of water, and 180g of whole UHT milk. I also had 89g of pork stir-fried with garden peas and 120g of steamed polished rice.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I had 320g of boiled chicken with pumpkin, along with 100g of water. I also had 180g of sweet flavored whole UHT milk, 89g of garden peas stir-fried with pork, and 120g of steamed polished rice.",
-            "description2": "I enjoyed a dinner that included 320g of boiled chicken with pumpkin, 100g of water to drink, and 180g of whole UHT milk. On the side, I had 89g of stir-fried garden peas with pork and 120g of steamed rice.",
-            "description3": "For dinner, I ate 320g of chicken boiled with pumpkin and drank 100g of water. I also had 180g of sweet whole UHT milk, along with 89g of garden peas stir-fried with pork and 120g of steamed rice.",
-            "description4": "I\u2019m having a dinner that consists of 320g of boiled chicken with pumpkin, 100g of water, and 180g of sweet whole UHT milk. Plus, there\u2019s 89g of stir-fried garden peas with pork and 120g of steamed rice.",
-            "description5": "Dinner for me included 320g of chicken boiled with pumpkin, 100g of water, and 180g of whole UHT milk. I also had 89g of pork stir-fried with garden peas and 120g of steamed polished rice."
-        }
+        "revised_description": "For dinner, I had 320.2g of boiled chicken with pumpkin, along with 100g of water. I also had 180g of sweet flavored whole UHT milk, 89.3g of garden peas stir-fried with pork, and 120g of steamed polished rice."
     },
     {
         "index": 174767,
@@ -2155,13 +2143,7 @@
         "meal_str": "Drink water/ Nam Deum||Mirinda Orange / Mirinda Orange||Noodle soup with specific sauce/Traditional Lao noodle soup/ Kao Soi",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 200g of Nam Deum water, 200g of Mirinda Orange, and about 155g of traditional Kao Soi noodle soup.\",\n    \"description2\": \"I\u2019ve got 200 grams of water, 200g of Mirinda Orange soda, and 155g of noodle soup for breakfast.\",\n    \"description3\": \"This morning, I'm drinking 200g of Nam Deum water and 200g of Mirinda Orange, along with 155g of Kao Soi noodle soup.\",\n    \"description4\": \"I'm having breakfast with 200 grams of water, 200g of Mirinda Orange, and a serving of 155g of traditional Lao noodle soup.\",\n    \"description5\": \"For breakfast, it\u2019s 200g of water, 200g of Mirinda Orange, and 155g of noodle soup with special sauce.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 200g of Nam Deum water, 200g of Mirinda Orange, and about 155g of traditional Kao Soi noodle soup.",
-            "description2": "I\u2019ve got 200 grams of water, 200g of Mirinda Orange soda, and 155g of noodle soup for breakfast.",
-            "description3": "This morning, I'm drinking 200g of Nam Deum water and 200g of Mirinda Orange, along with 155g of Kao Soi noodle soup.",
-            "description4": "I'm having breakfast with 200 grams of water, 200g of Mirinda Orange, and a serving of 155g of traditional Lao noodle soup.",
-            "description5": "For breakfast, it\u2019s 200g of water, 200g of Mirinda Orange, and 155g of noodle soup with special sauce."
-        }
+        "revised_description": "For breakfast, I'm having 200g of Nam Deum water, 200g of Mirinda Orange, and about 155.4g of traditional Kao Soi noodle soup."
     },
     {
         "index": 176562,
@@ -2302,7 +2284,7 @@
         "meal_str": "Apple/ Mak Apple||Buffalo meat, Grilled/ Ping Sin Khuay||Drink water/ Nam Deum||Fish based snack with seasoning/ Pa Sen Taro||Orange fruit/  Mak Kieng||Rice glutinous, polished, steamed/ Khao Niew||Snack from flour (corn, wheat, potato)/  Kha Nom",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For breakfast, I had 60g of Mak apples, 36.5g of grilled buffalo meat, and 200g of water to drink.\",\n    \"description2\": \"I started my day with 17g of a fish-based snack with seasoning and 36g of oranges.\",\n    \"description3\": \"For breakfast, I enjoyed 1g of polished steamed glutinous rice and 5g of a flour-based snack made from corn, wheat, or potato.\",\n    \"description4\": \"I had a mix for breakfast: 60g of apples, 36.5g of buffalo meat, and some 200g of water.\",\n    \"description5\": \"I also tried 17g of a seasoned fish snack and 36g of orange along with my breakfast.\"\n}",
-        "revised_description": "For breakfast, I had 60g of Mak apples, 36.5g of grilled buffalo meat, 200g of water to drink, 17g of fish-based snack with seasoning, 36g of orange fruit, 1g of glutinous rice, and 5g of snack from flour."
+        "revised_description": "For breakfast, I had 60.0g of Mak apples, 36.5g of grilled buffalo meat, 200.0g of water to drink, 17.0g of fish-based snack with seasoning, 36.0g of orange fruit, 1.0g of steamed glutinous rice, and 5.0g of a snack made from flour."
     },
     {
         "index": 175135,
@@ -2758,7 +2740,13 @@
         "meal_str": "Bamboo shoot, boiled with Comdiment/ Kheang Nor Mai||Drink water/ Nam Deum||Rice glutinous, polished, steamed/ Khao Niew||Vegetable mixed salad / Soup Phak",
         "country": "LAO",
         "query": "{\"description1\": \"For lunch, I'm having 656.5g of boiled bamboo shoots with a condiment, 200g of water, 156g of steamed glutinous rice, and a 65.5g mixed vegetable salad.\", \"description2\": \"I'm enjoying a lunch that includes 656.5g of bamboo shoots boiled with a condiment, a 200g drink of water, 156g of polished steamed glutinous rice, and a 65.5g vegetable salad.\", \"description3\": \"At lunch, I have 656.5g of boiled bamboo shoots with a condiment, 200g of water to drink, 156g of steamed glutinous rice, and a 65.5g mixed salad.\", \"description4\": \"For lunch today, I'm eating 656.5g of bamboo shoots boiled with a condiment, 200g of water, 156g of steamed glutinous rice, and a 65.5g vegetable salad.\", \"description5\": \"I'm having lunch with 656.5g of bamboo shoots, 200g of water, 156g of steamed glutinous rice, and a 65.5g vegetable salad.\"}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I'm having 656.5g of boiled bamboo shoots with a condiment, 200g of water, 156g of steamed glutinous rice, and a 65.5g mixed vegetable salad.",
+            "description2": "I'm enjoying a lunch that includes 656.5g of bamboo shoots boiled with a condiment, a 200g drink of water, 156g of polished steamed glutinous rice, and a 65.5g vegetable salad.",
+            "description3": "At lunch, I have 656.5g of boiled bamboo shoots with a condiment, 200g of water to drink, 156g of steamed glutinous rice, and a 65.5g mixed salad.",
+            "description4": "For lunch today, I'm eating 656.5g of bamboo shoots boiled with a condiment, 200g of water, 156g of steamed glutinous rice, and a 65.5g vegetable salad.",
+            "description5": "I'm having lunch with 656.5g of bamboo shoots, 200g of water, 156g of steamed glutinous rice, and a 65.5g vegetable salad."
+        }
     },
     {
         "index": 172679,
@@ -2773,7 +2761,7 @@
         "meal_str": "Common climbing perch, grilled/ Ping Pa Khao||Drink water/ Nam Deum||Mirinda Strawberry / Mirinda Strawberry||Rice glutinous, polished, steamed/ Khao Niew||Sugarcane juice, fresh/ Nam Oiy||Yard long bean green salad/ Tam Mak Thour",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For lunch, I'm having 40.6g of grilled common climbing perch, along with 200g of water and 200g of Mirinda Strawberry.\",\n    \"description2\": \"I\u2019ve got a lunch of 525.5g of steamed polished glutinous rice and 200g of fresh sugarcane juice.\",\n    \"description3\": \"My lunch includes 50g of yard long bean green salad and a drink of 200g of Mirinda Strawberry.\",\n    \"description4\": \"I\u2019m enjoying lunch with 40.6g of grilled Ping Pa Khao and 200g of fresh sugarcane juice.\",\n    \"description5\": \"For lunch, I have 200g of water, 525.5g of steamed rice, and 50g of yard long bean salad.\"\n}",
-        "revised_description": "For lunch, I'm having 40.6g of grilled common climbing perch, along with 200g of water, 200g of Mirinda Strawberry, 525.5g of steamed glutinous rice, 200g of fresh sugarcane juice, and a tasty 50g yard long bean green salad on the side."
+        "revised_description": "For lunch, I'm having 40.6g of grilled common climbing perch, along with 200g of water and 200g of Mirinda Strawberry. I'm also enjoying 525.5g of steamed glutinous rice, 200g of fresh sugarcane juice, and a side of 50g of yard long bean green salad."
     },
     {
         "index": 172220,
@@ -3187,7 +3175,7 @@
         "meal_str": "Cabbage chinese ,Steaming/ Neung Phak Kart||Cabbage, Blanch / Luag Phak Ka Lam Pi||Chilli fresh sauce / Jeaw Mak Phet Soth||Drink water/ Nam Deum||Horse tamarind, young pods / Ka Thin On||Mango (Kaew variety), ripe / Mak Muang Keo||Papaya Salad/  Tam Mak Houng||Rice glutinous, polished, steamed/ Khao Niew||Water morning glory white stem / Phak Bong",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 154g of steamed Chinese cabbage, 29g of blanched cabbage, and 23.1g of fresh chili sauce. I also have 400g of water to drink.\",\n    \"description2\": \"I\u2019ve got 17.2g of young horse tamarind pods and 228g of ripe Kaew mango on the side. Plus, there's 200g of papaya salad and 418g of steamed glutinous rice.\",\n    \"description3\": \"I\u2019m enjoying 154g of Chinese cabbage and 29g of blanched cabbage with 23.1g of chili sauce. I\u2019ll wash it down with 400g of water.\",\n    \"description4\": \"For breakfast, I have 200g of papaya salad and 418g of steamed glutinous rice. I also included 228g of ripe mango and a drink of 400g of water.\",\n    \"description5\": \"I\u2019m starting my day with 154g of steamed cabbage, 29g of blanched cabbage, and 17.2g of horse tamarind. I also have 23.1g of chili sauce and 200g of papaya salad, all with 400g of water.\"\n}",
-        "revised_description": "For breakfast, I'm having 154g of steamed Chinese cabbage, 29g of blanched cabbage, and 23.1g of fresh chili sauce. I also have 400g of water to drink, along with 17.2g of young horse tamarind pods, 228g of ripe Kaew mango, 200g of papaya salad, 418g of polished steamed glutinous rice, and 16g of water morning glory."
+        "revised_description": "For breakfast, I'm having 154g of steamed Chinese cabbage, 29g of blanched cabbage, and 23.1g of fresh chili sauce. I also have 400g of water to drink. On the side, I've got 17.2g of young horse tamarind pods, 228g of ripe Kaew mango, 200g of papaya salad, and 418g of polished steamed glutinous rice. To top it off, I'm enjoying 16g of water morning glory with white stems."
     },
     {
         "index": 175321,
@@ -3763,7 +3751,7 @@
         "meal_str": "Cabbage chinese, blanch / Luag Phak Kart||Cabbage, Blanch / Luag Phak Ka Lam Pi||Crisp eggplant sauce / Jeaw Mak Keua||Drink water/ Nam Deum||Human milk, 6 month lactation/ Nom Mear 6 Deuan||Rice polished, steamed/  Khao Chao",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 30g of blanched Chinese cabbage and 40.5g of blanched cabbage. I also have 2.3g of crisp eggplant sauce on the side, along with 300g of water to drink.\",\n    \"description2\": \"I'm starting my day with 30 grams of blanch Luag Phak Kart cabbage, 40.5 grams of Luag Phak Ka Lam Pi cabbage, and a bit of 2.3 grams of Jeaw Mak Keua sauce. I\u2019ve got 300 grams of water to wash it down.\",\n    \"description3\": \"For breakfast, I have 30g of Chinese cabbage, 40.5g of another type of blanched cabbage, and a small amount of 2.3g of eggplant sauce. I'm also drinking 300g of water.\",\n    \"description4\": \"This morning, I\u2019m eating 30 grams of blanched Chinese cabbage, 40.5 grams of the other blanched cabbage, and 2.3 grams of crisp eggplant sauce. Plus, I\u2019m drinking 300 grams of water.\",\n    \"description5\": \"I\u2019m having a breakfast that includes 30g of Chinese cabbage, 40.5g of blanched cabbage, and 2.3g of eggplant sauce. To drink, I have 300g of water.\"\n}",
-        "revised_description": "For breakfast, I'm having 30.0g of blanched Chinese cabbage and 40.5g of blanched cabbage. I also have 2.3g of crisp eggplant sauce on the side, along with 300.0g of water to drink. Additionally, I'm enjoying 400.0g of human milk and 60.0g of steamed polished rice."
+        "revised_description": "For breakfast, I'm having 30.0g of blanched Chinese cabbage (Luag Phak Kart) and 40.5g of blanched cabbage (Luag Phak Ka Lam Pi). I also have 2.3g of crisp eggplant sauce (Jeaw Mak Keua) on the side, along with 300.0g of water (Nam Deum) to drink. Additionally, I've got 400.0g of human milk (Nom Mear 6 Deuan) for a little extra nourishment, and 60.0g of steamed polished rice (Khao Chao) to enjoy with my meal."
     },
     {
         "index": 176102,
@@ -4072,7 +4060,7 @@
         "meal_str": "Boiled Gunthers walking catfish with little water/ Or Pa Duk||Drink water/ Nam Deum||Pork bal, grilled / Ping Louk Sin Mou||Rice glutinous, polished, steamed/ Khao Niew||Snack from flour (corn, wheat, potato)/  Kha Nom||Soup, pork broth, Mungbean noodle/ Keang Sen Lon Sai Mou",
         "country": "LAO",
         "query": "{\n    \"description1\": \"For breakfast, I had 27g of boiled Gunthers walking catfish with a little water, along with 200g of water to drink.\",\n    \"description2\": \"I ate 24g of grilled pork bal and 98g of steamed glutinous rice for breakfast, and I drank 200g of water.\",\n    \"description3\": \"My breakfast included 18g of a flour snack made from corn, wheat, and potato, along with 160.2g of pork broth soup with mungbean noodles.\",\n    \"description4\": \"I enjoyed 27g of boiled catfish and 24g of grilled pork bal with 200g of water this morning.\",\n    \"description5\": \"For breakfast, I had 98g of steamed glutinous rice, 18g of a flour snack, and 160.2g of pork broth soup with mungbean noodles, along with 200g of water.\"\n}",
-        "revised_description": "For breakfast, I had 27.0g of boiled Gunthers walking catfish with a little water, along with 200.0g of water to drink. I also enjoyed 24.0g of grilled pork bal, 98.0g of steamed glutinous rice, an 18.0g snack made from flour, and 160.2g of pork broth soup with mungbean noodles."
+        "revised_description": "For breakfast, I had 27.0g of boiled Gunthers walking catfish with a little water, along with 200.0g of water to drink. I also enjoyed 24.0g of grilled pork ball, 98.0g of steamed glutinous rice, an 18.0g snack from flour, and a bowl of 160.2g of pork broth soup with mungbean noodles."
     },
     {
         "index": 175254,

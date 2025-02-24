@@ -893,7 +893,7 @@
         "meal_str": "FISH, BROILED||GREEN BEANS, COOKED||PUMPKIN, COOKED||WATER||WHITE RICE, COOKED",
         "country": "LKA",
         "query": "{\n    \"description1\": \"For breakfast, I had 50g of broiled fish, 60g of cooked green beans, and 90g of cooked pumpkin, along with 200g of cooked white rice and a glass of water.\",\n    \"description2\": \"I\u2019m starting my day with 50g of broiled fish, 60g of green beans, and 90g of pumpkin, paired with 200g of cooked white rice and some water.\",\n    \"description3\": \"This morning, I ate 50 grams of broiled fish, 60 grams of cooked green beans, and 90 grams of cooked pumpkin, plus 200 grams of cooked white rice and drank water.\",\n    \"description4\": \"For breakfast, I enjoyed 50g of fish, 60g of green beans, and 90g of pumpkin, served with 200g of white rice and a refreshing glass of water.\",\n    \"description5\": \"I had a breakfast with 50g of broiled fish, 60g of cooked green beans, 90g of pumpkin, 200g of cooked white rice, and water to drink.\"\n}",
-        "revised_description": "For breakfast, I had 50g of broiled fish, 60g of cooked green beans, and 90g of cooked pumpkin, along with 200g of cooked white rice and a glass of water (210g)."
+        "revised_description": "For breakfast, I had 50g of broiled fish, 60g of cooked green beans, and 90g of cooked pumpkin, along with 200g of cooked white rice and a glass of 210g of water."
     },
     {
         "index": 177313,
@@ -1643,9 +1643,6 @@
         "country": "LKA",
         "query": "{\n    \"description1\": \"For lunch, I had 20g of fish curry with 120g of boiled potatoes, 250g of cooked white rice, and a glass of water.\",\n    \"description2\": \"I enjoyed a 20g serving of fish curry, 120 grams of boiled potatoes, and 250 grams of cooked white rice with some water for lunch.\",\n    \"description3\": \"For my lunch, I had 20g fish curry, paired with 120g boiled potatoes and 250g cooked white rice, plus a glass of water.\",\n    \"description4\": \"Lunch consisted of 20g of fish curry, 120g of boiled potatoes, and 250g of cooked white rice, along with 250g of water.\",\n    \"description5\": \"I had a 20g fish curry with 120g of boiled potatoes and 250g of cooked white rice for lunch, and I drank 250g of water.\"\n}",
         "filtered_queries": {
-            "description1": "For lunch, I had 20g of fish curry with 120g of boiled potatoes, 250g of cooked white rice, and a glass of water.",
-            "description2": "I enjoyed a 20g serving of fish curry, 120 grams of boiled potatoes, and 250 grams of cooked white rice with some water for lunch.",
-            "description3": "For my lunch, I had 20g fish curry, paired with 120g boiled potatoes and 250g cooked white rice, plus a glass of water.",
             "description4": "Lunch consisted of 20g of fish curry, 120g of boiled potatoes, and 250g of cooked white rice, along with 250g of water.",
             "description5": "I had a 20g fish curry with 120g of boiled potatoes and 250g of cooked white rice for lunch, and I drank 250g of water."
         }
@@ -1940,7 +1937,6 @@
             "description1": "For lunch, I'm having 30g of cooked beets, 30g of cooked green beans, 30g of ladies' finger, and 200g of cooked white rice.",
             "description2": "I just ate 30 grams of cooked beets and 30 grams of green beans along with 30 grams of ladies' finger and 200 grams of white rice for lunch.",
             "description3": "For lunch today, I had 30g of cooked beets, 30g of green beans, 30g of ladies' finger, and a generous 200g serving of cooked white rice.",
-            "description4": "I enjoyed a lunch with 30 grams each of cooked beets, green beans, and ladies' finger, plus 200 grams of cooked white rice.",
             "description5": "At lunch, I had 30g of cooked beets, 30g of cooked green beans, 30g of ladies' finger, and 200g of white rice on my plate."
         }
     },
@@ -3070,7 +3066,7 @@
         "meal_str": "CHICKEN BREAST GRILLED||CUTLET||MIXED VEGETABLES||PAPAD||POTATO, BOILED",
         "country": "LKA",
         "query": "{\n    \"description1\": \"For lunch, I'm having a grilled chicken breast weighing 61 grams, a 65-gram cutlet, 210 grams of mixed vegetables, one gram of papad, and 30 grams of boiled potatoes.\",\n    \"description2\": \"Lunch consists of 61g of grilled chicken breast, a 65g cutlet, 210g of mixed vegetables, one papad, and 30g of boiled potatoes.\",\n    \"description3\": \"I have a lunch that includes 61 grams of grilled chicken breast, a 65-gram cutlet, 210 grams of mixed veggies, one gram of papad, and 30 grams of boiled potatoes.\",\n    \"description4\": \"For my lunch, I\u2019m enjoying 61g of grilled chicken breast, a cutlet that weighs 65 grams, 210 grams of mixed vegetables, a single gram of papad, and 30 grams of boiled potatoes.\",\n    \"description5\": \"I'm having lunch with a 61g grilled chicken breast, 65g cutlet, 210g mixed vegetables, one gram of papad, and 30g of boiled potatoes.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For lunch, I'm having a grilled chicken breast weighing 61 grams, a 65-gram cutlet, 210 grams of mixed vegetables, one gram of papad, and 30 grams of boiled potatoes. I also have some tasty boiled broccoli and carrots on the side, adding a little extra flavor to my meal! I\u2019ve got the grilled chicken breast at 61g, the delicious cutlet at 65g, a generous serving of mixed vegetables at 210g, just a smidge of papad at 1g, and my wholesome boiled potatoes at 30g. Everything's just coming together perfectly!"
     },
     {
         "index": 177106,

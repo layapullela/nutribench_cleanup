@@ -35,7 +35,6 @@
         "query": "{\"description1\": \"For dinner, I had a 50g cup of coffee, spread 5g of margarine on 25g of wheat bread, and added 30g of raw mortadella with a sprinkle of 5g of sugar.\", \"description2\": \"I enjoyed 50 grams of coffee with 25g of wheat bread topped with 5g of margarine, along with 30g of raw mortadella and a bit of sugar.\", \"description3\": \"Dinner consisted of 50g of coffee, 5g of margarine on 25g of wheat bread, 30g of mortadella, and 5g of sugar.\", \"description4\": \"I made a meal with 50 grams of coffee, 25g of wheat bread with 5g of margarine, and 30g of raw mortadella, finished off with 5g of sugar.\", \"description5\": \"For dinner, I had a 50g coffee, 25g of wheat bread with 5g of margarine, 30g of mortadella, and a little bit of sugar, about 5g.\"}",
         "filtered_queries": {
             "description1": "For dinner, I had a 50g cup of coffee, spread 5g of margarine on 25g of wheat bread, and added 30g of raw mortadella with a sprinkle of 5g of sugar.",
-            "description2": "I enjoyed 50 grams of coffee with 25g of wheat bread topped with 5g of margarine, along with 30g of raw mortadella and a bit of sugar.",
             "description3": "Dinner consisted of 50g of coffee, 5g of margarine on 25g of wheat bread, 30g of mortadella, and 5g of sugar.",
             "description4": "I made a meal with 50 grams of coffee, 25g of wheat bread with 5g of margarine, and 30g of raw mortadella, finished off with 5g of sugar.",
             "description5": "For dinner, I had a 50g coffee, 25g of wheat bread with 5g of margarine, 30g of mortadella, and a little bit of sugar, about 5g."
@@ -225,7 +224,6 @@
         "filtered_queries": {
             "description1": "For breakfast, I had 140g of mixed beans, a 50g fried chicken egg, and a coffee with milk made with 50g of coffee. I also added 5g of sugar.",
             "description2": "I\u2019m starting my day with 140 grams of various beans, a 50g fried egg, and a coffee with milk that includes 50g of coffee and 5g of sugar.",
-            "description3": "For breakfast, I enjoyed 140g of black and other beans, a 50g fried egg, and a cup of coffee with milk, sweetened with 5g of sugar.",
             "description4": "This morning, I had 140 grams of beans, a fried chicken egg weighing 50g, and a 50g coffee with milk, plus 5 grams of sugar.",
             "description5": "I had a breakfast of 140g of assorted beans, a 50g fried egg, and coffee with milk made from 50g of coffee and 5g of sugar."
         }
@@ -557,7 +555,7 @@
         "meal_str": "BEANS (BLACK, MULATTO, PURPLE, PINK, ETC.), NOT DETERMINED||CARROT, GRIDDLING||CHICKEN OR POULTRY BREAST, ROASTING||CUCUMBER, RAW||LETTUCE, TOMATO, AND ONION SALAD, NOT DETERMINED||OLIVE OIL, NOT APPLICABLE||PUMPKIN, COOKING WITHOUT FATS/OILS||RICE (POLISHED, PARBOILED, NEEDLE, NEEDLED, ETC.), NOT DETERMINED",
         "country": "BRA",
         "query": "{\n    \"description1\": \"For lunch, I'm having 140g of various black and multicolored beans, along with 25g of grilled carrots, and 360g of roasted chicken breast.\",\n    \"description2\": \"I have a salad with 60g of lettuce, tomato, and onion, paired with 36g of raw cucumber and dressed with 19.2g of olive oil.\",\n    \"description3\": \"On my plate, there's 150g of cooked pumpkin, 100g of polished rice, and I also included 140g of mixed beans.\",\n    \"description4\": \"For lunch, I made a bowl with 360g of roasted chicken, 25g of griddled carrots, and a side of 100g of rice.\",\n    \"description5\": \"I'm enjoying 19.2g of olive oil on my salad with 60g of lettuce, tomato, and onion, along with 36g of cucumber, and some beans.\"\n}",
-        "revised_description": "For lunch, I'm having 140g of various black and multicolored beans, along with 25g of grilled carrots, and 360g of roasted chicken breast, 36g of fresh cucumber, a nice mix of 60g of lettuce, tomato, and onion salad, a drizzle of 19.2g of olive oil, 150g of cooked pumpkin, and 100g of polished rice."
+        "revised_description": "For lunch, I'm having 140g of various black and multicolored beans, along with 25g of grilled carrots, 360g of roasted chicken breast, 36g of raw cucumber, 60g of a salad with lettuce, tomato, and onion, 19.2g of olive oil, 150g of cooked pumpkin without fats or oils, and 100g of polished rice."
     },
     {
         "index": 37813,
@@ -884,7 +882,7 @@
         "meal_str": "BEANS (BLACK, MULATTO, PURPLE, PINK, ETC.), NOT DETERMINED||MAYONNAISE (SAUCE), NOT APPLICABLE||NATURAL FRUIT JUICE, NOT DETERMINED||PORK CHOP, ROASTING||RICE (POLISHED, PARBOILED, NEEDLE, NEEDLED, ETC.), NOT DETERMINED||SUGAR, NOT APPLICABLE||VEGETABLE SALAD, NOT DETERMINED",
         "country": "BRA",
         "query": "{\n    \"description1\": \"For lunch, I had 35g of mixed beans and 70g of roasted pork chop, along with 90g of rice and 200g of natural fruit juice.\",\n    \"description2\": \"I ate a 34g vegetable salad and spread 6.8g of mayonnaise on the side, paired with 20g of sugar for a little sweetness with my meal.\",\n    \"description3\": \"Lunch included 70g of pork chop, 90g of rice, and a 35g serving of black beans, plus 200g of fruit juice to drink.\",\n    \"description4\": \"I enjoyed a vegetable salad weighing 34g, alongside 35g of beans and 6.8g of mayonnaise, with 70g of roasted pork chop as the main dish.\",\n    \"description5\": \"For lunch, I combined 90g of rice with 70g of roasted pork chop and a 200g glass of fruit juice, and finished off with 20g of sugar on the side.\"\n}",
-        "revised_description": "For lunch, I had 35g of mixed beans, 35g of black beans, and 70g of roasted pork chop, along with 90g of rice and 200g of natural fruit juice. I also added a little bit of mayonnaise, about 6.8g, for some extra flavor, and enjoyed a side of vegetable salad weighing 34g. To sweeten things up, I sprinkled 20g of sugar over my fruit juice."
+        "revised_description": "For lunch, I had 35g of mixed beans, 35g of black beans, and 70g of roasted pork chop, along with 90g of rice and 200g of natural fruit juice. I also enjoyed 6.8g of mayonnaise and 34g of vegetable salad on the side, topped with a sprinkle of 20g of sugar for a touch of sweetness."
     },
     {
         "index": 124646,
@@ -964,10 +962,7 @@
         "query": "{\n    \"description1\": \"For dinner, I have a 170g sandwich, along with 8.5g of ketchup, 34g of mayonnaise, and 8.5g of mustard sauce. I\u2019m also having 400g of regular cola.\",\n    \"description2\": \"I\u2019m eating a 170g sandwich for dinner, with 8.5g of ketchup and 34g of mayo on the side. I\u2019ll wash it down with 400g of cola.\",\n    \"description3\": \"Dinner includes a 170g sandwich, 8.5g of ketchup, 34g of mayonnaise, and a bit of mustard sauce, plus a 400g drink of regular cola.\",\n    \"description4\": \"I\u2019ve got a 170g sandwich for dinner, paired with 8.5g of ketchup, 34g of mayonnaise, and 8.5g of mustard, along with 400g of regular cola.\",\n    \"description5\": \"For dinner, I\u2019m having a sandwich that weighs 170g, with 8.5g of ketchup and 34g of mayonnaise. I\u2019ll also drink 400g of cola.\"\n}",
         "filtered_queries": {
             "description1": "For dinner, I have a 170g sandwich, along with 8.5g of ketchup, 34g of mayonnaise, and 8.5g of mustard sauce. I\u2019m also having 400g of regular cola.",
-            "description2": "I\u2019m eating a 170g sandwich for dinner, with 8.5g of ketchup and 34g of mayo on the side. I\u2019ll wash it down with 400g of cola.",
-            "description3": "Dinner includes a 170g sandwich, 8.5g of ketchup, 34g of mayonnaise, and a bit of mustard sauce, plus a 400g drink of regular cola.",
-            "description4": "I\u2019ve got a 170g sandwich for dinner, paired with 8.5g of ketchup, 34g of mayonnaise, and 8.5g of mustard, along with 400g of regular cola.",
-            "description5": "For dinner, I\u2019m having a sandwich that weighs 170g, with 8.5g of ketchup and 34g of mayonnaise. I\u2019ll also drink 400g of cola."
+            "description4": "I\u2019ve got a 170g sandwich for dinner, paired with 8.5g of ketchup, 34g of mayonnaise, and 8.5g of mustard, along with 400g of regular cola."
         }
     },
     {
@@ -1843,7 +1838,7 @@
         "meal_str": "CHICKPEAS, NOT DETERMINED||CHOPPED CHICKEN, ROASTING||ORANGE JUICE, NOT DETERMINED||SUGAR, NOT APPLICABLE||VEGETABLE AND GREENS SALAD, NOT DETERMINED||WHOLE GRAIN RICE, NOT DETERMINED",
         "country": "BRA",
         "query": "{\n    \"description1\": \"For lunch, I had 36g of chickpeas, 100g of roasted chopped chicken, and 300g of orange juice. I also had a salad with 34g of vegetables and greens, along with 198g of whole grain rice.\",\n    \"description2\": \"I enjoyed a lunch that included 100g of chopped roasted chicken, 36g of chickpeas, and 300g of orange juice. I also had a vegetable and greens salad weighing 34g and 198g of whole grain rice.\",\n    \"description3\": \"At lunch, I ate 36g of chickpeas, 100g of roasted chicken, and drank 300g of orange juice. My meal also had a 34g vegetable salad and 198g of whole grain rice.\",\n    \"description4\": \"For lunch, I had a combination of 100g roasted chicken, 36g chickpeas, and 300g orange juice, plus a 34g salad and 198g of whole grain rice.\",\n    \"description5\": \"I had 36g of chickpeas and 100g of roasted chicken for lunch, along with 300g of orange juice, a 34g vegetable salad, and 198g of whole grain rice.\"\n}",
-        "revised_description": "For lunch, I had 36.0g of chickpeas, 100.0g of roasted chopped chicken, and 300.0g of orange juice. I also had a salad with 34.0g of vegetables and greens, along with 198.0g of whole grain rice. To sweeten things up a bit, I added 30.0g of sugar to my meal."
+        "revised_description": "For lunch, I had 36.0g of chickpeas, 100.0g of roasted chopped chicken, and 300.0g of orange juice. I also had a salad with 34.0g of vegetables and greens, along with 198.0g of whole grain rice. To sweeten things up a bit, I added 30.0g of sugar into my orange juice."
     },
     {
         "index": 75761,
@@ -1860,10 +1855,7 @@
         "query": "{\n    \"description1\": \"For dinner, I had 180g of Calabrese pizza, 9g of ketchup, 9g of mustard sauce, and 600g of regular cola.\",\n    \"description2\": \"I enjoyed a dinner that included 180 grams of Calabrese pizza along with 9 grams each of ketchup and mustard sauce, plus 600 grams of cola.\",\n    \"description3\": \"Dinner was 180g of Calabrese pizza, 9g of ketchup, 9g of mustard sauce, and a big 600g serving of regular cola.\",\n    \"description4\": \"I\u2019m having 180 grams of Calabrese pizza for dinner, with 9 grams of ketchup and mustard sauce on the side, and a 600g cola to drink.\",\n    \"description5\": \"For my dinner, I had 180g of Calabrese pizza, paired with 9g of both ketchup and mustard sauce, plus a 600g cola.\"\n}",
         "filtered_queries": {
             "description1": "For dinner, I had 180g of Calabrese pizza, 9g of ketchup, 9g of mustard sauce, and 600g of regular cola.",
-            "description2": "I enjoyed a dinner that included 180 grams of Calabrese pizza along with 9 grams each of ketchup and mustard sauce, plus 600 grams of cola.",
-            "description3": "Dinner was 180g of Calabrese pizza, 9g of ketchup, 9g of mustard sauce, and a big 600g serving of regular cola.",
-            "description4": "I\u2019m having 180 grams of Calabrese pizza for dinner, with 9 grams of ketchup and mustard sauce on the side, and a 600g cola to drink.",
-            "description5": "For my dinner, I had 180g of Calabrese pizza, paired with 9g of both ketchup and mustard sauce, plus a 600g cola."
+            "description3": "Dinner was 180g of Calabrese pizza, 9g of ketchup, 9g of mustard sauce, and a big 600g serving of regular cola."
         }
     },
     {
@@ -3128,13 +3120,7 @@
         "meal_str": "COFFEE WITH MILK, NOT DETERMINED||COXINHA, NOT DETERMINED||KETCHUP, NOT APPLICABLE||MUSTARD SAUCE, NOT APPLICABLE||SUGAR, NOT APPLICABLE",
         "country": "BRA",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 50g of coffee with milk, 100g of coxinha, and I added 5g of ketchup and 5g of mustard sauce.\",\n    \"description2\": \"I started my day with a 50g cup of coffee with milk and a 100g coxinha, along with 5g each of ketchup and mustard.\",\n    \"description3\": \"This morning, I had 50g of coffee with milk, a 100g coxinha, and 5g of both ketchup and mustard sauce.\",\n    \"description4\": \"I enjoyed 50 grams of coffee with milk for breakfast, along with a 100g coxinha and some ketchup and mustard, each 5 grams.\",\n    \"description5\": \"For breakfast today, I had 50g of coffee with milk, a 100g coxinha, and topped it off with 5g of ketchup and 5g of mustard sauce.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 50g of coffee with milk, 100g of coxinha, and I added 5g of ketchup and 5g of mustard sauce.",
-            "description2": "I started my day with a 50g cup of coffee with milk and a 100g coxinha, along with 5g each of ketchup and mustard.",
-            "description3": "This morning, I had 50g of coffee with milk, a 100g coxinha, and 5g of both ketchup and mustard sauce.",
-            "description4": "I enjoyed 50 grams of coffee with milk for breakfast, along with a 100g coxinha and some ketchup and mustard, each 5 grams.",
-            "description5": "For breakfast today, I had 50g of coffee with milk, a 100g coxinha, and topped it off with 5g of ketchup and 5g of mustard sauce."
-        }
+        "revised_description": "For breakfast, I'm having 50g of coffee with milk, 100g of coxinha, 5g of ketchup, and 5g of mustard sauce. I also added 5g of sugar to my coffee."
     },
     {
         "index": 85191,
@@ -3191,7 +3177,7 @@
         "meal_str": "BANANA (GOLD, SILVER, WATER, ETC.), NOT DETERMINED||FRUIT JAM (EXCEPT CANE), NOT DETERMINED||LIGHT LIQUID SWEETENER, NOT DETERMINED||MORTADELLA, FRYING||SWEET OR SAVORY CREAM, NOT DETERMINED||UNSPECIFIED WHITE BREAD, NOT DETERMINED||WATER, NOT DETERMINED||WHOLE COW'S MILK, NOT DETERMINED",
         "country": "BRA",
         "query": "{\n    \"description1\": \"For breakfast, I had 75g of banana, 34g of fruit jam, and 15g of fried mortadella on 25g of unspecified white bread. I also had 300g of whole cow's milk and a bit of light liquid sweetener.\",\n    \"description2\": \"I started my day with 75 grams of banana and 34 grams of fruit jam, topped with 15g of fried mortadella on 25g of white bread. I washed it down with 300g of whole milk and a dash of light sweetener.\",\n    \"description3\": \"This morning, I enjoyed 75g of banana, 34g of fruit jam, and 15g of mortadella on 25g of white bread. I also drank 300g of whole milk, adding a little light sweetener.\",\n    \"description4\": \"For breakfast, I had a combination of 75g of banana with 34g of fruit jam and 15g of frying mortadella on 25g of white bread. I also had 300g of whole milk and a small amount of light liquid sweetener.\",\n    \"description5\": \"I had 75 grams of banana and 34 grams of fruit jam for breakfast, along with 15 grams of fried mortadella on 25 grams of unspecified white bread. To drink, I had 300 grams of whole cow's milk with a touch of light sweetener.\"\n}",
-        "revised_description": "For breakfast, I had 75.0g of banana, 34.0g of fruit jam, and 15.0g of fried mortadella on 25.0g of unspecified white bread. I also had 300.0g of whole cow's milk, a bit of light liquid sweetener (1.5g), 20.0g of sweet cream, and 300.0g of water."
+        "revised_description": "For breakfast, I had 75g of banana, 34g of fruit jam, and 15g of fried mortadella on 25g of unspecified white bread. I also had 300g of whole cow's milk, 300g of water, and a bit of light liquid sweetener (1.5g). I added 20g of sweet cream to round it all off."
     },
     {
         "index": 89083,
@@ -3837,7 +3823,6 @@
         "query": "{\n    \"description1\": \"For breakfast, I'm having 300g of coffee with milk, 260g of pudding, 30g of sugar, and 300g of water.\",\n    \"description2\": \"I\u2019ve got 300 grams of coffee with milk and 260 grams of pudding for breakfast, along with 30 grams of sugar and some water.\",\n    \"description3\": \"At breakfast, I'm enjoying 300g of coffee with milk, 260g of any flavor pudding, 30g of sugar, and 300g of water.\",\n    \"description4\": \"For breakfast, it's 300 grams of coffee with milk, 260 grams of pudding, a bit of sugar at 30 grams, and 300 grams of water.\",\n    \"description5\": \"I\u2019m starting my day with 300g of coffee with milk, 260g of pudding, 30g of sugar, and 300g of water for breakfast.\"\n}",
         "filtered_queries": {
             "description1": "For breakfast, I'm having 300g of coffee with milk, 260g of pudding, 30g of sugar, and 300g of water.",
-            "description2": "I\u2019ve got 300 grams of coffee with milk and 260 grams of pudding for breakfast, along with 30 grams of sugar and some water.",
             "description3": "At breakfast, I'm enjoying 300g of coffee with milk, 260g of any flavor pudding, 30g of sugar, and 300g of water.",
             "description4": "For breakfast, it's 300 grams of coffee with milk, 260 grams of pudding, a bit of sugar at 30 grams, and 300 grams of water.",
             "description5": "I\u2019m starting my day with 300g of coffee with milk, 260g of pudding, 30g of sugar, and 300g of water for breakfast."
@@ -3897,7 +3882,7 @@
         "meal_str": "BEANS (BLACK, MULATTO, PURPLE, PINK, ETC.), NOT DETERMINED||CHICKEN OR CHICKEN IN BROWN SAUCE / CABIDELA, NOT DETERMINED||FAROFA (FLOUR), NOT DETERMINED||LETTUCE, TOMATO, AND ONION SALAD, NOT DETERMINED||PACOCA (SWEET OF PEANUT), NOT DETERMINED||WHITE RICE, NOT DETERMINED",
         "country": "BRA",
         "query": "{\n    \"description1\": \"For dinner, I had 280 grams of mixed black beans, 120 grams of chicken in brown sauce, and 175 grams of white rice. I also had a 70g salad with lettuce, tomato, and onion, and finished off with 30 grams of pa\u00e7oca.\",\n    \"description2\": \"I enjoyed 280g of black beans along with 120g of chicken in brown sauce for dinner. On the side, there was 175g of white rice and a 70g salad with lettuce, tomato, and onion, plus 45g of farofa.\",\n    \"description3\": \"For dinner, I had a plate with 280 grams of beans, 120 grams of chicken in brown sauce, and a serving of 175 grams of white rice. I included a salad with lettuce, tomato, and onion weighing 70 grams, and 30 grams of pa\u00e7oca for dessert.\",\n    \"description4\": \"I had 280g of black beans and 120g of chicken in brown sauce for dinner, served with 175g of white rice. I also had a 70g salad of lettuce, tomato, and onion, and finished with 45 grams of farofa.\",\n    \"description5\": \"For dinner, I served myself 280 grams of mixed beans, 120 grams of chicken in brown sauce, and a side of 175 grams of white rice. I added a 70g salad with lettuce, tomato, and onion, along with 30 grams of pa\u00e7oca.\"\n}",
-        "revised_description": "For dinner, I had 280 grams of mixed black beans, 120 grams of chicken in brown sauce, and 175 grams of white rice. I also had a 70g salad with lettuce, tomato, and onion, topped it off with 45 grams of farofa, and finished off with 30 grams of pa\u00e7oca."
+        "revised_description": "For dinner, I had 280 grams of mixed black beans, 120 grams of chicken in brown sauce, and 175 grams of white rice. I also had a 70-gram salad with lettuce, tomato, and onion, enjoyed some 45 grams of farofa, and finished off with 30 grams of pa\u00e7oca."
     },
     {
         "index": 105235,

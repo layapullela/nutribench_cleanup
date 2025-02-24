@@ -118,10 +118,7 @@
         "country": "PAK",
         "query": "{\n    \"description1\": \"For lunch, I had a 63g chapatti made from wheat flour without ghee and 14.6g of spinach curry.\",\n    \"description2\": \"I enjoyed a 63.1g chapatti and some spinach curry weighing 14.6g for lunch.\",\n    \"description3\": \"Lunch today was a 63g wheat chapatti without ghee along with 14.6g of spinach curry.\",\n    \"description4\": \"I ate a 63g chapatti and 14.6g of spinach curry for lunch.\",\n    \"description5\": \"For lunch, I had a chapatti weighing 63.1g and a small serving of spinach curry at 14.6g.\"\n}",
         "filtered_queries": {
-            "description1": "For lunch, I had a 63g chapatti made from wheat flour without ghee and 14.6g of spinach curry.",
             "description2": "I enjoyed a 63.1g chapatti and some spinach curry weighing 14.6g for lunch.",
-            "description3": "Lunch today was a 63g wheat chapatti without ghee along with 14.6g of spinach curry.",
-            "description4": "I ate a 63g chapatti and 14.6g of spinach curry for lunch.",
             "description5": "For lunch, I had a chapatti weighing 63.1g and a small serving of spinach curry at 14.6g."
         }
     },
@@ -264,13 +261,7 @@
         "meal_str": "Chapatti, wheat flour without ghee||Fish, perch, curry||Yogurt drink",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For dinner, I'm having a 63g chapatti made with wheat flour, 43g of perch fish curry, and a 125g yogurt drink.\",\n    \"description2\": \"I just served myself a 63g chapatti, along with 43g of curry made with perch fish, and I'm drinking 125g of yogurt drink for dinner.\",\n    \"description3\": \"For dinner, I've got a 63g wheat flour chapatti, 43g of curry with perch fish, and a 125g yogurt drink on the side.\",\n    \"description4\": \"I\u2019m enjoying a 63g chapatti without ghee, 43g of perch fish curry, and a 125g yogurt drink for dinner.\",\n    \"description5\": \"Tonight\u2019s dinner includes a 63g chapatti, 43g of perch fish curry, and a 125g yogurt drink.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having a 63g chapatti made with wheat flour, 43g of perch fish curry, and a 125g yogurt drink.",
-            "description2": "I just served myself a 63g chapatti, along with 43g of curry made with perch fish, and I'm drinking 125g of yogurt drink for dinner.",
-            "description3": "For dinner, I've got a 63g wheat flour chapatti, 43g of curry with perch fish, and a 125g yogurt drink on the side.",
-            "description4": "I\u2019m enjoying a 63g chapatti without ghee, 43g of perch fish curry, and a 125g yogurt drink for dinner.",
-            "description5": "Tonight\u2019s dinner includes a 63g chapatti, 43g of perch fish curry, and a 125g yogurt drink."
-        }
+        "revised_description": "For dinner, I'm having a 63.1g chapatti made with wheat flour, 42.6g of perch fish curry, and a 124.9g yogurt drink."
     },
     {
         "index": 210442,
@@ -1037,10 +1028,8 @@
         "query": "{\"description1\": \"For dinner, I'm having 217 grams of orange-fleshed melon, along with 18 grams of muskmelon and 18 grams of ripe watermelon.\", \"description2\": \"I\u2019ve got a dinner serving that includes 217g of orange melon, plus 18g each of muskmelon and ripe watermelon.\", \"description3\": \"At dinner, I\u2019m enjoying 217 grams of orange-fleshed melon, with a side of 18 grams of muskmelon and 18 grams of watermelon.\", \"description4\": \"I\u2019m having 217g of orange melon for dinner, with 18g of muskmelon and another 18g of ripe watermelon on the side.\", \"description5\": \"For dinner, I\u2019m eating 217 grams of orange melon, along with some muskmelon and watermelon, both at 18 grams.\"}",
         "filtered_queries": {
             "description1": "For dinner, I'm having 217 grams of orange-fleshed melon, along with 18 grams of muskmelon and 18 grams of ripe watermelon.",
-            "description2": "I\u2019ve got a dinner serving that includes 217g of orange melon, plus 18g each of muskmelon and ripe watermelon.",
             "description3": "At dinner, I\u2019m enjoying 217 grams of orange-fleshed melon, with a side of 18 grams of muskmelon and 18 grams of watermelon.",
-            "description4": "I\u2019m having 217g of orange melon for dinner, with 18g of muskmelon and another 18g of ripe watermelon on the side.",
-            "description5": "For dinner, I\u2019m eating 217 grams of orange melon, along with some muskmelon and watermelon, both at 18 grams."
+            "description4": "I\u2019m having 217g of orange melon for dinner, with 18g of muskmelon and another 18g of ripe watermelon on the side."
         }
     },
     {
@@ -1392,13 +1381,7 @@
         "meal_str": "Chapatti, wheat flour with ghee||Fish, perch, curry||Yogurt drink",
         "country": "PAK",
         "query": "{\"description1\": \"For dinner, I'm having 132g of chapatti made with wheat flour and ghee, alongside 113g of perch curry, and a yogurt drink that weighs 200g.\", \"description2\": \"I\u2019ve got a dinner consisting of a 132g chapatti with ghee, 113g of fish curry made with perch, and a 200g yogurt drink.\", \"description3\": \"Tonight's dinner includes 132g of chapatti, 113g of perch curry, and a 200g yogurt drink.\", \"description4\": \"I'm enjoying a 132g wheat flour chapatti with ghee for dinner, along with 113g of curry made with perch fish and a 200g yogurt drink.\", \"description5\": \"For dinner, I\u2019m having 132g of chapatti, 113g of curry with perch, and a nice 200g serving of yogurt drink.\"}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having 132g of chapatti made with wheat flour and ghee, alongside 113g of perch curry, and a yogurt drink that weighs 200g.",
-            "description2": "I\u2019ve got a dinner consisting of a 132g chapatti with ghee, 113g of fish curry made with perch, and a 200g yogurt drink.",
-            "description3": "Tonight's dinner includes 132g of chapatti, 113g of perch curry, and a 200g yogurt drink.",
-            "description4": "I'm enjoying a 132g wheat flour chapatti with ghee for dinner, along with 113g of curry made with perch fish and a 200g yogurt drink.",
-            "description5": "For dinner, I\u2019m having 132g of chapatti, 113g of curry with perch, and a nice 200g serving of yogurt drink."
-        }
+        "revised_description": "For dinner, I'm having 132.3g of chapatti made with wheat flour and ghee, alongside 112.9g of perch curry, and a yogurt drink that weighs 199.8g."
     },
     {
         "index": 210706,
@@ -2079,13 +2062,7 @@
         "meal_str": "Chapatti, wheat flour without ghee||Red chilli chutney",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For lunch, I'm having a 63g chapatti made from wheat flour without ghee and a bit of red chilli chutney weighing 0.7g.\",\n    \"description2\": \"I\u2019ve got a 63g wheat flour chapatti and just 0.7g of red chilli chutney for my lunch.\",\n    \"description3\": \"Lunch today includes a 63g chapatti without ghee and a small portion of red chilli chutney at 0.7g.\",\n    \"description4\": \"I'm eating a chapatti made from wheat flour, which is about 63g, along with 0.7g of red chilli chutney for lunch.\",\n    \"description5\": \"For lunch, I\u2019m enjoying a 63g chapatti without ghee and a tiny bit of red chilli chutney that\u2019s 0.7g.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having a 63g chapatti made from wheat flour without ghee and a bit of red chilli chutney weighing 0.7g.",
-            "description2": "I\u2019ve got a 63g wheat flour chapatti and just 0.7g of red chilli chutney for my lunch.",
-            "description3": "Lunch today includes a 63g chapatti without ghee and a small portion of red chilli chutney at 0.7g.",
-            "description4": "I'm eating a chapatti made from wheat flour, which is about 63g, along with 0.7g of red chilli chutney for lunch.",
-            "description5": "For lunch, I\u2019m enjoying a 63g chapatti without ghee and a tiny bit of red chilli chutney that\u2019s 0.7g."
-        }
+        "revised_description": "For lunch, I'm having a 63.1g chapatti made from wheat flour without ghee and a bit of red chilli chutney weighing 0.7g."
     },
     {
         "index": 210575,
@@ -2331,13 +2308,7 @@
         "meal_str": "Chapatti, wheat flour with ghee||Fish, perch, curry||Milk, buffalo, fresh, whole, boiled/heated",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For dinner, I had 132g of chapatti made with wheat flour and ghee, along with 64g of perch curry, and a glass of 250g of fresh boiled buffalo milk.\",\n    \"description2\": \"I enjoyed 132 grams of chapatti with ghee, paired with 64 grams of fish curry, and finished off with 250 grams of boiled buffalo milk for dinner.\",\n    \"description3\": \"Dinner consisted of 132g chapatti cooked with ghee, 64g of curry with perch fish, and 250g of fresh buffalo milk.\",\n    \"description4\": \"I had 132 grams of wheat chapatti with ghee, 64 grams of perch curry, and 250 grams of whole boiled buffalo milk for my dinner.\",\n    \"description5\": \"For dinner, I ate chapatti (132g) with ghee, some perch fish curry (64g), and drank 250g of boiled buffalo milk.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I had 132g of chapatti made with wheat flour and ghee, along with 64g of perch curry, and a glass of 250g of fresh boiled buffalo milk.",
-            "description2": "I enjoyed 132 grams of chapatti with ghee, paired with 64 grams of fish curry, and finished off with 250 grams of boiled buffalo milk for dinner.",
-            "description3": "Dinner consisted of 132g chapatti cooked with ghee, 64g of curry with perch fish, and 250g of fresh buffalo milk.",
-            "description4": "I had 132 grams of wheat chapatti with ghee, 64 grams of perch curry, and 250 grams of whole boiled buffalo milk for my dinner.",
-            "description5": "For dinner, I ate chapatti (132g) with ghee, some perch fish curry (64g), and drank 250g of boiled buffalo milk."
-        }
+        "revised_description": "For dinner, I had 132.3g of chapatti made with wheat flour and ghee, along with 63.6g of perch curry, and a glass of 250g of fresh boiled buffalo milk."
     },
     {
         "index": 210805,
@@ -2608,8 +2579,7 @@
             "description1": "For a snack, I had 15.2 grams of raw dates, a 15.2g fruit-flavored drink, 12 grams of muskmelon, and 10 grams of ripe watermelon.",
             "description2": "I enjoyed a snack with 15.2g of raw dates, 15.2g of a fruit drink, along with 12g of muskmelon and 10g of watermelon.",
             "description3": "I munched on 15.2 grams of raw dates for a snack, paired with a 15.2g fruit-flavored drink, 12g of muskmelon, and 10g of watermelon.",
-            "description4": "For my snack, I had 15.2g of raw dates, a 15.2g fruit drink, 12 grams of muskmelon, and 10 grams of ripe watermelon.",
-            "description5": "I had a light snack with 15.2 grams of raw dates, a fruit-flavored drink of the same weight, 12 grams of muskmelon, and 10 grams of watermelon."
+            "description4": "For my snack, I had 15.2g of raw dates, a 15.2g fruit drink, 12 grams of muskmelon, and 10 grams of ripe watermelon."
         }
     },
     {
@@ -2625,13 +2595,7 @@
         "meal_str": "Chapatti, wheat flour with ghee||Green chilli chutney||Yogurt drink",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For lunch, I'm having 132g of chapatti made with wheat flour and ghee, along with 2g of green chili chutney and a 100g yogurt drink.\",\n    \"description2\": \"I\u2019ve got a 132g chapatti with ghee, 2g of green chili chutney, and a 100g yogurt drink for lunch.\",\n    \"description3\": \"Lunch today includes 132g of wheat chapatti with ghee, 2g of green chili chutney, and a yogurt drink that weighs about 100g.\",\n    \"description4\": \"I\u2019m eating 132g of chapatti with ghee, 2g of green chili chutney, and a 100g yogurt drink for lunch.\",\n    \"description5\": \"For lunch, I have 132g of chapatti, 2g of green chili chutney, and a yogurt drink that\u2019s 100g.\"\n}",
-        "filtered_queries": {
-            "description1": "For lunch, I'm having 132g of chapatti made with wheat flour and ghee, along with 2g of green chili chutney and a 100g yogurt drink.",
-            "description2": "I\u2019ve got a 132g chapatti with ghee, 2g of green chili chutney, and a 100g yogurt drink for lunch.",
-            "description3": "Lunch today includes 132g of wheat chapatti with ghee, 2g of green chili chutney, and a yogurt drink that weighs about 100g.",
-            "description4": "I\u2019m eating 132g of chapatti with ghee, 2g of green chili chutney, and a 100g yogurt drink for lunch.",
-            "description5": "For lunch, I have 132g of chapatti, 2g of green chili chutney, and a yogurt drink that\u2019s 100g."
-        }
+        "revised_description": "For lunch, I'm having 132.3g of chapatti made with wheat flour and ghee, along with 2g of green chili chutney and a 99.9g yogurt drink."
     },
     {
         "index": 210885,
@@ -2772,7 +2736,7 @@
         "meal_str": "Red chilli chutney||Rice, white, milled, boiled",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For lunch, I'm having 246 grams of boiled white rice with a bit of red chili chutney.\",\n    \"description2\": \"I made a lunch of 246g of boiled white rice and added some red chili chutney on the side.\",\n    \"description3\": \"I'm eating 246 grams of boiled white rice with a small amount of red chili chutney for lunch.\",\n    \"description4\": \"For lunch today, I have 246g of white rice and some red chili chutney to spice it up.\",\n    \"description5\": \"I'm having a simple lunch with 246 grams of boiled white rice and red chili chutney.\"\n}",
-        "revised_description": "For lunch, I'm having 246 grams of boiled white rice with a bit of red chili chutney (0.3 grams)."
+        "revised_description": "For lunch, I'm having 246 grams of boiled white rice with a bit of 0.3 grams of red chili chutney."
     },
     {
         "index": 210517,
@@ -2808,13 +2772,7 @@
         "meal_str": "Chapatti, wheat flour without ghee||Fish, perch, curry",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For dinner, I had a 63g chapatti made from wheat flour without ghee and 51g of perch fish curry.\",\n    \"description2\": \"I enjoyed a 63g wheat chapatti alongside 51g of curry made with perch fish for dinner.\",\n    \"description3\": \"For my dinner, I had a chapatti weighing 63g and 51g of perch fish curry.\",\n    \"description4\": \"Dinner consisted of a 63g chapatti without ghee and 51g of curry with perch fish.\",\n    \"description5\": \"I had 63g of chapatti and 51g of perch curry for dinner.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I had a 63g chapatti made from wheat flour without ghee and 51g of perch fish curry.",
-            "description2": "I enjoyed a 63g wheat chapatti alongside 51g of curry made with perch fish for dinner.",
-            "description3": "For my dinner, I had a chapatti weighing 63g and 51g of perch fish curry.",
-            "description4": "Dinner consisted of a 63g chapatti without ghee and 51g of curry with perch fish.",
-            "description5": "I had 63g of chapatti and 51g of perch curry for dinner."
-        }
+        "revised_description": "FIX ME: Unable to adjust the description automatically"
     },
     {
         "index": 210731,
@@ -2934,13 +2892,7 @@
         "meal_str": "Biscuits, sweet||Chapatti, wheat flour without ghee||Fish, perch, curry||Tea without milk",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For breakfast, I had 21g of sweet biscuits, 63g of wheat flour chapatti without ghee, and 42.6g of perch fish curry, along with 4.7g of tea without milk.\",\n    \"description2\": \"I started my day with 21 grams of sweet biscuits, a 63g chapatti made from wheat flour, and 42.6g of perch fish curry, plus 4.7g of tea without milk.\",\n    \"description3\": \"At breakfast, I enjoyed 21g of sweet biscuits, a chapatti weighing 63g, some perch fish curry at 42.6g, and 4.7g of tea without milk.\",\n    \"description4\": \"For my morning meal, I had sweet biscuits at 21 grams, 63g of chapatti made from wheat flour, 42.6g of curry with perch fish, and 4.7g of tea without milk.\",\n    \"description5\": \"This morning, I had 21g of sweet biscuits, a 63g chapatti without ghee, 42.6g of fish curry made with perch, and 4.7g of tea without milk.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I had 21g of sweet biscuits, 63g of wheat flour chapatti without ghee, and 42.6g of perch fish curry, along with 4.7g of tea without milk.",
-            "description2": "I started my day with 21 grams of sweet biscuits, a 63g chapatti made from wheat flour, and 42.6g of perch fish curry, plus 4.7g of tea without milk.",
-            "description3": "At breakfast, I enjoyed 21g of sweet biscuits, a chapatti weighing 63g, some perch fish curry at 42.6g, and 4.7g of tea without milk.",
-            "description4": "For my morning meal, I had sweet biscuits at 21 grams, 63g of chapatti made from wheat flour, 42.6g of curry with perch fish, and 4.7g of tea without milk.",
-            "description5": "This morning, I had 21g of sweet biscuits, a 63g chapatti without ghee, 42.6g of fish curry made with perch, and 4.7g of tea without milk."
-        }
+        "revised_description": "For breakfast, I had 21.0g of sweet biscuits, 63.1g of wheat flour chapatti without ghee, and 42.6g of perch fish curry, along with 4.7g of tea without milk."
     },
     {
         "index": 210836,
@@ -3249,11 +3201,7 @@
         "country": "PAK",
         "query": "{\"description1\": \"For dinner, I had a 132g chapatti made with wheat flour and ghee, along with a 67g boiled chicken egg and 20.8g of split green gram curry.\", \"description2\": \"I ate 132.3 grams of wheat flour chapatti with ghee for dinner, plus a boiled egg weighing 67 grams and some split green gram curry at 20.8 grams.\", \"description3\": \"Dinner consisted of a chapatti that weighed about 132g, a 67g boiled chicken egg, and a small portion of split green gram curry, which was 20.8g.\", \"description4\": \"I had a 132g chapatti with ghee, paired with a 67g boiled egg and 20.8g of green gram curry for dinner.\", \"description5\": \"For dinner, I enjoyed a chapatti made with wheat flour and ghee, weighing 132g, along with a boiled egg that was 67g and a side of 20.8g green gram curry.\"}",
         "filtered_queries": {
-            "description1": "For dinner, I had a 132g chapatti made with wheat flour and ghee, along with a 67g boiled chicken egg and 20.8g of split green gram curry.",
-            "description2": "I ate 132.3 grams of wheat flour chapatti with ghee for dinner, plus a boiled egg weighing 67 grams and some split green gram curry at 20.8 grams.",
-            "description3": "Dinner consisted of a chapatti that weighed about 132g, a 67g boiled chicken egg, and a small portion of split green gram curry, which was 20.8g.",
-            "description4": "I had a 132g chapatti with ghee, paired with a 67g boiled egg and 20.8g of green gram curry for dinner.",
-            "description5": "For dinner, I enjoyed a chapatti made with wheat flour and ghee, weighing 132g, along with a boiled egg that was 67g and a side of 20.8g green gram curry."
+            "description2": "I ate 132.3 grams of wheat flour chapatti with ghee for dinner, plus a boiled egg weighing 67 grams and some split green gram curry at 20.8 grams."
         }
     },
     {
@@ -3920,13 +3868,7 @@
         "meal_str": "Chapatti, wheat flour without ghee||Tomato chutney",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For dinner, I'm having a 63g chapatti made from wheat flour without ghee and 12g of tomato chutney.\",\n    \"description2\": \"I\u2019m enjoying a 63g chapatti with a side of 12g tomato chutney for dinner.\",\n    \"description3\": \"Tonight's meal consists of 63g of wheat flour chapatti and 12g of tomato chutney.\",\n    \"description4\": \"I\u2019ve got a 63g chapatti and 12g of tomato chutney for dinner.\",\n    \"description5\": \"For dinner, I have a chapatti weighing 63 grams and some tomato chutney, about 12 grams.\"\n}",
-        "filtered_queries": {
-            "description1": "For dinner, I'm having a 63g chapatti made from wheat flour without ghee and 12g of tomato chutney.",
-            "description2": "I\u2019m enjoying a 63g chapatti with a side of 12g tomato chutney for dinner.",
-            "description3": "Tonight's meal consists of 63g of wheat flour chapatti and 12g of tomato chutney.",
-            "description4": "I\u2019ve got a 63g chapatti and 12g of tomato chutney for dinner.",
-            "description5": "For dinner, I have a chapatti weighing 63 grams and some tomato chutney, about 12 grams."
-        }
+        "revised_description": "For dinner, I'm having a 63.1g chapatti made from wheat flour without ghee and 12.0g of tomato chutney."
     },
     {
         "index": 210651,

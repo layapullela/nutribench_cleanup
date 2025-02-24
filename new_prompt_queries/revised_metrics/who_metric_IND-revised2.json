@@ -1125,7 +1125,13 @@
         "meal_str": "Beef Gravy||Crisp bread||Jowar Roti||Milk Tea||Rice",
         "country": "IND",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 38.5g of beef gravy with 30g of crisp bread, 22.5g of jowar roti, and a cup of milk tea that weighs 38.4g. I also have 64.2g of rice.\",\n    \"description2\": \"I had 38.5 grams of beef gravy, 30 grams of crisp bread, and 22.5 grams of jowar roti for breakfast, along with 38.4 grams of milk tea and 64.2 grams of rice.\",\n    \"description3\": \"For breakfast, I ate 38.5g of beef gravy, 30g of crisp bread, and 22.5g of jowar roti. I also enjoyed 38.4g of milk tea and 64.2g of rice.\",\n    \"description4\": \"This morning, I had 38.5 grams of beef gravy, 30 grams of crisp bread, and 22.5 grams of jowar roti, plus 38.4 grams of milk tea and 64.2 grams of rice.\",\n    \"description5\": \"I\u2019m starting my day with 38.5g of beef gravy, 30g of crisp bread, and 22.5g of jowar roti, along with 38.4g of milk tea and 64.2g of rice.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For breakfast, I'm having 38.5g of beef gravy with 30g of crisp bread, 22.5g of jowar roti, and a cup of milk tea that weighs 38.4g. I also have 64.2g of rice.",
+            "description2": "I had 38.5 grams of beef gravy, 30 grams of crisp bread, and 22.5 grams of jowar roti for breakfast, along with 38.4 grams of milk tea and 64.2 grams of rice.",
+            "description3": "For breakfast, I ate 38.5g of beef gravy, 30g of crisp bread, and 22.5g of jowar roti. I also enjoyed 38.4g of milk tea and 64.2g of rice.",
+            "description4": "This morning, I had 38.5 grams of beef gravy, 30 grams of crisp bread, and 22.5 grams of jowar roti, plus 38.4 grams of milk tea and 64.2 grams of rice.",
+            "description5": "I\u2019m starting my day with 38.5g of beef gravy, 30g of crisp bread, and 22.5g of jowar roti, along with 38.4g of milk tea and 64.2g of rice."
+        }
     },
     {
         "index": 142356,
@@ -1476,7 +1482,13 @@
         "meal_str": "Cowpea Bhaji||Jowar Roti||Maize roti||Mango pickle||Milk, buffalo||Red Gram Dhal Bhaji||Rice",
         "country": "IND",
         "query": "{\n    \"description1\": \"For lunch, I had 18.5g of Cowpea Bhaji, 38.4g of Jowar Roti, and 9g of Maize Roti. I also enjoyed 6.9g of mango pickle, 51.5g of buffalo milk, 30.2g of Red Gram Dhal Bhaji, and 38g of rice.\",\n    \"description2\": \"I\u2019m eating 18.5 grams of Cowpea Bhaji along with 38.4 grams of Jowar Roti and 9 grams of Maize Roti for lunch. I have some 6.9 grams of mango pickle, 51.5 grams of buffalo milk, 30.2 grams of Red Gram Dhal Bhaji, and 38 grams of rice.\",\n    \"description3\": \"Lunch today consists of 18.5g of Cowpea Bhaji, 38.4g of Jowar Roti, and 9g of Maize Roti. I added 6.9g of mango pickle, drank 51.5g of buffalo milk, and included 30.2g of Red Gram Dhal Bhaji with 38g of rice.\",\n    \"description4\": \"I\u2019ve got 18.5 grams of Cowpea Bhaji, 38.4 grams of Jowar Roti, and 9 grams of Maize Roti for lunch. There\u2019s also 6.9 grams of mango pickle, 51.5 grams of buffalo milk, 30.2 grams of Red Gram Dhal Bhaji, and 38 grams of rice on my plate.\",\n    \"description5\": \"For lunch, I\u2019m having 18.5g of Cowpea Bhaji, 38.4g of Jowar Roti, and 9g of Maize Roti. I also have 6.9g of mango pickle, 51.5g of buffalo milk, 30.2g of Red Gram Dhal Bhaji, and 38g of rice.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I had 18.5g of Cowpea Bhaji, 38.4g of Jowar Roti, and 9g of Maize Roti. I also enjoyed 6.9g of mango pickle, 51.5g of buffalo milk, 30.2g of Red Gram Dhal Bhaji, and 38g of rice.",
+            "description2": "I\u2019m eating 18.5 grams of Cowpea Bhaji along with 38.4 grams of Jowar Roti and 9 grams of Maize Roti for lunch. I have some 6.9 grams of mango pickle, 51.5 grams of buffalo milk, 30.2 grams of Red Gram Dhal Bhaji, and 38 grams of rice.",
+            "description3": "Lunch today consists of 18.5g of Cowpea Bhaji, 38.4g of Jowar Roti, and 9g of Maize Roti. I added 6.9g of mango pickle, drank 51.5g of buffalo milk, and included 30.2g of Red Gram Dhal Bhaji with 38g of rice.",
+            "description4": "I\u2019ve got 18.5 grams of Cowpea Bhaji, 38.4 grams of Jowar Roti, and 9 grams of Maize Roti for lunch. There\u2019s also 6.9 grams of mango pickle, 51.5 grams of buffalo milk, 30.2 grams of Red Gram Dhal Bhaji, and 38 grams of rice on my plate.",
+            "description5": "For lunch, I\u2019m having 18.5g of Cowpea Bhaji, 38.4g of Jowar Roti, and 9g of Maize Roti. I also have 6.9g of mango pickle, 51.5g of buffalo milk, 30.2g of Red Gram Dhal Bhaji, and 38g of rice."
+        }
     },
     {
         "index": 141641,
@@ -1491,7 +1503,9 @@
         "meal_str": "Bread, white, commercialy prepared||Brinjal (badne kai) Bhaji||Cowpea Bhaji||Jowar Roti||Masala Rice or Palav||Milk Tea||Moth Bean (Madki Kal) Bhaji",
         "country": "IND",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 30g of white bread, 20.6g of Brinjal Bhaji, 18.5g of Cowpea Bhaji, 16g of Jowar Roti, 58.7g of Masala Rice, 67.4g of milk tea, and 25.9g of Moth Bean Bhaji.\",\n    \"description2\": \"I had 30 grams of commercially prepared white bread along with 20.6 grams of Brinjal Bhaji and 18.5 grams of Cowpea Bhaji for breakfast.\",\n    \"description3\": \"For breakfast, I enjoyed 16g of Jowar Roti, 58.7g of Masala Rice, and washed it down with 67.4g of milk tea.\",\n    \"description4\": \"This morning, I ate 30g of white bread, 25.9g of Moth Bean Bhaji, and 20.6g of Brinjal Bhaji along with a cup of milk tea.\",\n    \"description5\": \"I had a breakfast consisting of 16g of Jowar Roti, 18.5g of Cowpea Bhaji, and 58.7g of Masala Rice, plus some milk tea on the side.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For breakfast, I'm having 30g of white bread, 20.6g of Brinjal Bhaji, 18.5g of Cowpea Bhaji, 16g of Jowar Roti, 58.7g of Masala Rice, 67.4g of milk tea, and 25.9g of Moth Bean Bhaji."
+        }
     },
     {
         "index": 141747,
@@ -1506,13 +1520,7 @@
         "meal_str": "Churmary Oggarani or Churmary Chuda||Crisp bread||Milk Tea||Poha",
         "country": "IND",
         "query": "{\n    \"description1\": \"For a snack, I had 29g of Churmary Oggarani, 30g of crisp bread, 72g of milk tea, and 132g of poha.\",\n    \"description2\": \"I enjoyed 29 grams of Churmary Chuda with 30g of crisp bread, along with 72g of milk tea, and 132g of poha for a snack.\",\n    \"description3\": \"I had a snack that included 29g of Churmary Oggarani, 30g of crisp bread, 72g of milk tea, and 132g of poha.\",\n    \"description4\": \"For my snack, I ate 29 grams of Churmary Chuda, 30g of crisp bread, drank 72g of milk tea, and had 132g of poha.\",\n    \"description5\": \"I snacked on 29g of Churmary Oggarani, paired with 30g of crisp bread, 72g of milk tea, and 132g of poha.\"\n}",
-        "filtered_queries": {
-            "description1": "For a snack, I had 29g of Churmary Oggarani, 30g of crisp bread, 72g of milk tea, and 132g of poha.",
-            "description2": "I enjoyed 29 grams of Churmary Chuda with 30g of crisp bread, along with 72g of milk tea, and 132g of poha for a snack.",
-            "description3": "I had a snack that included 29g of Churmary Oggarani, 30g of crisp bread, 72g of milk tea, and 132g of poha.",
-            "description4": "For my snack, I ate 29 grams of Churmary Chuda, 30g of crisp bread, drank 72g of milk tea, and had 132g of poha.",
-            "description5": "I snacked on 29g of Churmary Oggarani, paired with 30g of crisp bread, 72g of milk tea, and 132g of poha."
-        }
+        "revised_description": "For a snack, I had 29g of Churmary Oggarani, 30g of crisp bread, 72g of milk tea, and 132g of poha. I also enjoyed 29g of Churmary Oggarani, 30g of crisp bread, 72.1g of milk tea, and 131.9g of poha."
     },
     {
         "index": 141692,
@@ -2740,7 +2748,13 @@
         "meal_str": "Beef Gravy||Lemonade||Mango pickle||Rice",
         "country": "IND",
         "query": "{\n    \"description1\": \"For lunch, I'm having 66.5g of beef gravy with 67.8g of rice, along with 2.8g of lemonade and 6.9g of mango pickle.\",\n    \"description2\": \"I\u2019ve got a lunch that includes 66.5 grams of beef gravy over 67.8 grams of rice, plus a little bit of 2.8g of lemonade and 6.9g of mango pickle.\",\n    \"description3\": \"For lunch, it's 66.5g of beef gravy on 67.8g of rice, and I\u2019m also having 2.8g of lemonade and 6.9g of mango pickle.\",\n    \"description4\": \"I\u2019m enjoying 66.5g of beef gravy with 67.8g of rice, along with 2.8g of lemonade and 6.9g of mango pickle for lunch.\",\n    \"description5\": \"At lunch, I've got 66.5 grams of beef gravy, 67.8 grams of rice, a splash of 2.8 grams of lemonade, and 6.9 grams of mango pickle.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I'm having 66.5g of beef gravy with 67.8g of rice, along with 2.8g of lemonade and 6.9g of mango pickle.",
+            "description2": "I\u2019ve got a lunch that includes 66.5 grams of beef gravy over 67.8 grams of rice, plus a little bit of 2.8g of lemonade and 6.9g of mango pickle.",
+            "description3": "For lunch, it's 66.5g of beef gravy on 67.8g of rice, and I\u2019m also having 2.8g of lemonade and 6.9g of mango pickle.",
+            "description4": "I\u2019m enjoying 66.5g of beef gravy with 67.8g of rice, along with 2.8g of lemonade and 6.9g of mango pickle for lunch.",
+            "description5": "At lunch, I've got 66.5 grams of beef gravy, 67.8 grams of rice, a splash of 2.8 grams of lemonade, and 6.9 grams of mango pickle."
+        }
     },
     {
         "index": 142152,
@@ -2776,7 +2790,10 @@
         "meal_str": "Brinjal (badne kai) Bhaji||Chapati||Cowpea Bhaji||Ghee, cow or buffalo||Godhi Huggi||Potato Bhaji",
         "country": "IND",
         "query": "{\n    \"description1\": \"For lunch, I'm having 20.6g of Brinjal Bhaji, 69.5g of Chapati, 18.5g of Cowpea Bhaji, 4g of ghee, 63.7g of Godhi Huggi, and 30.1g of Potato Bhaji.\",\n    \"description2\": \"I\u2019ve got a lunch spread with 20.6 grams of Brinjal Bhaji, 69.5 grams of Chapati, and 18.5 grams of Cowpea Bhaji, plus a touch of 4 grams of ghee.\",\n    \"description3\": \"For lunch, I\u2019m enjoying 69.5g of Chapati alongside 20.6g of Brinjal Bhaji, 18.5g of Cowpea Bhaji, and some 30.1g of Potato Bhaji, all with 4 grams of ghee.\",\n    \"description4\": \"I\u2019m having a variety for lunch: 20.6g of Brinjal Bhaji, 69.5g of Chapati, 18.5g of Cowpea Bhaji, and 30.1g of Potato Bhaji, drizzled with 4g of ghee.\",\n    \"description5\": \"My lunch includes 63.7g of Godhi Huggi, 69.5g of Chapati, and a mix of bhajis: 20.6g of Brinjal, 18.5g of Cowpea, and 30.1g of Potato, plus 4g of ghee.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For lunch, I'm having 20.6g of Brinjal Bhaji, 69.5g of Chapati, 18.5g of Cowpea Bhaji, 4g of ghee, 63.7g of Godhi Huggi, and 30.1g of Potato Bhaji.",
+            "description5": "My lunch includes 63.7g of Godhi Huggi, 69.5g of Chapati, and a mix of bhajis: 20.6g of Brinjal, 18.5g of Cowpea, and 30.1g of Potato, plus 4g of ghee."
+        }
     },
     {
         "index": 141915,
@@ -3022,7 +3039,13 @@
         "meal_str": "Beef Gravy||Jowar Roti||Milk, buffalo||Rice",
         "country": "IND",
         "query": "{\n    \"description1\": \"For dinner, I'm having 38.5g of beef gravy with 22.5g of jowar roti, 288.4g of buffalo milk, and 69.3g of rice.\",\n    \"description2\": \"I\u2019ve got a dinner plate with 38.5 grams of beef gravy, 22.5 grams of jowar roti, 288.4 grams of buffalo milk, and 69.3 grams of rice.\",\n    \"description3\": \"Tonight's dinner includes 38.5g of beef gravy, a 22.5g jowar roti, 288.4g of buffalo milk, and 69.3g of rice.\",\n    \"description4\": \"For dinner, I'm enjoying 38.5g of beef gravy, 22.5g of jowar roti, along with 288.4g of buffalo milk and 69.3g of rice.\",\n    \"description5\": \"I'm having a dinner with 38.5 grams of beef gravy, 22.5 grams of jowar roti, 288.4 grams of buffalo milk, and 69.3 grams of rice.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "filtered_queries": {
+            "description1": "For dinner, I'm having 38.5g of beef gravy with 22.5g of jowar roti, 288.4g of buffalo milk, and 69.3g of rice.",
+            "description2": "I\u2019ve got a dinner plate with 38.5 grams of beef gravy, 22.5 grams of jowar roti, 288.4 grams of buffalo milk, and 69.3 grams of rice.",
+            "description3": "Tonight's dinner includes 38.5g of beef gravy, a 22.5g jowar roti, 288.4g of buffalo milk, and 69.3g of rice.",
+            "description4": "For dinner, I'm enjoying 38.5g of beef gravy, 22.5g of jowar roti, along with 288.4g of buffalo milk and 69.3g of rice.",
+            "description5": "I'm having a dinner with 38.5 grams of beef gravy, 22.5 grams of jowar roti, 288.4 grams of buffalo milk, and 69.3 grams of rice."
+        }
     },
     {
         "index": 141370,
@@ -3184,13 +3207,7 @@
         "meal_str": "Buttermilk||Curd, cow||Green Gram (Hesaru bele) Bhaji||Jowar Roti||Milk Tea||Rice",
         "country": "IND",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 511g of buttermilk, 148.4g of cow's curd, and 89.7g of green gram bhaji. I also have a 23g jowar roti, 33.7g of milk tea, and 66g of rice.\",\n    \"description2\": \"I started my day with 511 grams of buttermilk and 148.4g of curd. I also had some green gram bhaji weighing 89.7g, a 23g jowar roti, and a cup of milk tea that weighs 33.7g, along with 66g of rice.\",\n    \"description3\": \"Today for breakfast, I had 511g of buttermilk and 148.4g of cow curd. I enjoyed 89.7g of green gram bhaji, paired with a 23g jowar roti, a 33.7g milk tea, and 66g of rice.\",\n    \"description4\": \"I had a filling breakfast with 511 grams of buttermilk, 148.4g of cow's curd, and 89.7g of green gram bhaji. I also included a 23g jowar roti, 33.7g of milk tea, and 66g of rice.\",\n    \"description5\": \"This morning, I enjoyed 511g of buttermilk, 148.4g of cow curd, and 89.7g of green gram bhaji for breakfast. I also had a 23g jowar roti, 33.7g of milk tea, and 66g of rice.\"\n}",
-        "filtered_queries": {
-            "description1": "For breakfast, I'm having 511g of buttermilk, 148.4g of cow's curd, and 89.7g of green gram bhaji. I also have a 23g jowar roti, 33.7g of milk tea, and 66g of rice.",
-            "description2": "I started my day with 511 grams of buttermilk and 148.4g of curd. I also had some green gram bhaji weighing 89.7g, a 23g jowar roti, and a cup of milk tea that weighs 33.7g, along with 66g of rice.",
-            "description3": "Today for breakfast, I had 511g of buttermilk and 148.4g of cow curd. I enjoyed 89.7g of green gram bhaji, paired with a 23g jowar roti, a 33.7g milk tea, and 66g of rice.",
-            "description4": "I had a filling breakfast with 511 grams of buttermilk, 148.4g of cow's curd, and 89.7g of green gram bhaji. I also included a 23g jowar roti, 33.7g of milk tea, and 66g of rice.",
-            "description5": "This morning, I enjoyed 511g of buttermilk, 148.4g of cow curd, and 89.7g of green gram bhaji for breakfast. I also had a 23g jowar roti, 33.7g of milk tea, and 66g of rice."
-        }
+        "revised_description": "For breakfast, I'm having 511g of buttermilk, 148.4g of cow's curd, and 89.7g of green gram bhaji. I also have a 23g jowar roti, 33.7g of milk tea, and 65.9g of rice."
     },
     {
         "index": 141245,
@@ -3520,7 +3537,7 @@
         "meal_str": "Cowpea Bhaji||Curd, cow||Jowar Nuchu||Jowar Roti||Kosambri/pachidi||Milk, cow||Red Gram Dhal or Sambar||Rice",
         "country": "IND",
         "query": "{\n    \"description1\": \"For lunch, I had 45.7g of Cowpea Bhaji, 27g of cow curd, and 18.3g of Jowar Nuchu.\",\n    \"description2\": \"I enjoyed a 56.9g Jowar Roti with 14.9g of Kosambri.\",\n    \"description3\": \"My lunch included 82.4g of cow's milk and 21.2g of Red Gram Dhal.\",\n    \"description4\": \"I also had 84.2g of rice on my plate.\",\n    \"description5\": \"So, for lunch, it was a mix of Cowpea Bhaji, curd, Jowar Nuchu, Jowar Roti, Kosambri, milk, Red Gram Dhal, and rice.\"\n}",
-        "revised_description": "For lunch, I had 45.7g of Cowpea Bhaji, 27g of cow curd, 18.3g of Jowar Nuchu, 56.9g of Jowar Roti, 14.9g of Kosambri, 82.4g of cow milk, and 21.2g of Red Gram Dhal. I also enjoyed 84.2g of Rice."
+        "revised_description": "For lunch, I had 45.7g of Cowpea Bhaji, 27.0g of cow curd, 18.3g of Jowar Nuchu, 56.9g of Jowar Roti, 14.9g of Kosambri, 82.4g of cow milk, and 21.2g of Red Gram Dhal. I also enjoyed 84.2g of Rice."
     },
     {
         "index": 142238,
@@ -3846,7 +3863,7 @@
         "meal_str": "Brinjal (badne kai) Bhaji||Buttermilk||Fenugreek leaves Bhaji||Godhi Huggi||Jowar Roti||Milk Tea||Rice||Tomato sambar",
         "country": "IND",
         "query": "{\n    \"description1\": \"For breakfast, I had 41.6g of Brinjal Bhaji, 71.5g of buttermilk, and 42g of Fenugreek leaves Bhaji.\",\n    \"description2\": \"I enjoyed 63.7g of Godhi Huggi, 27.9g of Jowar Roti, and 94.7g of milk tea for breakfast.\",\n    \"description3\": \"My breakfast included 38g of rice and 18.4g of tomato sambar.\",\n    \"description4\": \"I had a mix of 41.6g Brinjal Bhaji, 71.5g buttermilk, and 63.7g Godhi Huggi along with 42g Fenugreek leaves Bhaji.\",\n    \"description5\": \"For breakfast, I finished off with 27.9g of Jowar Roti, 94.7g of milk tea, and a side of 38g rice with 18.4g tomato sambar.\"\n}",
-        "revised_description": "For breakfast, I had 41.6g of Brinjal Bhaji, 71.5g of buttermilk, 42g of Fenugreek leaves Bhaji, 63.7g of Godhi Huggi, 27.9g of Jowar Roti, 94.7g of Milk Tea, 38.0g of Rice, and 18.4g of Tomato sambar."
+        "revised_description": "For breakfast, I had 41.6g of Brinjal Bhaji, 71.5g of buttermilk, 42g of Fenugreek leaves Bhaji, 63.7g of Godhi Huggi, 27.9g of Jowar Roti, 94.7g of Milk Tea, 38.0g of Rice, and 18.4g of Tomato Sambar."
     },
     {
         "index": 142264,
@@ -3966,7 +3983,7 @@
         "meal_str": "Brinjal (badne kai) Bhaji||Churmary Oggarani or Churmary Chuda||Curd, cow||Field Bean (Avrekal) Bhaji||Jowar Roti||Milk Tea||Milk, buffalo||Red Gram Dhal or Sambar||Rice||Vermicelli Upma",
         "country": "IND",
         "query": "{\n    \"description1\": \"For breakfast, I had 51.5g of Brinjal Bhaji, 19.9g of Churmary Oggarani, and 84.8g of cow's curd, along with 46.8g of Field Bean Bhaji and 39.9g of Jowar Roti.\",\n    \"description2\": \"I enjoyed a breakfast that included 24.1g of milk tea, 113.3g of buffalo milk, and 15.9g of Red Gram Dhal, served with 67.8g of rice and 78.8g of Vermicelli Upma.\",\n    \"description3\": \"This morning, my meal consisted of 51.5g of Brinjal Bhaji, 39.9g of Jowar Roti, and 84.8g of cow's curd, along with 46.8g of Field Bean Bhaji.\",\n    \"description4\": \"For breakfast, I had 24.1g of milk tea, 67.8g of rice, and 15.9g of Red Gram Dhal, paired with 78.8g of Vermicelli Upma and 113.3g of buffalo milk.\",\n    \"description5\": \"I started my day with 51.5g of Brinjal Bhaji, 19.9g of Churmary Oggarani, and 84.8g of cow's curd, plus 39.9g of Jowar Roti and a cup of 24.1g of milk tea.\"\n}",
-        "revised_description": "For breakfast, I had 51.5g of Brinjal Bhaji, 19.9g of Churmary Oggarani, and 84.8g of cow's curd, along with 46.8g of Field Bean Bhaji and 39.9g of Jowar Roti. I also enjoyed 24.1g of Milk Tea, a delightful 113.3g of buffalo milk, a tasty 15.9g of Red Gram Dhal, 67.8g of Rice, and to top it off, 78.8g of Vermicelli Upma."
+        "revised_description": "For breakfast, I had 51.5g of Brinjal Bhaji, 19.9g of Churmary Oggarani, and 84.8g of cow's curd, along with 46.8g of Field Bean Bhaji and 39.9g of Jowar Roti. I also enjoyed 24.1g of Milk Tea, 113.3g of buffalo Milk, and 15.9g of Red Gram Dhal. To round out the meal, there was 67.8g of Rice and 78.8g of Vermicelli Upma."
     },
     {
         "index": 141755,

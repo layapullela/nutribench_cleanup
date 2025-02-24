@@ -510,13 +510,7 @@
         "meal_str": "COFFEE, INSTANT, W/SUGAR||CREAM, HEAVY WHIPPING, DENSE CONSISTENSY||TAMALE, MAIZE BASED W/FRESH CHEESE & CREAM",
         "country": "GTM",
         "query": "{\n    \"description1\": \"For a snack, I'm having 27.2g of instant coffee with sugar, 44g of heavy whipping cream, and a 130g tamale made with fresh cheese and cream.\",\n    \"description2\": \"I\u2019ve got a snack that includes 27.2 grams of instant coffee with sugar, 44 grams of heavy cream, and a tamale weighing 130 grams that has fresh cheese and cream in it.\",\n    \"description3\": \"I'm snacking on 27.2g of instant coffee sweetened with sugar, 44g of dense heavy cream, and a 130g tamale filled with fresh cheese and cream.\",\n    \"description4\": \"For my snack, I've prepared 27.2 grams of instant coffee with sugar, 44 grams of heavy whipping cream, and a tamale that weighs about 130 grams, packed with fresh cheese and cream.\",\n    \"description5\": \"I\u2019ve got a 27.2g cup of instant coffee with sugar for my snack, along with 44g of heavy cream and a 130g tamale that's filled with fresh cheese and cream.\"\n}",
-        "filtered_queries": {
-            "description1": "For a snack, I'm having 27.2g of instant coffee with sugar, 44g of heavy whipping cream, and a 130g tamale made with fresh cheese and cream.",
-            "description2": "I\u2019ve got a snack that includes 27.2 grams of instant coffee with sugar, 44 grams of heavy cream, and a tamale weighing 130 grams that has fresh cheese and cream in it.",
-            "description3": "I'm snacking on 27.2g of instant coffee sweetened with sugar, 44g of dense heavy cream, and a 130g tamale filled with fresh cheese and cream.",
-            "description4": "For my snack, I've prepared 27.2 grams of instant coffee with sugar, 44 grams of heavy whipping cream, and a tamale that weighs about 130 grams, packed with fresh cheese and cream.",
-            "description5": "I\u2019ve got a 27.2g cup of instant coffee with sugar for my snack, along with 44g of heavy cream and a 130g tamale that's filled with fresh cheese and cream."
-        }
+        "revised_description": "For a snack, I'm having 27.2g of instant coffee with sugar, 44g of heavy whipping cream, and a 129.9g tamale made with fresh cheese and cream."
     },
     {
         "index": 140455,
@@ -909,7 +903,7 @@
         "meal_str": "BANANA MATURE, RAW||BEVERAGE, ATOLE, OATMEAL, BLD, W/WATER||CEREALS RTE, CORN FLAKES||EGGS, WHOLE, COOKED, PAN FRIED||MAIZE, FLOUR, LIME-TREATED, COOKED, BLD||MILK, FLUID, WHOLE (3.25% MILKFAT), W/O ADDED VIT A AND D, COOKED, BLD||SOUP, BEANS, BLACK (50% BEANS)",
         "country": "GTM",
         "query": "{\n    \"description1\": \"For breakfast, I'm having a 145g raw mature banana, 103.6g of atole oatmeal beverage made with water, and 19g of corn flakes.\",\n    \"description2\": \"I ate 63g of pan-fried whole eggs along with 40.2g of lime-treated cooked maize flour for breakfast.\",\n    \"description3\": \"Also for breakfast, I had 180g of whole milk and 30.4g of black bean soup, which is made up of 50% beans.\",\n    \"description4\": \"This morning, my meal included a 145g banana, 63g of cooked eggs, and 103.6g of oatmeal drink.\",\n    \"description5\": \"I finished my breakfast with 19g of corn flakes, 40.2g of cooked maize flour, and a bowl of 30.4g black bean soup.\"\n}",
-        "revised_description": "For breakfast, I'm having a 145g raw mature banana, 103.6g of atole oatmeal beverage made with water, 19g of corn flakes, 63g of cooked whole eggs, 40.2g of lime-treated maize flour cooked, 180g of whole milk, and 30.4g of black bean soup."
+        "revised_description": "For breakfast, I'm having a 145g raw mature banana, 103.6g of atole oatmeal beverage made with water, 19g of corn flakes, 63g of whole cooked eggs that are pan-fried, 40.2g of lime-treated maize flour cooked, and 180g of whole milk, and a bit of black bean soup (30.4g)."
     },
     {
         "index": 135333,
@@ -1071,7 +1065,7 @@
         "meal_str": "BEVERAGE, COFFEE, BREWED FROM GROUNDS, W/SUGAR AND WATER||EGG, WHOLE, COOKED, SCRAMBLED,  W/RED TOMATO AND ONION||MAIZE, FLOUR, LIME-TREATED, COOKED, BLD||MARMALADES||PASTA, COOKED, W/MAYONNAISE||WHEAT BREAD, FRENCH-TYPE (GUATEMALA)",
         "country": "GTM",
         "query": "{\n    \"description1\": \"For dinner, I'm having 243g of brewed coffee with sugar, 87g of scrambled eggs with red tomato and onion, and 64.8g of cooked lime-treated maize flour.\",\n    \"description2\": \"I also have 12g of marmalade and a side of 69g of pasta mixed with mayonnaise.\",\n    \"description3\": \"To complete my meal, I'm enjoying 22g of French-type wheat bread from Guatemala.\",\n    \"description4\": \"So for dinner, it\u2019s coffee, scrambled eggs with tomato and onion, some maize flour, marmalade, pasta with mayo, and wheat bread.\",\n    \"description5\": \"My dinner consists of coffee, scrambled eggs, lime-treated maize flour, a bit of marmalade, pasta with mayonnaise, and a slice of French bread.\"\n}",
-        "revised_description": "For dinner, I'm having 243g of brewed coffee with sugar, 87g of scrambled eggs with red tomato and onion, 64.8g of cooked lime-treated maize flour, 12g of marmalade, 69g of cooked pasta with mayonnaise, and 22g of French-type wheat bread from Guatemala."
+        "revised_description": "For dinner, I'm having 243g of brewed coffee with sugar, 87g of scrambled eggs with red tomato and onion, 64.8g of cooked lime-treated maize flour, 12g of marmalade, 69g of pasta cooked with mayonnaise, and 22g of French-type wheat bread from Guatemala."
     },
     {
         "index": 137538,
@@ -1132,7 +1126,6 @@
             "description1": "For a snack, I'm having a 90.2g banana, 100g of cooked black beans, 24.7g of lemonade, and a 90g maize-based tortilla.",
             "description2": "I\u2019m snacking on a 90g tortilla with 100g of black beans and a 90.2g banana, plus a bit of 24.7g lemonade.",
             "description3": "For my snack, I have a 90g maize tortilla, 100g of cooked black beans, a banana weighing 90.2g, and 24.7g of lemonade.",
-            "description4": "I\u2019m enjoying a snack that includes a 90g banana, 100g of black beans, a 90g maize tortilla, and 24.7g of lemonade.",
             "description5": "For a quick snack, I have 90.2g of banana, 100g of cooked black beans, 24.7g of lemonade, and a 90g maize tortilla."
         }
     },
@@ -1717,11 +1710,8 @@
         "country": "GTM",
         "query": "{\n    \"description1\": \"For dinner, I'm having 218g of beef soup, 12.6g of ground coffee with sugar, 51g of fried rice, and 148g of maize-based tortilla.\",\n    \"description2\": \"I just made a dinner with 217.9g of beef soup, a small amount of coffee with sugar at 12.6g, 51g of fried rice, and a 148g maize tortilla.\",\n    \"description3\": \"Tonight, I'm eating 218 grams of beef soup, along with 12.6 grams of coffee with sugar, 51 grams of fried rice, and a maize tortilla weighing 148 grams.\",\n    \"description4\": \"At dinner, I have 217.9g of beef soup, 12.6g of sweetened coffee, 51g of fried rice, and a 148g tortilla made from maize.\",\n    \"description5\": \"I'm enjoying a dinner of 218g beef soup, 12.6g of coffee mixed with sugar, 51g of fried rice, and a maize tortilla that weighs 148g.\"\n}",
         "filtered_queries": {
-            "description1": "For dinner, I'm having 218g of beef soup, 12.6g of ground coffee with sugar, 51g of fried rice, and 148g of maize-based tortilla.",
             "description2": "I just made a dinner with 217.9g of beef soup, a small amount of coffee with sugar at 12.6g, 51g of fried rice, and a 148g maize tortilla.",
-            "description3": "Tonight, I'm eating 218 grams of beef soup, along with 12.6 grams of coffee with sugar, 51 grams of fried rice, and a maize tortilla weighing 148 grams.",
-            "description4": "At dinner, I have 217.9g of beef soup, 12.6g of sweetened coffee, 51g of fried rice, and a 148g tortilla made from maize.",
-            "description5": "I'm enjoying a dinner of 218g beef soup, 12.6g of coffee mixed with sugar, 51g of fried rice, and a maize tortilla that weighs 148g."
+            "description4": "At dinner, I have 217.9g of beef soup, 12.6g of sweetened coffee, 51g of fried rice, and a 148g tortilla made from maize."
         }
     },
     {
@@ -2829,7 +2819,7 @@
         "meal_str": "EGGS, FRIED, W/SAUCE & FRESH DRIED CHEESE||FRENCH BREAD W/HAM & LETTUCE||TAMARIND BEVERAGE||TORTILLA W/SCRAMBLED EGGS & KETCHUP||WHEAT TORTILLA W/FRIED BLACK BEANS & MAYONNAISE",
         "country": "GTM",
         "query": "{\n    \"description1\": \"For breakfast, I had 69g of fried eggs with sauce and fresh dried cheese, along with a 108.5g French bread sandwich filled with ham and lettuce.\",\n    \"description2\": \"I enjoyed a 275g tamarind beverage and a 160g tortilla filled with scrambled eggs and ketchup for breakfast.\",\n    \"description3\": \"For breakfast, I had a 212g wheat tortilla with fried black beans and mayonnaise, paired with my other dishes.\",\n    \"description4\": \"I started my day with 69g of fried eggs topped with sauce and cheese, and a 108.5g French bread sandwich with ham and lettuce.\",\n    \"description5\": \"My breakfast included a 160g tortilla with scrambled eggs and ketchup, a 275g tamarind drink, and a 212g wheat tortilla with fried black beans and mayonnaise.\"\n}",
-        "revised_description": "For breakfast, I had 69g of fried eggs with sauce and fresh dried cheese, along with a 108.5g French bread sandwich filled with ham and lettuce. I also enjoyed a refreshing 275g tamarind beverage on the side. To top it off, I had a tasty 160g tortilla filled with scrambled eggs and ketchup, and a 212g wheat tortilla with fried black beans and mayonnaise."
+        "revised_description": "For breakfast, I had 69g of fried eggs with sauce and fresh dried cheese, along with a 108.5g French bread sandwich filled with ham and lettuce. I also enjoyed a refreshing 275g tamarind beverage, a tasty 160g tortilla with scrambled eggs and ketchup, and a delicious 212g wheat tortilla filled with fried black beans and mayonnaise."
     },
     {
         "index": 137065,
@@ -3033,7 +3023,7 @@
         "meal_str": "APPLES, W/SKIN, RAW||BANANA MATURE, RAW||BEVERAGE, ATOLE, OATMEAL, BLD, W/WATER||BUTTERCUP SQUASH, MATURE AND YELLOW, COOKED, BLD, DRAINED WO/SALT||CARBONATED BEVERAGE, COLA TYPE W/CAFFEINE||WHEAT BREAD, SWEET (GUATEMALA)",
         "country": "GTM",
         "query": "{\n    \"description1\": \"For a snack, I'm having 201g of raw apples with skin, 265g of raw banana, and 51.8g of oatmeal atole made with water.\",\n    \"description2\": \"I'm snacking on 615g of cooked buttercup squash, 123g of a carbonated cola drink, and 114g of sweet wheat bread from Guatemala.\",\n    \"description3\": \"For my snack, I enjoyed some raw apples, about 201 grams, along with 265 grams of banana and a drink of oatmeal atole at 51.8 grams.\",\n    \"description4\": \"I had a 615g serving of buttercup squash, paired with 123g of cola and 114g of sweet wheat bread for my snack.\",\n    \"description5\": \"My snack included 201g of apples, 265g of banana, and 51.8g of oatmeal atole, plus 615g of buttercup squash and a 123g cola.\"\n}",
-        "revised_description": "For a snack, I'm having 201g of raw apples with skin, 265g of raw banana, 51.8g of oatmeal atole made with water, 615g of cooked buttercup squash, 123g of carbonated cola beverage with caffeine, and 114g of sweet wheat bread from Guatemala."
+        "revised_description": "For a snack, I'm having 201g of raw apples with skin, 265g of raw banana, and 51.8g of oatmeal atole made with water. I'm also enjoying 615g of cooked buttercup squash, 123g of a carbonated cola beverage with caffeine, and 114g of sweet wheat bread from Guatemala."
     },
     {
         "index": 140214,
@@ -3257,7 +3247,7 @@
         "meal_str": "BANANA MATURE, RAW||BEVERAGE, ATOLE, INCAPARINA, BLD, W/WATER||BEVERAGE, CEREAL GRAIN (TORTILLA), BREWED, W/SUGAR AND WATER||MAIZE, FLOUR, LIME-TREATED, COOKED, BLD||SAUCE, HOT CHILI, BOTTLED||SOUP, BEANS, BLACK (50% BEANS)||WHEAT BREAD, SWEET (GUATEMALA)",
         "country": "GTM",
         "query": "{\n    \"description1\": \"For breakfast, I had a 112g raw banana, along with 29.8g of Atole Incaparina beverage made with water.\",\n    \"description2\": \"I enjoyed 85.6g of brewed cereal grain beverage with sugar and water, paired with 74.6g of lime-treated cooked maize flour.\",\n    \"description3\": \"I also added 10g of hot chili sauce to my meal, which included a serving of 55.9g of black bean soup.\",\n    \"description4\": \"To top it off, I had 50g of sweet wheat bread from Guatemala for breakfast.\",\n    \"description5\": \"So, my breakfast consisted of a banana, Atole, cereal beverage, cooked maize flour, hot chili sauce, black bean soup, and sweet wheat bread.\"\n}",
-        "revised_description": "For breakfast, I had a 112g raw banana, along with 29.8g of Atole Incaparina beverage made with water. I also enjoyed 85.6g of brewed cereal grain tortilla with sugar and water, 74.6g of cooked lime-treated maize flour, a bit of hot chili sauce weighing 10g, a hearty serving of black bean soup (about 55.9g), and a slice of sweet wheat bread from Guatemala weighing 50g."
+        "revised_description": "For breakfast, I had a 112g raw banana, along with 29.8g of Atole Incaparina beverage made with water, 85.6g of brewed cereal grain beverage with sugar and water, 74.6g of cooked lime-treated maize flour, 10g of hot chili sauce, 55.9g of black bean soup, and 50g of sweet wheat bread from Guatemala."
     },
     {
         "index": 136274,
