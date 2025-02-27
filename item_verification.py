@@ -13,7 +13,6 @@ client = OpenAI(
 )
 
 def verify_meal_descriptions(description, unit, query, metric, who=True):
-    # Combine descriptions and weights
     # Convert string representations of lists to actual lists if needed
     if isinstance(description, str):
         description = eval(description)
@@ -22,115 +21,95 @@ def verify_meal_descriptions(description, unit, query, metric, who=True):
     
     # Clean up the unit strings and combine with descriptions
     meal_items = []
+    verifications = []
     for desc, amt in zip(description, unit):
-        meal_items.append(f"{amt} {desc}")
+        meal_item_combined = f"{amt} {desc}"
 
-    # Determine if there is only one meal item
-    if len(meal_items) == 1:
-        meal_items_str = meal_items[0]
-        # if the prompt is "who": 
-        if who:
-            food_check_prompt = f"""
-                Here is the description for you to check: {query}
+        # Convert to meal item string
+        meal_item = desc  # Store original description for printing
+        meal_item_combined = f"{amt} {desc}"  # Combined string for prompt
 
-                Does the description mention the meal item '{meal_items_str}' in any form, even if the wording is slightly different?
-                The item may be described using a similar or common name. 
-
-                Example:
-                - Description: "I’m snacking on 125g of light starchy pudding."
-                - Meal Item: 'Starchy pudding, QUALITATIVE-INFO = Light, PREPARATION-PRODUCTION-PLACE = Food industry prepared'
-                - Since 'light starchy pudding' is mentioned, the correct response is: YES.
-
-                If the item is present conceptually, output 'YES'. If it is missing, output 'NO'.
-            """
-            #breakpoint()
-        else: 
-            food_check_prompt = f"""
-                Here is the description for you to check: {query}
-
-                Does the description mention the meal item '{meal_items_str}' in any form, even if the wording is slightly different?
-                The item may be described using a similar or common name. 
-
-                Example:
-                - Description: "I'm just having some bottled water as a snack."
-                - Meal Item: 'Water, bottled, unsweetened'
-                - Since 'water' is mentioned, the correct response is: YES.
-
-                If the item is present conceptually, output 'YES'. If it is missing, output 'NO'.
-            """
-    else:
-        meal_items_str = ' || '.join(meal_items)
-        # in addition to '||', count off each item 
-        count = 2
-        while '||' in meal_items_str:
-            meal_items_str = meal_items_str.replace('||', f'|{count}. ', 1)
-            count += 1
-        if who: 
-            food_check_prompt = f"""
-            Here is the description for you to check: {query}
-
-            Does the description mention all {len(meal_items)} the meal items in any form, even if the wording is slightly different?
-            The items may be described using alternative or common names. The {len(meal_items)} to check are: 1. {meal_items_str}.
-
-            Example:
-            - Description: "I’m snacking on 110g of mandarins and 125g of light starchy pudding."
-            - Meal Items: Mandarins | Starchy pudding, QUALITATIVE-INFO = Light, PREPARATION-PRODUCTION-PLACE = Food industry prepared
-            - Since 'mandarins' and 'light starchy pudding' are mentioned, the correct response is: YES.
-
-            If ALL items are present conceptually, output 'YES'. If ANY item is missing, output 'NO'.
-            """
-            #breakpoint()
+        if metric: 
+            if who:
+                food_check_prompt = (
+                    f"Here is the description for you to check: {query}\n\n"
+                    f"Does the description mention the meal item '{desc}' in any form, even if the wording is slightly different?\n"
+                    "The item may be described using a similar or common name.\n\n"
+                    "Example:\n"
+                    "- Description: \"I'm snacking on a cup of light starchy pudding, 2 servings of fruit, and 1 bottle of water.\"\n"
+                    "- Meal Item: '125g Starchy pudding, QUALITATIVE-INFO = Light, PREPARATION-PRODUCTION-PLACE = Food industry prepared'\n"
+                    "- Since a cup of light starchy pudding' is mentioned, the correct response is: YES.\n\n"
+                    "If the item is present conceptually with the correct portion, output 'YES'. If it is missing or has wrong portion, output 'NO'."
+                )
+            else:
+                food_check_prompt = (
+                    f"Here is the description for you to check: {query}\n\n"
+                    f"Does the description mention the meal item '{desc}' in any form, even if the wording is slightly different?\n"
+                    "The item may be described using a similar or common name.\n\n"
+                    "Example:\n"
+                    "- Description: \"I've got a lunch that includes 240 grams of water, a thin crust pepperoni pizza slice from school at 142 grams, and 248 grams of ready-to-drink reduced sugar chocolate milk.\"\n"
+                    "- Meal Item: 'Water, bottled, unsweetened'\n"
+                    "- Since 'water' is mentioned, the correct response is: YES.\n"
+                    "- If instead of unsweetened water, the description mentions sweetened water, the correct response is: NO, because sweetened water significantly changes the nutritional content.\n\n"
+                    "If the item is present conceptually with the correct portion, output 'YES'. If it is missing or has wrong portion, output 'NO'."
+                )
         else:
-            food_check_prompt = f"""
-                Here is the description for you to check: {query}
+            lower_unit = amt.lower()
+            if "small" in lower_unit or "medium" in lower_unit or "large" in lower_unit:
+                adjective_check = "Make sure that the description mentions the size of the item, such as 'small', 'medium', or 'large'."
+            else: 
+                adjective_check = ""
+            food_check_prompt = (
+            f"Here is the description for you to check: {query}\n\n"
+            f"Can you please make sure this item: {desc} is mentioned conceptually in the description, with this portion: {amt}?\n"
+            f"The description may use a common or similar name for the item. Also make sure the portion is correctly mentioned. {adjective_check}\n\n"
+            "Here is an example:\n"
+            "- Description: \"For lunch, I had a piece of thin crust pepperoni pizza from school, a bottle of water, and a cup of reduced sugar chocolate milk.\"\n"
+            "- Item to check for: 'Water, bottled, unsweetened', Portion to check for: '1 bottle (12 fl oz)'\n"
+            "- Since 1 bottle of water is mentioned, the correct response is: YES.\n"
+            "- If instead of unsweetened water, the description mentions sweetened water, the correct response is: NO, because sweetened water significantly changes the nutritional content.\n\n"
+            "If the item is present conceptually with the correct portion, output 'YES'. If it is missing or has wrong portion, output 'NO'."
+            )
 
-                Does the description mention all of the meal items in any form, even if the wording is slightly different?
-                The items may be described using alternative or common names. The items to check are: {meal_items_str}.
+        food_check_response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": food_check_prompt}]
+        )
 
-                Example:
-                - Description: "For dinner, I had a fried chicken drumstick, some cooked broccoli from the restaurant, and a fried chicken wing."
-                - Meal Items: Chicken drumstick, fried, coated, skin / coating eaten, from pre-cooked ||  Broccoli, cooked, from restaurant || Chicken wing, fried, coated, from pre-cooked
-                - Since 'fried chicken drumstick', 'cooked broccoli', and 'fried chicken wing' are mentioned in a natural way, the correct response is: YES.
-
-                If ALL items are present conceptually, output 'YES'. If ANY item is missing, output 'NO'.
-            """
-
-    # Query ChatGPT for the first step
-    food_check_response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": food_check_prompt}]
-    )
-
-    # Extract response
-    food_check_result = food_check_response.choices[0].message.content.strip()
+        # Extract response
+        food_check_result = food_check_response.choices[0].message.content.strip()
+        verifications.append(food_check_result)
 
     # print to console
-    if food_check_result == 'NO':
-        print("❌: Filtered query is incorrect")
+    if "NO" in verifications:
+        print(f"❌: Query contains incorrect meal item or incorrect portion")
     else: 
-        print("✅: Filtered query is correct")
+        print(f"✅: Query contains correct meal item and correct portion")
 
-    return food_check_result
+    return "NO" if "NO" in verifications else "YES"
 
 def process_json_objects(file_path): 
     with open(file_path, 'r') as file:
         data = json.load(file)
 
-    metric = 'metric' in file_path
+    metric = 'natural' not in file_path
 
-    for v, obj in enumerate(data):
+    for v, obj in enumerate(data[:1]):
 
         print(f"Object {v+1} of {len(data)}")
         description = obj.get('description')
         unit = obj.get('unit')
         #queries = obj.get('query')
-        if obj.get('filtered_queries'): 
-            queries = obj.get('filtered_queries')
-        else:  
-            queries = obj.get('revised_description')
-            queries = { 
-                "query_1": str(queries)
-            }
+        if metric: 
+            if obj.get('filtered_queries'): 
+                queries = obj.get('filtered_queries')
+            else:  
+                queries = obj.get('revised_description')
+                queries = { 
+                    "query_1": str(queries)
+                }
+        else: 
+            queries = obj.get('query')
 
         verifications = []
 
@@ -153,7 +132,7 @@ def process_json_objects(file_path):
 
 def process_all_files_in_directory(directory):
     for filename in os.listdir(directory):
-        if "metric" in filename and 'who_metric_ARG' in filename and filename.endswith('.json') and 'revised' in filename and not 'verified' in filename:
+        if "natural" in filename and filename.endswith('.json') and not 'verified' in filename:
             file_path = os.path.join(directory, filename)
             process_json_objects(file_path)
 
