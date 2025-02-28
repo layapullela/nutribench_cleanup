@@ -1,0 +1,5 @@
+file, index, reason
+"who_metric_ARG-revised2.json", 13068, "Not sure if we want 5g of eggs for 5 whole eggs, leaving it as 5 whole eggs"
+"who_metric_BFA-revised2.json", 18547, "One of the weights is 0.0g, not sure if we want it included in the final string. Left it in for now."
+"who_metric_BFA-revised2.json", 20078, "One of the weights is 0.0g, not sure if we want it included in the final string. Left it in for now."
+"who_metric_BGR-revised2.json", 20785, "One of the weights is 0.0g, not sure if we want it included in the final string. Left it in for now."
