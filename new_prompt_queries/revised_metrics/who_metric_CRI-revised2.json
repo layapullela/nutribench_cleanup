@@ -2598,7 +2598,7 @@
         "meal_str": "FISH, GRILLED||LEMONADE||MIXED CUCUMBER, CABBAGE, TOMATOES & CARROTS SALAD W/LEMON JUICE &SALT",
         "country": "CRI",
         "query": "{\"description1\": \"For dinner, I'm having 67g of grilled fish, 91g of lemonade, and a 98g mixed salad with cucumbers, cabbage, tomatoes, and carrots, dressed with lemon juice and salt.\", \"description2\": \"I'm eating a 67g portion of grilled fish along with 91g of lemonade and a 98g salad made of cucumbers, cabbage, tomatoes, and carrots with some lemon juice and salt for dinner.\", \"description3\": \"Dinner today includes 67g of grilled fish, 91g of lemonade, and a 98g salad with mixed cucumbers, cabbage, tomatoes, and carrots, seasoned with lemon juice and salt.\", \"description4\": \"For my dinner, I have 67 grams of grilled fish, a 91g glass of lemonade, and a salad that weighs 98g, containing cucumbers, cabbage, tomatoes, and carrots with lemon juice and salt.\", \"description5\": \"I'm enjoying a 67g serving of grilled fish for dinner, paired with 91g of lemonade and a 98g mixed salad of cucumbers, cabbage, tomatoes, and carrots, all tossed with lemon juice and salt.\"}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For dinner, I ate 67.0g of fish, 911.g of lemonade, and 98.0g of mixed cucumber, cabbage, tomatoes, and carrots salad with lemon juice and salt."
     },
     {
         "index": 133869,
