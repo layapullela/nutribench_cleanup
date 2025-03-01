@@ -20,14 +20,9 @@ def verify_meal_descriptions(description, unit, query, metric, who=True):
         unit = eval(unit)
     
     # Clean up the unit strings and combine with descriptions
-    meal_items = []
     verifications = []
     for desc, amt in zip(description, unit):
-        meal_item_combined = f"{amt} {desc}"
-
-        # Convert to meal item string
-        meal_item = desc  # Store original description for printing
-        meal_item_combined = f"{amt} {desc}"  # Combined string for prompt
+        #meal_item_combined = f"{amt} {desc}"
 
         if metric: 
             if who:
@@ -89,46 +84,74 @@ def verify_meal_descriptions(description, unit, query, metric, who=True):
     return "NO" if "NO" in verifications else "YES"
 
 def process_json_objects(file_path): 
+    # Create output filepath
+    output_file_path = file_path.replace('.json', '-verified.json')
+    output_file_path = output_file_path.replace('revised_metrics', 'revised_metrics/item_verification')
+    
+    # Read total length first
     with open(file_path, 'r') as file:
-        data = json.load(file)
+        total_length = len(json.load(file))
+
+    # Check if output directory exists, if not create it
+    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+    
+    # Check if file exists
+    if not os.path.exists(output_file_path):
+        # Create new file and write opening bracket
+        with open(output_file_path, 'w') as outfile:
+            outfile.write('[\n')
+    else:
+        # Append to existing file
+        with open(output_file_path, 'a') as outfile:
+            outfile.write(',\n')
 
     metric = 'natural' not in file_path
 
-    for v, obj in enumerate(data[:1]):
+    # Read input file again to process objects
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+        for v, obj in enumerate(data):
+            
+            print(f"Object {v+1} of {total_length}")
+            
+            description = obj.get('description')
+            unit = obj.get('unit')
+            
+            if metric: 
+                if obj.get('filtered_queries'): 
+                    queries = obj.get('filtered_queries')
+                else:  
+                    queries = obj.get('revised_description')
+                    queries = { 
+                        "query_1": str(queries)
+                    }
+            else: 
+                queries = obj.get('query')
 
-        print(f"Object {v+1} of {len(data)}")
-        description = obj.get('description')
-        unit = obj.get('unit')
-        #queries = obj.get('query')
-        if metric: 
-            if obj.get('filtered_queries'): 
-                queries = obj.get('filtered_queries')
-            else:  
-                queries = obj.get('revised_description')
-                queries = { 
-                    "query_1": str(queries)
-                }
-        else: 
-            queries = obj.get('query')
+            verifications = []
 
-        verifications = []
+            # Convert queries string to dict if queries is a string
+            if isinstance(queries, str):
+                queries = queries.replace('“', '"').replace('”', '"')
+                queries = eval(queries)
 
-        # Convert queries string to dict if queries is a string
-        if isinstance(queries, str):
-            queries = eval(queries)
+            for query_key, query_text in queries.items():
+                verification = verify_meal_descriptions(description, unit, query_text, metric, 'who' in file_path)
+                verifications.append(verification)
+            
+            obj['verification'] = verifications
 
-        for query_key, query_text in queries.items():
-            verification = verify_meal_descriptions(description, unit, query_text, metric, 'who' in file_path)
-            verifications.append(verification)
-        
-        obj['verification'] = verifications
+            # Write object to file
+            with open(output_file_path, 'a') as outfile:
+                json.dump(obj, outfile, indent=4)
+                if v < total_length - 1:  # If not last object
+                    outfile.write(',\n')
+                else:  # If last object
+                    outfile.write('\n')
 
-    # Before the .json in filepath, add 'verification'
-    file_path = file_path.replace('.json', '-verified.json')
-    file_path = file_path.replace('revised_metrics', 'revised_metrics/item_verification')
-
-    with open(file_path, 'w') as file:
-        json.dump(data, file, indent=4)
+    # Write closing bracket
+    with open(output_file_path, 'a') as outfile:
+        outfile.write(']')
 
 def process_all_files_in_directory(directory):
     for filename in os.listdir(directory):
