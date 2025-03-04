@@ -12,7 +12,7 @@
         "meal_str": "Alcoholic beverage, wine, white wine, table type||Apple, peeled, fresh||Bread, white, pastry flour (9% protein, Italian \"tipo 00\")||Butter||Cream, fluid, 35% fat||Lettuce, raw||Parsley, raw||Pasta, tortellini filled with meat, raw||Pork, processed meat, ham, cooked||Veal, raw||Vegetable oil, olive oil||Water, bottled water - Fabia||Wheat flour, white, 9% protein, pastry flour, Italian \"tipo 00\" flour",
         "country": "ITA",
         "query": "{\n    \"description1\": \"For a snack, I had 150g of peeled fresh apple with 73.1g of cooked ham and 20.2g of raw lettuce.\",\n    \"description2\": \"I enjoyed a snack of 45g of white bread with 8.6g of butter and a glass of 0.1g of white wine.\",\n    \"description3\": \"I snacked on 73.2g of raw veal with 22.5g of cream and some parsley, along with 160g of bottled water.\",\n    \"description4\": \"For my snack, I had 73.1g of tortellini filled with meat, drizzled with 5.4g of olive oil.\",\n    \"description5\": \"I had a light snack consisting of 150g of fresh apple, 73.2g of raw veal, and 20.2g of raw lettuce.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For a snack, I had 0.1g of white wine, 150g of a peeled fresh apple, 45g of white pastry flour bread, 8.6g of butter, and 22.5 35% fluid cream. I also enjoyed 20.25g of raw lettuce, 0.2g of raw parsley, 73.1g of meat filled tortellini pasta, 10.3g of cooked ham, 73.2g of raw veal, 16.3g of olive oil, 160g of Fabia bottled water, and 5.4g of 9% protein wheat flour."
     },
     {
         "index": 151463,
@@ -1095,7 +1095,7 @@
         "meal_str": "Alcoholic beverage, wine, red wine, table type||Figs, fresh||Grapefruit, fresh||Lettuce, raw||Peach, fresh||Pizza, pizza with tomato||Pizza, white pizza||Pork, processed meat, ham, raw, cured||Prickly pear, fresh||Spices, not specified||Tomato, salad type, raw||Vinegar||Water, bottled water - Viva",
         "country": "ITA",
         "query": "{\n    \"description1\": \"For a snack, I had 60g of red table wine, along with 176g of fresh figs and 220g of fresh grapefruit.\",\n    \"description2\": \"I enjoyed 130.4g of raw lettuce topped with 137g of fresh peach and 150g of pizza with tomato.\",\n    \"description3\": \"I snacked on 50g of white pizza and 30g of cured ham, paired with 200g of fresh prickly pear.\",\n    \"description4\": \"My snack included 69.6g of raw salad tomatoes, a splash of vinegar, and 48g of bottled water.\",\n    \"description5\": \"I had a mix of 60g of red wine, 176g of figs, and some 220g grapefruit for a refreshing snack.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For a snack, I had 60g of red table wine, 176g of fresh figs, 220g of fresh grapefruit, and 130.4g of raw lettuce, and 137g of fresh peach. I also enjoyed 150g of pizza with tomato, 50g of white pizza, 30g of raw cured ham,200g of fresh prickly pear, 69.6g of raw tomato, 48g of vinegar, and 69.6g of Viva bottled water. "
     },
     {
         "index": 158583,
@@ -1403,7 +1403,7 @@
         "meal_str": "Alcoholic beverage, wine, white wine, table type||Beef, lean beef meat, raw||Bread, white, pastry flour (9% protein, Italian \"tipo 00\")||Butter||Cheese, Parmesan, hard type||Garlic, raw||Meat extract||Orange, fresh||Parsley, raw||Pasta, unenriched, dry, raw||Peas, fresh, raw||Pork, heavy, lean and fat, raw||Turkey, breast, raw||Veal, raw||Vegetable oil, olive oil||Water, bottled water - Levissima||Water, tap water",
         "country": "ITA",
         "query": "{\n    \"description1\": \"For a snack, I have 60g of white bread and 30.5g of raw lean beef. I also have 2.2g of butter and 5g of Parmesan cheese on the side.\",\n    \"description2\": \"I\u2019m snacking on 182g of fresh orange, along with some 43.2g of fresh peas and a bit of raw garlic.\",\n    \"description3\": \"I have 30.5g of raw turkey breast and 30.5g of raw veal for my snack, paired with a splash of olive oil and a little meat extract.\",\n    \"description4\": \"For my snack, I\u2019m having 320g of bottled Levissima water and 285g of tap water to stay hydrated.\",\n    \"description5\": \"I\u2019m enjoying a mix of 0g of white wine and 1.2g of parsley for flavor, alongside my other snack items.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For a snack, I ate 30.5g of raw lean beef, 60g of white pastry flour bread, 2.2g of butter, 5.0g of parmesan cheese, 1.2g of meat extract, 182g of frehs organce, 0.1g of raw parsley, 43.2g of raw pasta, 36.2g of fresh raw peas, 30.5g of raw heavy pork, 30.5g of raw turkey breast, 30.5g of raw veal, 2.0g of olive oil, 320g of Levissima bottled water, and 285g of tap water."
     },
     {
         "index": 145898,
@@ -2136,7 +2136,7 @@
         "meal_str": "Alcoholic beverage, wine, red wine, table type||Apple, unpeeled, fresh||Bread, white, pastry flour, \"Rosetta\", traditional bread from Italy||Cream, fluid, 35% fat||Garlic, raw||Onion, raw||Parsley, raw||Pasta, unenriched, dry, raw||Peas, fresh, raw||Pork, heavy, lean and fat, raw||Pork, processed meat, ham, cooked||Vegetable oil, olive oil",
         "country": "ITA",
         "query": "{\n    \"description1\": \"For a snack, I had 320g of red table wine, along with 150g of fresh unpeeled apple and 45g of traditional Italian bread.\",\n    \"description2\": \"I enjoyed a 50g serving of cream, mixed with 3.1g of raw onion and 1.4g of parsley as part of my snack.\",\n    \"description3\": \"I also had 80g of dry raw pasta and 24g of fresh raw peas for a little something extra.\",\n    \"description4\": \"There was 95g of raw pork, both lean and fatty, along with 6g of cooked ham in my snack.\",\n    \"description5\": \"I used some olive oil for flavoring, adding it to the mix as I snacked.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For a snack, I had 320g of red table wine,  150g of fresh apple, and 45g of traditional italian bread. I also had 50 go 35% fat cream, 0.1g of raw garlic, 3.1g of raw onion, 1.4g of parsley, 80.0g of unenriched raw pasta, 24.0g of fresh raw peas, 95.0g of raw pork, 6g of cooked ham, and 26.7g of olive oil."
     },
     {
         "index": 142440,
@@ -2464,7 +2464,7 @@
         "meal_str": "Alcoholic beverage, wine, red wine, table type||Alcoholic beverage, wine, white wine, table type||Cheese, Caciocavallo||Coffee, brewed, espresso, homemade, without sugar||Onion, raw||Pork, processed meat, ham, raw, cured||Rice, white, raw||Vegetable oil, olive oil||Water, bottled water - Leggera",
         "country": "ITA",
         "query": "{\n    \"description1\": \"For a snack, I had 120g of red wine, 75g of Caciocavallo cheese, and 60g of homemade espresso without sugar.\",\n    \"description2\": \"I enjoyed 320g of bottled water, 30g of cured ham, and 2.7g of raw onion as a little snack.\",\n    \"description3\": \"I had 0g of white wine, 54.8g of raw white rice, and 8.2g of olive oil for a quick bite.\",\n    \"description4\": \"For my snack, I had 120g of red wine, 60g of espresso, and 75g of Caciocavallo cheese.\",\n    \"description5\": \"I also had 30g of raw cured ham, 2.7g of onion, and 320g of bottled water while snacking.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For a snack, I had 120g of red wine, 75g of caciocavallo cheese, 60g of homemade espresso with no sugar, 2.7g of raw onions, 30g of cured pork, 54.8g of raw white rice, 8.2g of olive oil, and 320g of Leggera bottled water."
     },
     {
         "index": 146437,
