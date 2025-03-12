@@ -12,6 +12,10 @@ client = OpenAI(
     api_key=api_key,
 )
 
+with open('sugar_reductions.txt', 'r') as f:
+    sugar_reductions = f.readlines()
+    sugar_reductions = [x.strip() for x in sugar_reductions]
+
 def verify_meal_descriptions(description, unit, query, metric, who=True):
     # Convert string representations of lists to actual lists if needed
     if isinstance(description, str):
@@ -45,26 +49,46 @@ def verify_meal_descriptions(description, unit, query, metric, who=True):
                     "- Description: \"I've got a lunch that includes 240 grams of water, a thin crust pepperoni pizza slice from school at 142 grams, and 248 grams of ready-to-drink reduced sugar chocolate milk.\"\n"
                     "- Meal Item: 'Water, bottled, unsweetened'\n"
                     "- Since 'water' is mentioned, the correct response is: YES.\n"
-                    "- If instead of unsweetened water, the description mentions sweetened water, the correct response is: NO, because sweetened water significantly changes the nutritional content.\n\n"
+                    "- If instead of unsweetened water, the description mentions sweetened water, the correct response is: NO, because sweetened water significantly changes the carbohydrate content.\n\n"
                     "If the item is present conceptually with the correct portion, output 'YES'. If it is missing or has wrong portion, output 'NO'."
                 )
         else:
             lower_unit = amt.lower()
-            if "small" in lower_unit or "medium" in lower_unit or "large" in lower_unit:
-                adjective_check = "Make sure that the description mentions the size of the item, such as 'small', 'medium', or 'large'."
-            else: 
-                adjective_check = ""
-            food_check_prompt = (
-            f"Here is the description for you to check: {query}\n\n"
-            f"Can you please make sure this item: {desc} is mentioned conceptually in the description, with this portion: {amt}?\n"
-            f"The description may use a common or similar name for the item. Also make sure the portion is correctly mentioned. {adjective_check}\n\n"
-            "Here is an example:\n"
-            "- Description: \"For lunch, I had a piece of thin crust pepperoni pizza from school, a bottle of water, and a cup of reduced sugar chocolate milk.\"\n"
-            "- Item to check for: 'Water, bottled, unsweetened', Portion to check for: '1 bottle (12 fl oz)'\n"
-            "- Since 1 bottle of water is mentioned, the correct response is: YES.\n"
-            "- If instead of unsweetened water, the description mentions sweetened water, the correct response is: NO, because sweetened water significantly changes the nutritional content.\n\n"
-            "If the item is present conceptually with the correct portion, output 'YES'. If it is missing or has wrong portion, output 'NO'."
-            )
+            lower_desc = desc.lower()
+
+            # find which word is in the amt and make sure its in the query
+            sizes = ['mini', 'miniature', 'small', 'medium', 'large']
+            for size in sizes:
+                if size in lower_unit and size not in query:
+                    verifications.append("NO")
+                    break
+
+            global sugar_reduction 
+            for sugar_reduction in sugar_reductions:    
+                if sugar_reduction in lower_desc and sugar_reduction not in query:
+                    if sugar_reduction == "sugar free" and "sugar-free" in query:
+                        continue
+                    if (sugar_reduction == "unsweetened" or sugar_reduction == "sweetened") and "water" in lower_desc: 
+                        continue
+                    verifications.append("NO")
+                    break
+
+            food_check_prompt = f"""
+            Determine if the sentence contains the specified meal item and portion.
+
+            Check:
+            - Meal Item: {desc}
+            - Portion: {amt}
+
+            Sentence: {query}
+
+            Rules:
+            - It is okay if sentence does not contain all details of the meal item, as long as it is clearly mentioned. The portion should be clearly mentioned ('1 tbsp. of ketchup' instead of 'some ketchup'), but may be summarized or expressed with a common name (e.g. '1 cup of water' can be expressed as 'a glass of water', 'a single serving bag' can be summarized as 'a bag').
+
+            Output:
+            - YES: if the meal item and its portion are present.
+            - NO: otherwise.
+            """
 
         food_check_response = client.chat.completions.create(
             model="gpt-4o-mini",

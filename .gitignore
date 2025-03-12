@@ -3,3 +3,9 @@ api_key.txt
 nb.ipynb
 count_queries.py
 double_fix_missing_metrics.py
+new_prompt_queries/revised_metrics/item_verification/meal_natural_queries-verified.json
+test.py
+filter_queries.py
+new_prompt_queries/revised_metrics/meal_natural_queries.json
+extract_sugar_descriptors.py
+
