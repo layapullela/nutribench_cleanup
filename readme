@@ -1,3 +1,15 @@
-1. dedup;icate: remove the samples with same food names.
-  create meal_str by sorting
-2. verification --> have "query_processed" as the final verified meal description
+# NutriBench Dataset (Version 2)
+
+This repository contains the cleaned version of the NutriBench dataset with duplicate meals removed.
+
+## Data Structure
+
+For each meal item in the dataset:
+- `filtered_query`: Contains queries that met our checking criteria for accurate meal item + portion descriptions
+- `revised_query`: Only appears when `filtered_query` is empty (no original queries passed criteria), containing manually rewritten meal descriptions
+
+## Data Location
+
+Clean, manually verified data is available in the `new_prompt_queries` folder:
+1. `revised_metric/` - Contains metric measurement data
+2. `revised_natural/` - Contains natural language measurement data
