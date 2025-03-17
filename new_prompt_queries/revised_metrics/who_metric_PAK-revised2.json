@@ -2772,7 +2772,7 @@
         "meal_str": "Chapatti, wheat flour without ghee||Fish, perch, curry",
         "country": "PAK",
         "query": "{\n    \"description1\": \"For dinner, I had a 63g chapatti made from wheat flour without ghee and 51g of perch fish curry.\",\n    \"description2\": \"I enjoyed a 63g wheat chapatti alongside 51g of curry made with perch fish for dinner.\",\n    \"description3\": \"For my dinner, I had a chapatti weighing 63g and 51g of perch fish curry.\",\n    \"description4\": \"Dinner consisted of a 63g chapatti without ghee and 51g of curry with perch fish.\",\n    \"description5\": \"I had 63g of chapatti and 51g of perch curry for dinner.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For dinner, I am having 63.1g of wheat flour with ghe chapatti and 50.9g of perch fish curry."
     },
     {
         "index": 210731,

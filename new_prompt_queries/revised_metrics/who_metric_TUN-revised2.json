@@ -117,7 +117,7 @@
         "meal_str": "Cola beverages, caffeinic||Couscous with lamb and vegetable oil with raisins||Figs||Watermelons",
         "country": "TUN",
         "query": "{\"description1\": \"For dinner, I'm having 200g of caffeinated cola, 309g of couscous with lamb, vegetable oil, and raisins, along with 80g of figs and 100g of watermelon.\", \"description2\": \"I'm enjoying a dinner that includes 200 grams of cola, 309g of couscous mixed with lamb and veggies, plus 80g of figs and a 100g slice of watermelon.\", \"description3\": \"For my dinner, I have 200g of cola, a 309g serving of couscous with lamb and some raisins, along with 80g of figs and 100g of watermelon.\", \"description4\": \"At dinner, I\u2019m having 200 grams of caffeinated cola, 309g of couscous with lamb and raisins, plus 80g of figs and 100g of watermelon.\", \"description5\": \"I'm sitting down to dinner with 200g of cola, 309g of couscous with lamb and vegetable oil, 80g of figs, and 100g of watermelon.\"}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For dinner, I am having 200g of cola beverages, 309.1g of couscous with lamb and vegetable oil with raisins, 80g of rigs, and 100g of watermelons."
     },
     {
         "index": 300762,
@@ -1545,7 +1545,7 @@
         "meal_str": "Peach||Potato Stew With Chicken And Vegetable Oil||Tunisian Salad With Olive Oil||baguette bread",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For dinner, I'm having a 240g peach along with 201g of potato stew with chicken and vegetable oil, a 110g Tunisian salad with olive oil, and 200g of baguette bread.\",\n    \"description2\": \"I'm enjoying a 240-gram peach, 201g of chicken potato stew, 110g of Tunisian salad with olive oil, and a 200g baguette for dinner.\",\n    \"description3\": \"For my dinner, I have a peach weighing 240g, some potato stew with chicken and vegetable oil at 201g, a 110g serving of Tunisian salad with olive oil, and 200g of baguette bread.\",\n    \"description4\": \"I\u2019m having a 240g peach, plus 201g of potato stew with chicken, a 110g Tunisian salad dressed with olive oil, and 200g of baguette for dinner.\",\n    \"description5\": \"Tonight's dinner includes a 240g peach, 201g of potato stew made with chicken and vegetable oil, a 110g Tunisian salad with olive oil, and 200g of baguette bread.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For dinner, I am having 240g of Peaches, 201.1g of potato stew with chicekn and vegetable oil, 110g of tunisian salad with olive oil, and 200g of baguette bread."
     },
     {
         "index": 309465,
@@ -2364,7 +2364,7 @@
         "meal_str": "Coca Cola||Couscous With Chicken And Corn Oil||Peach",
         "country": "TUN",
         "query": "{\n    \"description1\": \"For lunch, I'm having 160g of Coca Cola, a serving of couscous with chicken and corn oil that weighs about 748g, and a peach that weighs 160g.\",\n    \"description2\": \"I just finished a lunch that included 160 grams of Coca Cola, 748g of couscous with chicken and corn oil, and a 160g peach.\",\n    \"description3\": \"Today for lunch, I had 160g of Coca Cola alongside 748g of couscous with chicken and corn oil, plus a 160g peach.\",\n    \"description4\": \"At lunch, I enjoyed 160 grams of Coca Cola, a large serving of couscous with chicken and corn oil weighing around 748g, and a peach that was 160g.\",\n    \"description5\": \"I had a lunch with 160g of Coca Cola, a hefty 748g of couscous with chicken and corn oil, and a 160g peach.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For lunch, I am having 160g of Coca Cola, 748.4g of couscous with chicken and corn oil, and 160g of peach."
     },
     {
         "index": 300418,

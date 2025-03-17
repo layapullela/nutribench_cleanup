@@ -244,7 +244,7 @@
         "meal_str": "Beef Lung Fried||Instant Coffee Powder||Rice Noodles Fried||Tap Water",
         "country": "MYS",
         "query": "{\n    \"description1\": \"For breakfast, I'm having 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles along with 200g of tap water.\",\n    \"description2\": \"I just made myself a breakfast of 55 grams of beef lung fried, with 20g of instant coffee powder and 193g of fried rice noodles. I'm also drinking 200g of tap water.\",\n    \"description3\": \"For my breakfast, I have 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles, plus 200g of tap water to drink.\",\n    \"description4\": \"I'm starting my day with 55 grams of beef lung fried, 20g of instant coffee powder, and 193g of fried rice noodles, and I'm having 200g of tap water on the side.\",\n    \"description5\": \"This morning, I prepared 55g of fried beef lung, 20g of instant coffee powder, and 193g of fried rice noodles, and I'm drinking 200g of tap water.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For breakfast, I am havign 55g of fried beef lunch, 20g of instant coffee powder, 193.15g of fried rice noodles, and 200g of tap water."
     },
     {
         "index": 208566,

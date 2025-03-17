@@ -992,7 +992,7 @@
         "meal_str": "Common seabream, stewed||Corncob, roasted||Rice based dish with vegetables",
         "country": "STP",
         "query": "{\n    \"description1\": \"For dinner, I'm having 115g of stewed common seabream, 45g of roasted corn on the cob, and a rice-based dish with 67g of vegetables.\",\n    \"description2\": \"I\u2019ve got a dinner plate with 115 grams of stewed common seabream, 45 grams of roasted corn, and 67g of a vegetable rice dish.\",\n    \"description3\": \"Tonight\u2019s dinner includes 115g of stewed common seabream, 45g of roasted corn, and a vegetable rice dish that weighs 67 grams.\",\n    \"description4\": \"For my dinner, I'm eating 115 grams of stewed common seabream, along with 45g of roasted corn and a rice dish with 67g of vegetables.\",\n    \"description5\": \"I'm having dinner that consists of 115g of stewed common seabream, 45 grams of roasted corn on the cob, and a rice dish with 67g of vegetables.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For dinner, I am having 115g of stewed common seabream, 45g of roasted corncob, and 67.1g of a rice based dish with vegetables."
     },
     {
         "index": 293603,

@@ -2212,7 +2212,7 @@
         "meal_str": "BRANDY, PLUM||BREAD||CABBAGE ROLLS STUFFED WITH MEAT||CHICKEN SOUP||WINE",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For lunch, I'm having 50g of plum brandy, 100g of bread, 434g of cabbage rolls stuffed with meat, 458g of chicken soup, and a 350g glass of wine.\",\n    \"description2\": \"I had a lunch that included 50 grams of plum brandy, a 100g slice of bread, 434g of stuffed cabbage rolls, 458g of chicken soup, and 350g of wine.\",\n    \"description3\": \"My lunch consists of 50g of plum brandy, 100g of bread, a hefty 434g of cabbage rolls with meat, 458g of chicken soup, and a 350g serving of wine.\",\n    \"description4\": \"I\u2019m enjoying lunch with 50 grams of plum brandy, 100 grams of bread, 434 grams of meat-stuffed cabbage rolls, 458 grams of chicken soup, and 350 grams of wine.\",\n    \"description5\": \"Today for lunch, I have 50g of plum brandy, 100g of bread, 434g of cabbage rolls loaded with meat, 458g of chicken soup, and a 350g drink of wine.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For lunch, I had 50g of plum brandy, 100g of bread, 434.3g of cabbage rolls stuffed with meat, 458.2g of chicken soup, and 350g of wine."
     },
     {
         "index": 290936,
@@ -3719,7 +3719,7 @@
         "meal_str": "BREAD||COFFEE||EGGPLANT VEGETABLE STEW||TOMATO",
         "country": "ROU",
         "query": "{\n    \"description1\": \"For breakfast, I had 25 grams of bread, 75 grams of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.\",\n    \"description2\": \"I enjoyed a breakfast of 25g of bread paired with 75g of coffee, along with 30g of eggplant stew and 111g of tomato.\",\n    \"description3\": \"This morning, I had 25 grams of bread, 75 grams of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.\",\n    \"description4\": \"I started my day with 25g of bread, 75g of coffee, 30g of eggplant stew, and 111g of tomato for breakfast.\",\n    \"description5\": \"For breakfast, I had 25 grams of bread, a 75-gram cup of coffee, 30g of eggplant vegetable stew, and 111 grams of tomato.\"\n}",
-        "revised_description": "FIX ME: Unable to adjust the description automatically"
+        "revised_description": "For breakfast, I am having bread, 75g of coffee, 30.1g of eggplant vegetable stew, and 111g of tomato."
     },
     {
         "index": 278353,
