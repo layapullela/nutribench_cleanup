@@ -6,7 +6,7 @@ This repository contains the cleaned version of the NutriBench dataset with dupl
 
 For each meal item in the dataset:
 - `filtered_query`: Contains queries that met our checking criteria for accurate meal item + portion descriptions
-- `revised_query`: Only appears when `filtered_query` is empty (no original queries passed criteria), containing manually rewritten meal descriptions
+- `revised_description`: Only appears when `filtered_query` is empty (no original queries passed criteria), containing manually rewritten meal descriptions
 
 ## Data Location
 
