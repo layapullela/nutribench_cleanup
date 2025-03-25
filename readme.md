@@ -5,7 +5,7 @@ The `nutribench_v2.csv` dataset is an international collection of meal descripti
 
 ## Dataset Structure
 The dataset contains the following columns:
-- `description`: A textual description of the meal.
+- `description`: A list of textual descriptions of each meal item in the meal.
 - `carb`: The carbohydrate content of the meal (in grams).
 - `fat`: The fat content of the meal (in grams).
 - `energy`: The energy content of the meal (in kilocalories).
