@@ -1,18 +1,21 @@
-# NutriBench Dataset (Version 2)
+# Nutribench_v2 Dataset
 
-This repository contains the cleaned version of the NutriBench dataset with duplicate meals removed.
+## Overview
+The `nutribench_v2.csv` dataset is an international collection of meal descriptions, nutritional information, and associated metadata. 
 
-## Data Structure
+## Dataset Structure
+The dataset contains the following columns:
+- `description`: A textual description of the meal.
+- `carb`: The carbohydrate content of the meal (in grams).
+- `fat`: The fat content of the meal (in grams).
+- `energy`: The energy content of the meal (in kilocalories).
+- `protein`: The protein content of the meal (in grams).
+- `country`: The country associated with the meal. (USA meals are from WWEIA dataset, international meals from WHO datasets)
+- `amount_type`: Indicates whether the measurements are in metric units (`metric`) or natural units (`natural`).
+- `queries`: A natural language description of the meal.
 
-For each meal item in the dataset:
-- `filtered_query`: Contains queries that met our checking criteria for accurate meal item + portion descriptions
-- `revised_description`: Only appears when `filtered_query` is empty (no original queries passed criteria), containing manually rewritten meal descriptions
+## Acknowledgements
+Laya Pullela Sophia Mirrashidi processed and manually verified these data to compile nutribench_v2.
 
-## Data Location
-
-Clean, manually verified data is available in the `new_prompt_queries` folder:
-1. `revised_metric/` - Contains metric measurement data
-2. `revised_natural/` - Contains natural language measurement data
-
-
-Contributors to nutribench_v2: Laya Pullela, Sophia Mirrashidi, Andong Hua, Mehak Dhaliwal
+## License
+This dataset is provided under the [MIT License](https://opensource.org/licenses/MIT).
