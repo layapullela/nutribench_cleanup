@@ -13,3 +13,6 @@ For each meal item in the dataset:
 Clean, manually verified data is available in the `new_prompt_queries` folder:
 1. `revised_metric/` - Contains metric measurement data
 2. `revised_natural/` - Contains natural language measurement data
+
+
+Contributors to nutribench_v2: Laya Pullela, Sophia Mirrashidi, Andong Hua, Mehak Dhaliwal
