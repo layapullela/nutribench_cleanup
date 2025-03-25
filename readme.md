@@ -15,7 +15,7 @@ The dataset contains the following columns:
 - `queries`: A natural language description of the meal.
 
 ## Acknowledgements
-Laya Pullela Sophia Mirrashidi processed and manually verified these data to compile nutribench_v2.
+Laya Pullela and Sophia Mirrashidi processed and manually verified these data to compile nutribench_v2.
 
 ## License
 This dataset is provided under the [MIT License](https://opensource.org/licenses/MIT).
